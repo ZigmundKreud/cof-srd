@@ -1,5 +1,5 @@
-# cof-srd
-Les compendiums du SRD de Chroniques Oubliées Fantasy
+# Chroniques Oubliées Fantasy SRD
+Module Foundry VTT contenant les compendiums du SRD de Chroniques Oubliées Fantasy
 
 <img src="https://github.com/ZigmundKreud/cof-srd/raw/main/ui/logo-banner.webp">
 
