@@ -1,7 +1,7 @@
 # cof-srd
 Les compendiums du SRD de Chroniques Oubliées Fantasy
 
-<img src="https://github.com/ZigmundKreud/cof-srd/raw/master/ui/logo-banner.webp">
+<img src="https://github.com/ZigmundKreud/cof-srd/raw/main/ui/logo-banner.webp">
 
 Ce programme est fait pour être exécuté dans le moteur [Foundry VTT](https://foundryvtt.com/).
 
