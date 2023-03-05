@@ -1,17 +1,33 @@
 {
-  "name": "cof-srd",
+  "id": "cof-srd",
   "title": "Chroniques Oubliées Fantasy - SRD",
   "description": "Compendiums du SRD de Chroniques Oubliées Fantasy",
-  "version": "10.291.1",
-"compatibility": {
+  "version": "10.291.2",
+  "compatibility": {
     "minimum": 10,
     "verified": "10.291",
     "maximum": 10
   },
-  "system": [
-    "cof"
+  "relationships": {
+    "systems": [
+      {
+        "id": "cof",
+        "type": "system",
+        "manifest": "",
+        "compatibility": {
+          "verified": "10.291.1"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Zigmund"
+    },
+    {
+      "name": "Kristov"
+    }
   ],
-  "author": "Zigmund",
   "packs": [
     {
       "name": "capacities",
@@ -96,6 +112,6 @@
   ],
   "url": "https://github.com/ZigmundKreud/cof-srd.git",
   "manifest": "https://raw.githubusercontent.com/ZigmundKreud/cof-srd/main/module.json",
-  "download": "https://github.com/ZigmundKreud/cof-srd/archive/refs/tags/10.291.1.zip",
+  "download": "https://github.com/ZigmundKreud/cof-srd/archive/refs/tags/10.291.2.zip",
   "license": "licence.txt"
 }
