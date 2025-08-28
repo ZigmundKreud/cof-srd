@@ -1,0 +1,57 @@
+_id: emRjUXZ82hBUEtvw
+name: Voie des explosifs
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-explosifs.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-des-explosifs
+  description: >-
+    <h1>Note</h1><p>Chaque jour l’Arquebusier peut utiliser un nombre de charges
+    explosives égal au Rang dans la voie. Ces charges permettent indifféremment
+    d’utiliser les capacités Démolition, Piège explosif ou Boulet explosif.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: I3uAsBAeQcEqBBkT
+      name: Chimiste
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-1.webp
+      sourceId: Compendium.cof-srd.capacities.I3uAsBAeQcEqBBkT
+    - _id: 62YdtA7vwnf8311Z
+      name: Démolition
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-2.webp
+      sourceId: Compendium.cof-srd.capacities.62YdtA7vwnf8311Z
+    - _id: GTeAouyQlqganfRW
+      name: Poudre puissante
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-3.webp
+      sourceId: Compendium.cof-srd.capacities.GTeAouyQlqganfRW
+    - _id: xkFuyj29dnid5kTx
+      name: Piège explosif
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-4.webp
+      sourceId: Compendium.cof-srd.capacities.xkFuyj29dnid5kTx
+    - _id: FbM1uPNqaOExdcAv
+      name: Boulet explosif
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-5.webp
+      sourceId: Compendium.cof-srd.capacities.FbM1uPNqaOExdcAv
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!emRjUXZ82hBUEtvw'

@@ -1,0 +1,54 @@
+_id: jDRVIjOkA0r2x3bK
+name: Voie du saltimbanque
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-saltimbanque.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-saltimbanque
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: niisQhUS8q2HyS0H
+      name: Acrobate
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-saltimbanque-1.webp
+      sourceId: Compendium.cof-srd.capacities.niisQhUS8q2HyS0H
+    - _id: cKlzyjmTpsms7Bfx
+      name: Grâce féline
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-saltimbanque-2.webp
+      sourceId: Compendium.cof-srd.capacities.cKlzyjmTpsms7Bfx
+    - _id: hB2XgOti9aFDB3Oc
+      name: Lanceur de couteau
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-saltimbanque-3.webp
+      sourceId: Compendium.cof-srd.capacities.hB2XgOti9aFDB3Oc
+    - _id: VtMnOX8cPEv32oZq
+      name: Esquive acrobatique
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-saltimbanque-4.webp
+      sourceId: Compendium.cof-srd.capacities.VtMnOX8cPEv32oZq
+    - _id: S5R9AozhpKuiPVSP
+      name: Liberté d'action
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-saltimbanque-5.webp
+      sourceId: Compendium.cof-srd.capacities.S5R9AozhpKuiPVSP
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!jDRVIjOkA0r2x3bK'

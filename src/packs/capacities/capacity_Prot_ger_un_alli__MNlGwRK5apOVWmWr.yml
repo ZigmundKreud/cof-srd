@@ -1,0 +1,82 @@
+_id: MNlGwRK5apOVWmWr
+name: Protéger un allié
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-1.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: proteger-un-allie
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Guerrier accorde le Mod. de <strong>DEF</strong> de son bouclier
+    &agrave; un compagnon de son choix qui se trouve juste &agrave;
+    c&ocirc;t&eacute; de lui (il conserve ce bonus pour lui-m&ecirc;me aussi).
+    <br />Il peut changer de compagnon &agrave; chaque tour durant sa phase
+    d'Initiative. C'est une action gratuite.</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie du
+    bouclier</strong></span></p>
+
+    <p>Pour utiliser les capacit&eacute;s de cette voie,&nbsp;le guerrier doit
+    obligatoirement manier&nbsp;un bouclier.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!MNlGwRK5apOVWmWr'

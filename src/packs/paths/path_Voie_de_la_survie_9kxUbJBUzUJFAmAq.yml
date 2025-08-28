@@ -1,0 +1,54 @@
+_id: 9kxUbJBUzUJFAmAq
+name: Voie de la survie
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-survie.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-survie
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: pHmymp9jrXq5Tqdq
+      name: Endurant
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-survie-1.webp
+      sourceId: Compendium.cof-srd.capacities.pHmymp9jrXq5Tqdq
+    - _id: Vuz99DsLluFnzhF3
+      name: Nature nourricière
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-survie-2.webp
+      sourceId: Compendium.cof-srd.capacities.Vuz99DsLluFnzhF3
+    - _id: eHmcs72DEMVjSeyj
+      name: Grand pas
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-survie-3.webp
+      sourceId: Compendium.cof-srd.capacities.eHmcs72DEMVjSeyj
+    - _id: RHNfDDPkfZuUQGdI
+      name: Increvable
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-survie-4.webp
+      sourceId: Compendium.cof-srd.capacities.RHNfDDPkfZuUQGdI
+    - _id: 7lqDlyZAUpruGnEU
+      name: Constitution héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-survie-5.webp
+      sourceId: Compendium.cof-srd.capacities.7lqDlyZAUpruGnEU
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!9kxUbJBUzUJFAmAq'

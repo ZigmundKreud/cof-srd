@@ -1,0 +1,743 @@
+_id: gQfXoLafFOKNx4d4
+name: Squelette de géant
+type: encounter
+sort: 100001
+flags: {}
+img: /modules/cof-srd/ui/icons/creature.webp
+items:
+  - _id: lZNkE5A4d8u7VbJL
+    name: Sans esprit (Squelette de géant)
+    type: capacity
+    sort: 100000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/sans-esprit-squelette-de-geant.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: sans-esprit-squelette-de-geant
+      description: >-
+        <h1>Description</h1><p>aucune âme n’habite la carcasse morte, le
+        squelette est immunisé à tous les sorts qui affectent l’esprit (INT, SAG
+        et CHA).</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!gQfXoLafFOKNx4d4.lZNkE5A4d8u7VbJL'
+  - _id: V2PrxP07PSSsoSv6
+    name: Vitalité surnaturelle (Squelette de géant)
+    type: capacity
+    sort: 200000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/vitalite-surnaturelle-squelette-de-geant.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: vitalite-surnaturelle-squelette-de-geant
+      description: <h1>Description</h1><p>Voir Voie des créatures magiques rang 2</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!gQfXoLafFOKNx4d4.V2PrxP07PSSsoSv6'
+  - _id: p6KZnQdOkELkNhAa
+    name: Réduction des DM (Squelette de géant)
+    type: capacity
+    sort: 300000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/reduction-des-dm-squelette-de-geant.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: reduction-des-dm-squelette-de-geant
+      description: >-
+        <h1>Description</h1><p>tous les DM infligés à un squelette sont réduits
+        de 10 points sauf au cas où l’attaquant utilise une arme contondante.
+        Une arme contondante est une arme qui utilise la force de l’impact pour
+        blesser comme une masse ou un marteau à l’inverse d’une épée
+        (tranchante) ou d’une flèche (perçante).</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!gQfXoLafFOKNx4d4.p6KZnQdOkELkNhAa'
+  - _id: TWxxalJsj3H0pvbI
+    name: Réduction des <strong>DM</strong>
+    type: capacity
+    sort: 400000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: reduction-des-lessstronggreaterdmlessstronggreater
+      description: >-
+        <h1>Description</h1><p>La créature est peu sensible aux
+        <strong>DM</strong> provoqués par les armes, le métal rebondi sur elle
+        comme un vulgaire morceau de bois ou alors la créature guérit
+        immédiatement. Elle obtient une réduction des <strong>DM</strong> (RD)
+        de 5, ce score est retranché à tous les <strong>DM</strong> subits.
+        Choisissez un type d’arme qui ignore cette réduction : un certain métal
+        ou un certain type d’armes ou encore la magie (armes et sorts). Par
+        exemple les masses sur un squelette ou les armes en argent sur un
+        lycanthrope. Vous pouvez augmenter cette réduction des
+        <strong>DM</strong> à 10 au rang 2 et à 15 au rang 3.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!gQfXoLafFOKNx4d4.TWxxalJsj3H0pvbI'
+  - _id: Y6mephOMWkwBf8LA
+    name: Vitalité surnaturelle
+    type: capacity
+    sort: 500000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: vitalite-surnaturelle
+      description: >-
+        <h1>Description</h1><p>La créature guérit à un rythme fantastique, elle
+        récupère 5 PV à la fin de chaque tour. Il existe parfois une source de
+        <strong>DM</strong> qui permet d’empêcher cette régénération (le feu
+        pour les trolls par exemple). Alternativement remplacez simplement la
+        régénération par une vitalité extraordinaire (c’est souvent le cas des
+        mort-vivants ou des créatures artificielles) : doublez ses PV ou ajoutez
+        +20 PV (si ces PV de base sont inférieurs à 20).</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!gQfXoLafFOKNx4d4.Y6mephOMWkwBf8LA'
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  stats:
+    str:
+      key: str
+      label: COF.stats.str.label
+      abbrev: COF.stats.str.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 6
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    dex:
+      key: dex
+      label: COF.stats.dex.label
+      abbrev: COF.stats.dex.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 1
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    con:
+      key: con
+      label: COF.stats.con.label
+      abbrev: COF.stats.con.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 6
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    int:
+      key: int
+      label: COF.stats.int.label
+      abbrev: COF.stats.int.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: -4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    wis:
+      key: wis
+      label: COF.stats.wis.label
+      abbrev: COF.stats.wis.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: -2
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    cha:
+      key: cha
+      label: COF.stats.cha.label
+      abbrev: COF.stats.cha.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: -4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+  attacks:
+    melee:
+      key: melee
+      label: COF.attacks.melee.label
+      abbrev: COF.attacks.melee.abbrev
+      stat: '@stats.str.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    ranged:
+      key: ranged
+      label: COF.attacks.ranged.label
+      abbrev: COF.attacks.ranged.abbrev
+      stat: '@stats.dex.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    magic:
+      key: magic
+      label: COF.attacks.magic.label
+      abbrev: COF.attacks.magic.abbrev
+      stat: '@stats.int.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+  description: >-
+    <h1>Description</h1><p>Un squelette d’ogre ou de troll de presque 3 mètres
+    de haut…</p><p><strong>Milieu : </strong><p>spécial</p>
+  attributes:
+    hp:
+      key: hp
+      label: COF.attributes.hp.label
+      abbrev: COF.attributes.hp.abbrev
+      base: 60
+      bonus: 0
+      value: 60
+      max: 60
+    def:
+      key: def
+      label: COF.attributes.def.label
+      abbrev: COF.attributes.def.abbrev
+      base: 16
+      bonus: 0
+      malus: 0
+      value: 16
+    init:
+      key: init
+      label: COF.attributes.init.label
+      abbrev: COF.attributes.init.abbrev
+      base: 12
+      bonus: 0
+      malus: 0
+      value: 12
+    dr:
+      key: dr
+      label: COF.attributes.dr.label
+      abbrev: COF.attributes.dr.abbrev
+      enabled: true
+      base:
+        value: 10
+        ignored: armes contondantes
+      bonus:
+        value: 0
+        ignored: ''
+      value: 10
+    rp:
+      key: rp
+      label: COF.attributes.rp.label
+      abbrev: COF.attributes.rp.abbrev
+      enabled: false
+      base: 5
+      bonus: 0
+      value: 5
+      max: 5
+    fp:
+      key: fp
+      label: COF.attributes.fp.label
+      abbrev: COF.attributes.fp.abbrev
+      enabled: false
+      base: 3
+      bonus: 0
+      value: 3
+      max: 3
+    mp:
+      key: mp
+      label: COF.attributes.mp.label
+      abbrev: COF.attributes.mp.abbrev
+      enabled: false
+      base: 0
+      bonus: 0
+      value: 0
+      max: 0
+    hd:
+      key: hd
+      label: COF.attributes.hd.label
+      abbrev: COF.attributes.hd.abbrev
+      value: 1d4
+    overload:
+      key: over
+      label: COF.attributes.over.label
+      abbrev: COF.attributes.over.abbrev
+      misc: 0
+    madness:
+      key: fp
+      label: COF.attributes.madness.label
+      abbrev: COF.attributes.madness.abbrev
+      enabled: false
+      base: 0
+      value: 0
+  currency:
+    pp:
+      key: pp
+      label: COF.currency.pp.label
+      abbrev: COF.currency.pp.abbrev
+      qty: 0
+    gp:
+      key: gp
+      label: COF.currency.gp.label
+      abbrev: COF.currency.gp.abbrev
+      qty: 0
+    sp:
+      key: sp
+      label: COF.currency.sp.label
+      abbrev: COF.currency.sp.abbrev
+      qty: 0
+    cp:
+      key: cp
+      label: COF.currency.cp.label
+      abbrev: COF.currency.cp.abbrev
+      qty: 0
+  alert:
+    type: error
+    msg: ''
+  details:
+    gender: ''
+    age: ''
+    weight: ''
+    height: ''
+    eyes: ''
+    hair: ''
+    size: big
+    senses: ''
+    languages:
+      value: []
+      custom: ''
+  settings:
+    combat:
+      folded: []
+    inventory:
+      folded: []
+    capacities:
+      folded: []
+    effects:
+      folded: []
+  moduleData: {}
+  key: squelette-de-geant
+  nc:
+    key: nc
+    label: COF.attributes.nc.label
+    abbrev: COF.attributes.nc.abbrev
+    value: 4
+  weapons:
+    - name: Massue à 2 mains
+      mod: 8
+      dmg: 2d6+6
+  capacities:
+    - name: Sans esprit
+      type: creature
+      description: >-
+        aucune âme n’habite la carcasse morte, le squelette est immunisé à tous
+        les sorts qui affectent l’esprit (INT, SAG et CHA).
+    - name: Vitalité surnaturelle
+      type: creature
+      description: Voir Voie des créatures magiques rang 2
+    - name: Réduction des DM
+      type: creature
+      description: >-
+        tous les DM infligés à un squelette sont réduits de 10 points sauf au
+        cas où l’attaquant utilise une arme contondante. Une arme contondante
+        est une arme qui utilise la force de l’impact pour blesser comme une
+        masse ou un marteau à l’inverse d’une épée (tranchante) ou d’une flèche
+        (perçante).
+  paths:
+    - key: voie-des-creatures-magiques-1
+    - key: voie-des-creatures-magiques-2
+  boss:
+    rank: null
+    type: null
+  families:
+    - name: Squelettes
+      key: squelettes
+      description: >-
+        <h1>Description</h1><p>En animant par magie les ossements d’une créature
+        défunte, on obtient un mort-vivant assez fragile appelé le squelette. Un
+        squelette est une créature sans cervelle immunisée à toute forme
+        d’attaque mentale. Et non, il ne parle pas !</p>
+  archetype: standard
+  category: non-vivante
+prototypeToken:
+  flags: {}
+  name: Squelette de géant
+  displayName: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    alpha: 1
+    animation:
+      speed: 5
+      intensity: 5
+      type: null
+      reverse: false
+    negative: false
+    priority: 0
+    color: null
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+  texture:
+    src: /modules/cof-srd/ui/icons/creature.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  alpha: 1
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+folder: null
+_key: '!actors!gQfXoLafFOKNx4d4'

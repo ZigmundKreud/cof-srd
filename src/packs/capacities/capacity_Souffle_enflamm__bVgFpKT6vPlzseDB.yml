@@ -1,0 +1,79 @@
+name: Souffle enflammé
+type: capacity
+flags: {}
+img: >-
+  /modules/cof-srd/ui/icons/capacities/voie-des-creatures-elementaire-du-feu-1.webp
+_id: bVgFpKT6vPlzseDB
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: souffle-enflamme
+  description: >-
+    <h1>Description</h1><p>Le souffle est une attaque de zone affectant toutes
+    les créatures dans un cône de 10 m de long sur 5 m de large pour une
+    créature moyenne ou grande (énorme 20 x 10 m et colossale 30 x 15 m).
+    L’attaque inflige automatiquement (pas de test d’attaque) [(NC+2) x 1d6]
+    <strong>DM</strong> (par exemple 6d6 pour NC 4). Les <strong>DM</strong>
+    sont divisés par 2 si la victime réussit un test de <strong>DEX</strong>
+    difficulté 13. La créature doit attendre 1d4 tours avant d’utiliser à
+    nouveau son souffle après chaque utilisation. Pour plus de simplicité,
+    lorsque les <strong>DM</strong> dépassent 6d6 chaque d6 supplémentaire et
+    remplacer par un bonus de +3. Ainsi un dragon NC 14 aura un souffle
+    infligeant [6d6 + 30] <strong>DM</strong>.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!bVgFpKT6vPlzseDB'

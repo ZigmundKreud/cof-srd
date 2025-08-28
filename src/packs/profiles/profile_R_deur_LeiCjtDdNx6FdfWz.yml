@@ -1,0 +1,90 @@
+_id: LeiCjtDdNx6FdfWz
+name: Rôdeur
+type: profile
+flags: {}
+img: /modules/cof-srd/ui/icons/profiles/rodeur.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: rodeur
+  description: >-
+    <h1>Description</h1><p>Le Rôdeur est à l'aise dans les forêts ténébreuses,
+    où il traque les animaux dangereux et les créatures monstrueuses ou, au
+    contraire, se fait l'ami des bêtes et le protecteur des lieux
+    sauvages.</p><h1>Maîtrise</h1><p>Le Rôdeur sait manier les armes de contact
+    à une main et toutes les armes à distance, il peut porter toutes les armures
+    à base de cuir mais ne manie pas de bouclier.</p><h1>Possessions de
+    départ</h1><p>Arc court (<strong>DM</strong> 1d6, portée 30m), carquois,
+    épée longue (<strong>DM</strong> 1d8), dague (<strong>DM</strong> 1d4),
+    armure de cuir renforcée (<strong>DEF</strong>
+    +3).</p><h1>Notes</h1><h2>Compagnon animal</h2><p>Si vous jouez dans un
+    monde moins fantastique ou plus exotique, vous pouvez  remplacer le loup par
+    un chien ou par tout autre animal adapté à vos aventures (hyène, panthère,
+    chacal&#8230;). Si le joueur la choisit, la Voie du compagnon animal. Un
+    Profil ne peut avoir plus de 5 Voies.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  dv: 1d8
+  spellcasting: ''
+  mpfactor: '0'
+  paths:
+    - _id: LfjQOgs642Liy9yk
+      name: Voie de l'archer
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-archer.webp
+      sourceId: Compendium.cof-srd.paths.LfjQOgs642Liy9yk
+    - _id: 0DeDUgrlfpxwyrqa
+      name: Voie de l'escarmouche
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-escarmouche.webp
+      sourceId: Compendium.cof-srd.paths.0DeDUgrlfpxwyrqa
+    - _id: 9kxUbJBUzUJFAmAq
+      name: Voie de la survie
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-survie.webp
+      sourceId: Compendium.cof-srd.paths.9kxUbJBUzUJFAmAq
+    - _id: 06TMl3LgbVIaXUJf
+      name: Voie du compagnon animal
+      img: /modules/cof-srd/ui/icons/paths/voie-du-compagnon-animal.webp
+      sourceId: Compendium.cof-srd.paths.06TMl3LgbVIaXUJf
+    - _id: 2aZDPaps9dH7gWcM
+      name: Voie du montreur d'ours
+      img: /modules/cof-srd/ui/icons/paths/voie-du-montreur-dours.webp
+      sourceId: Compendium.cof-srd.paths.2aZDPaps9dH7gWcM
+    - _id: NtUGvvCFd1eH2k2K
+      name: Voie du traqueur
+      img: /modules/cof-srd/ui/icons/paths/voie-du-traqueur.webp
+      sourceId: Compendium.cof-srd.paths.NtUGvvCFd1eH2k2K
+  proficiencies:
+    daggers: false
+    swords: false
+    axes: false
+    staves: false
+    clubs: false
+    hammers: false
+    katanas: false
+    2-hands: false
+    slings: false
+    bows: false
+    crossbows: false
+    throwing-weapons: false
+    powder-weapons: false
+    soft-leather: false
+    studded-leather: false
+    mail: false
+    half-plate: false
+    full-plate: false
+    shield: false
+  prestige: []
+  alternatives: []
+folder: null
+sort: 0
+_key: '!items!LeiCjtDdNx6FdfWz'

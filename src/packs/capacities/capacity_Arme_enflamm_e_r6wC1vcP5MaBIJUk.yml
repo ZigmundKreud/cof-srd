@@ -1,0 +1,70 @@
+name: Arme enflammée
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-3.webp
+_id: r6wC1vcP5MaBIJUk
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: arme-enflammee
+  description: >-
+    <h1>Description</h1><p>Le Magicien peut enflammer une arme pour [5 + Mod.
+    d'<strong>INT</strong>] tours. Celle-ci inflige +1D6 <strong>DM</strong> de
+    feu.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!r6wC1vcP5MaBIJUk'

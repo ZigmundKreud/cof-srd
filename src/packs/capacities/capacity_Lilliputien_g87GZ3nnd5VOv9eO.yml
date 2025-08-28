@@ -1,0 +1,80 @@
+name: Lilliputien
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-5.webp
+_id: g87GZ3nnd5VOv9eO
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: lilliputien
+  description: >-
+    <h1>Description</h1><p>Le personnage rapetisse jusqu’à devenir plus petit
+    que son familier (entre 10 et 30 cm, minuscule ou très petit). La
+    transformation dans un sens ou dans l’autre demande 1 tour complet. Sa durée
+    est illimitée. Sous cette forme, le personnage obtient la même réduction aux
+    <strong>DM</strong> que le familier (RD 5), il gagne un bonus de +10 aux
+    tests de discrétion et peut passer dans des espaces très réduits. En
+    revanche, ses <strong>DM</strong> sont réduits à 1 point par attaque réussie
+    et ses sorts n’affectent aucune créature de taille supérieure à très petite.
+    Ses déplacements sont réduits à 10 m par action de mouvement sauf s’il
+    chevauche son familier. Le familier est très endurant et lui permet de
+    couvrir une distance de 5 km par heure pendant un maximum de 10 heures par
+    jour (pour un total de 50 km/jour) quel que soit le terrain. Cette distance
+    est doublée si le familier est une créature volante (100 km/jour).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!g87GZ3nnd5VOv9eO'

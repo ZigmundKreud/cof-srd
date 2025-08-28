@@ -1,0 +1,84 @@
+_id: P7rjY8RAWuye7NLK
+name: Ombre mortelle
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-4.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: ombre-mortelle
+  description: >-
+    <h1>Description</h1>
+
+    <p>L'ombre de la cible du N&eacute;cromancien attaque son
+    propri&eacute;taire pendant [3 + Mod. d'<strong>INT</strong>] tours
+    (port&eacute;e 20 m).<br />L'ombre poursuit sa cible partout o&ugrave; elle
+    se r&eacute;fugie.</p>
+
+    <p>Ombre : 1 attaque par tour, att = att de la cible, <strong>DM</strong> =
+    <strong>DM</strong> de la cible divis&eacute;s par 2.</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie de la
+    sombre&nbsp;magie</strong></span></p>
+
+    <p>Le n&eacute;cromancien obtient un bonus de +2 par rang &agrave; tous les
+    tests d&rsquo;INT bas&eacute;s sur les connaissances occultes.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!P7rjY8RAWuye7NLK'

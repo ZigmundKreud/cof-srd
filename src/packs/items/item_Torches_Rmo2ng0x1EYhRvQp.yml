@@ -1,0 +1,94 @@
+_id: Rmo2ng0x1EYhRvQp
+name: Torches
+type: item
+flags: {}
+img: modules/cof-srd/ui/icons/items/torches.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: ''
+  description: '<h1>Description</h1><p>Nombre : 3<br/>Durée : 1 heure<br/>Portée : 10 m</p>'
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  def: 0
+  defBase: 0
+  defBonus: 0
+  dr: 0
+  dmg: ''
+  dmgBase: ''
+  dmgStat: ''
+  dmgBonus: 0
+  mod: 0
+  skill: ''
+  skillBonus: 0
+  critrange: '20'
+  hands: 1
+  range: 0
+  reload: ''
+  worn: false
+  slot: ''
+  qty: 1
+  stacksize: null
+  deleteWhen0: false
+  price: 1
+  value: 0
+  rarity: common
+  properties:
+    predilection: false
+    ranged: false
+    equipable: false
+    stackable: true
+    activable: false
+    unique: false
+    tailored: false
+    2H: false
+    proficient: false
+    finesse: false
+    equipment: true
+    weapon: false
+    protection: false
+    reloadable: false
+    bow: false
+    crossbow: false
+    powder: false
+    throwing: false
+    dr: false
+    sneak: false
+    powerful: false
+    critscience: false
+    specialization: false
+    effects: false
+    13strmin: false
+    bashing: false
+    sling: false
+    spell: false
+    consumable: false
+    2h: false
+  effects:
+    heal:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+    buff:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+  subtype: trapping
+folder: null
+sort: 0
+_key: '!items!Rmo2ng0x1EYhRvQp'

@@ -1,0 +1,110 @@
+_id: L6pULKflJOhF5pT6
+name: Boule de feu
+type: item
+flags: {}
+img: /modules/cof-srd/ui/icons/spells/boule-de-feu.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: ''
+  description: >-
+    <h1>Description</h1><p>Le Magicien choisit une cible située à moins de 30
+    mètres. Il fait un test d’attaque magique et le compare à la
+    <strong>DEF</strong> de tous les personnages (y compris le Magicien et ses
+    compagnons) se trouvant dans un rayon de 6 mètres autour de la cible. Chaque
+    victime pour laquelle le test est un succès encaisse [4d6 + Mod.
+    d’<strong>INT</strong>] de <strong>DM</strong> et doit effectuer un test de
+    <strong>DEX</strong> difficulté 10 + Mod. d’<strong>INT</strong> du Magicien
+    pour ne subir que la moitié des <strong>DM</strong>. Quand le test d’attaque
+    est un échec, la cible subit automatiquement la moitié des
+    <strong>DM</strong> (pas besoin de faire le test de
+    <strong>DEX</strong>).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  def: 0
+  defBase: 0
+  defBonus: 0
+  dr: 0
+  dmg: ''
+  dmgBase: 4d6
+  dmgStat: '@stats.int.mod'
+  dmgBonus: 0
+  mod: 0
+  skill: '@attacks.magic.mod'
+  skillBonus: 0
+  critrange: '20'
+  hands: '2'
+  range: 30
+  reload: ''
+  worn: false
+  slot: ''
+  qty: 1
+  stacksize: null
+  deleteWhen0: false
+  price: 0
+  value: 0
+  rarity: common
+  properties:
+    predilection: false
+    ranged: true
+    equipable: false
+    stackable: false
+    activable: false
+    unique: false
+    tailored: false
+    2H: false
+    proficient:
+      - true
+      - true
+    finesse: false
+    equipment: false
+    weapon: true
+    protection: false
+    reloadable: false
+    bow: false
+    crossbow: false
+    powder: false
+    throwing: false
+    dr: false
+    sneak: false
+    powerful: false
+    critscience: false
+    specialization: false
+    effects: false
+    13strmin: false
+    bashing: false
+    sling: false
+    spell:
+      - true
+      - true
+    consumable: false
+    two-handed: false
+    very-rare: false
+  effects:
+    heal:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+    buff:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+  subtype: spell
+folder: null
+sort: 0
+_key: '!items!L6pULKflJOhF5pT6'

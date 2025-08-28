@@ -1,0 +1,54 @@
+_id: cCoft8KbLoSohR5E
+name: Voie des végétaux
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-vegetaux.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-des-vegetaux
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: eO6HFePIIqxGP1bG
+      name: Peau d'écorce
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-vegetaux-1.webp
+      sourceId: Compendium.cof-srd.capacities.eO6HFePIIqxGP1bG
+    - _id: 2mr1WHMOrmwdlh7s
+      name: Prison végétale
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-vegetaux-2.webp
+      sourceId: Compendium.cof-srd.capacities.2mr1WHMOrmwdlh7s
+    - _id: oMifBiVpsZfGWDCn
+      name: Animation d'un arbre
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-vegetaux-3.webp
+      sourceId: Compendium.cof-srd.capacities.oMifBiVpsZfGWDCn
+    - _id: hMNgb5d9wvmydq07
+      name: Gland de pouvoir
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-vegetaux-4.webp
+      sourceId: Compendium.cof-srd.capacities.hMNgb5d9wvmydq07
+    - _id: ziSfo5vyjyYZyLC9
+      name: Porte végétale
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-vegetaux-5.webp
+      sourceId: Compendium.cof-srd.capacities.ziSfo5vyjyYZyLC9
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!cCoft8KbLoSohR5E'

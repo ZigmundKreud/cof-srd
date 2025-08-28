@@ -1,0 +1,49 @@
+_id: H3giyedztxJQZb1K
+name: Voie de la magie de guérison
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-de-guerison.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-magie-de-guerison
+  description: >-
+    <h1>Note</h1><p>Les créatures dotées de cette voie obtiennent au choix
+    l’<strong>INT</strong>, la <strong>SAG</strong> ou le CHA en  Carac.
+    Supérieure.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 18epKL4A9b7aOKEN
+      name: Soigner
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-guerison-1.webp
+      sourceId: Compendium.cof-srd.capacities.18epKL4A9b7aOKEN
+    - _id: SNtbWgrROV6bLusI
+      name: Guérir
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-guerison-2.webp
+      sourceId: Compendium.cof-srd.capacities.SNtbWgrROV6bLusI
+    - _id: SRsJDcnOAr1xqBao
+      name: Soutenir
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-guerison-3.webp
+      sourceId: Compendium.cof-srd.capacities.SRsJDcnOAr1xqBao
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!H3giyedztxJQZb1K'

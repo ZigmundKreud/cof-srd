@@ -1,0 +1,72 @@
+name: Bon pour le moral
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-3.webp
+_id: DrIjQ3s6H0HmvDZh
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: bon-pour-le-moral
+  description: >-
+    <h1>Description</h1><p>Un halfelin qui mange bien est un halfelin heureux. A
+    chaque repas où le personnage boit ou mange un met de qualité, il récupère
+    1d6 PV. Une fois par jour, s’il participe à un véritable festin ou s’il fait
+    une bonne sieste (au moins 1 heure en plein après midi), il récupère [2d6 +
+    niveau] PV !</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!DrIjQ3s6H0HmvDZh'

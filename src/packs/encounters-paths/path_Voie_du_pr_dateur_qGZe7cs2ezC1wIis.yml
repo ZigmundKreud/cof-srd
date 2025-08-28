@@ -1,0 +1,49 @@
+_id: qGZe7cs2ezC1wIis
+name: Voie du prédateur
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-predateur.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-predateur
+  description: >-
+    <h1>Note</h1><p>Les créatures dotées de cette voie obtiennent la
+    <strong>DEX</strong> et la <strong>SAG</strong> en Carac. Supérieure
+    (indiqué par un *).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 2EJCJ4htY4dBgunU
+      name: Embuscade
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-predateur-1.webp
+      sourceId: Compendium.cof-srd.capacities.2EJCJ4htY4dBgunU
+    - _id: Ylbqwh1Sh1I8Sm93
+      name: Dévorer
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-predateur-2.webp
+      sourceId: Compendium.cof-srd.capacities.Ylbqwh1Sh1I8Sm93
+    - _id: VKVYz5W5pR4SSD4r
+      name: Gober
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-predateur-3.webp
+      sourceId: Compendium.cof-srd.capacities.VKVYz5W5pR4SSD4r
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!qGZe7cs2ezC1wIis'

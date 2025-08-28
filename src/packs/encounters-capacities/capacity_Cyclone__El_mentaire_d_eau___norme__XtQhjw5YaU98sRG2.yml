@@ -1,0 +1,78 @@
+name: Cyclone (Elémentaire d’eau, énorme)
+type: capacity
+flags: {}
+img: >-
+  /modules/cof-srd/ui/icons/encounter-capacities/cyclone-elementaire-deau-enorme.webp
+effects: []
+_id: XtQhjw5YaU98sRG2
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: cyclone-elementaire-deau-enorme
+  description: >-
+    <h1>Description</h1><p>une fois par combat, un élémentaire peut se
+    transformer en tourbillon de matière élémentaire. Pendant [1d4+1] tours, il
+    peut se déplacer à travers les créatures et les objets à la vitesse de 30
+    mètres par tour. Toute créature sur son passage doit faire un test de DEX ou
+    de FOR au choix de difficulté [10 + Mod. de FOR de l’élémentaire]. En cas
+    d’échec, la cible subit automatiquement les DM de base de l’élémentaire
+    (selon la taille) et elle est <em>renversée</em> au sol (si sa taille ne
+    dépasse pas celle de l’élémentaire). En cas de succès, elle ne subit que la
+    moitié des DM et peut rester debout. Lorsqu’il est sous forme de cyclone,
+    l’élémentaire gagne un bonus de +5 en DEF.</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!XtQhjw5YaU98sRG2'

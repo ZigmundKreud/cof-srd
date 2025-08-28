@@ -1,0 +1,73 @@
+name: Télékinésie
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-3.webp
+_id: SuAd6wA9T4O4Lp9v
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: telekinesie
+  description: >-
+    <h1>Description</h1><p>L'Ensorceleur peut déplacer dans les airs un objet
+    inerte ou une cible volontaire (par exemple lui-même) dont le poids n'excède
+    pas 50 kg par Rang, à une portée de 20 m et pendant [5+Mod. de
+    <strong>CHA</strong>] tours. L'objet peut être déplacé de 10 m par tour au
+    prix d'une action de mouvement. Il est possible de faire tomber un objet sur
+    une cible surprise (<strong>DM</strong> 1d6 tous les 50 kg).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!SuAd6wA9T4O4Lp9v'

@@ -1,0 +1,77 @@
+name: Gober
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-predateur-3.webp
+_id: VKVYz5W5pR4SSD4r
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: gober
+  description: >-
+    <h1>Description</h1><p>Lorsqu’elle utilise sa capacité Dévorer, la créature
+    peut avaler toute entière une cible d’au moins 1 taille en dessous de la
+    sienne. La victime doit faire un test de <strong>FOR</strong> opposé, en cas
+    d’échec elle passe directement dans l’estomac du monstre.
+
+    Un personnage avalé subit 3d6 <strong>DM</strong> d’asphyxie et d’acide
+    chaque tour. Il peut attaquer avec une arme pas plus grande qu’une dague en
+    réussissant un test de <strong>FOR</strong> difficulté 15 à chaque tour.
+    L’attaque se fait avec une pénalité de -5 en attaque et les
+    <strong>DM</strong> sont divisés par 2.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!VKVYz5W5pR4SSD4r'

@@ -1,0 +1,54 @@
+_id: 6uXstzF5leuS9DFh
+name: Voie de la brute
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-brute.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-brute
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: xHb9z8Nw70sErEKq
+      name: Argument de taille
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-brute-1.webp
+      sourceId: Compendium.cof-srd.capacities.xHb9z8Nw70sErEKq
+    - _id: QRXRWR5goyFgur2w
+      name: Tour de force
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-brute-2.webp
+      sourceId: Compendium.cof-srd.capacities.QRXRWR5goyFgur2w
+    - _id: uGMFY4Tgb8GsCuJS
+      name: Attaque brutale
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-brute-3.webp
+      sourceId: Compendium.cof-srd.capacities.uGMFY4Tgb8GsCuJS
+    - _id: VgCANxVcaaiNcBe0
+      name: Briseur d'os
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-brute-4.webp
+      sourceId: Compendium.cof-srd.capacities.VgCANxVcaaiNcBe0
+    - _id: CwiE3a6i0CajS4bE
+      name: Force héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-brute-5.webp
+      sourceId: Compendium.cof-srd.capacities.CwiE3a6i0CajS4bE
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!6uXstzF5leuS9DFh'

@@ -1,0 +1,76 @@
+name: Armée des morts
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-5.webp
+_id: lQwEvPPzNKjEgWGe
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: armee-des-morts
+  description: >-
+    <h1>Description</h1><p>Une fois par jour, le Nécromancien peut invoquer
+    d’innombrables squelettes émergeant du sol pour attaquer ses ennemis pendant
+    [niveau du nécromancien] tours. Les cibles situées dans un rayon de 20 m
+    autour du Nécromancien subissent automatiquement 3d6 <strong>DM</strong> par
+    tour, à moins qu’elles n’utilisent une action limitée pour s’opposer aux
+    squelettes (ce qui réduit les <strong>DM</strong> à 1d6). Les squelettes
+    restent autour du Nécromancien et se déplacent en même temps que lui dans
+    une zone de 20 m de rayon. Tous les déplacements dans cette zone (même ceux
+    des alliés) sont divisés par deux.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!lQwEvPPzNKjEgWGe'

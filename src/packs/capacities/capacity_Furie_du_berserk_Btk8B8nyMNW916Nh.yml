@@ -1,0 +1,72 @@
+name: Furie du berserk
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-5.webp
+_id: Btk8B8nyMNW916Nh
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: furie-du-berserk
+  description: >-
+    <h1>Description</h1><p>Au lieu de la Rage du berserk, le Barbare peut entrer
+    s’il le souhaite en Furie du berserk, qui lui donne +3 en attaque et +2d6
+    aux <strong>DM</strong> pour une pénalité en <strong>DEF</strong> de -6. La
+    difficulté du test de <strong>SAG</strong> pour sortir prématurément de cet
+    état passe à 16.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!Btk8B8nyMNW916Nh'

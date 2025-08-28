@@ -1,0 +1,89 @@
+_id: bNAzgdEfx7M7HXnh
+name: Animal fabuleux
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-5.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: animal-fabuleux
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le loup du R&ocirc;deur devient un sp&eacute;cimen
+    particuli&egrave;rement puissant.</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>M&acirc;le alpha
+    :</strong></span></p>
+
+    <p><strong>DM</strong>&nbsp;1d6+3,&nbsp;<strong>FOR</strong>&nbsp;+3,&nbsp;<strong>DEX</strong>&nbsp;+1,&nbsp;<strong>CON</strong>*
+    +3,&nbsp;<strong>INT</strong>&nbsp;-3,&nbsp;<strong>SAG</strong>*
+    +2,&nbsp;<strong>CHA</strong>&nbsp;-2</p>
+
+    <p><strong>DEF</strong>&nbsp;16,</p>
+
+    <p><strong>Init</strong> 13,</p>
+
+    <p><strong>PV </strong>[niveau x 4],</p>
+
+    <p><strong>attaque au contact </strong>= [niveau du
+    R&ocirc;deur+2],&nbsp;</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!bNAzgdEfx7M7HXnh'

@@ -1,0 +1,74 @@
+name: Rage du berserk
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-3.webp
+_id: LK6YWhOPqiJh3N1g
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: rage-du-berserk
+  description: >-
+    <h1>Description</h1><p>Le Barbare entre dans une rage berserk pour le reste
+    du combat, ce qui le rend particulièrement dangereux. Il obtient un bonus de
+    +2 en attaque et +1d6 aux <strong>DM</strong> sur toutes ses attaques au
+    contact, mais perd 4 en <strong>DEF</strong> et ne peut fuir ou attaquer à
+    distance. S’il veut stopper la rage avant d’avoir éliminé tous les ennemis
+    sur le terrain, le Barbare doit réussir un test de <strong>SAG</strong>
+    difficulté 13 (un seul essai par tour).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!LK6YWhOPqiJh3N1g'

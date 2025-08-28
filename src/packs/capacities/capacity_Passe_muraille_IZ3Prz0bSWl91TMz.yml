@@ -1,0 +1,73 @@
+name: Passe-muraille
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-vent-5.webp
+_id: IZ3Prz0bSWl91TMz
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: passe-muraille
+  description: >-
+    <h1>Description</h1><p>Le Moine peut rendre son corps intangible temps de
+    passer au travers d'un mur d'une épaisseur maximum de [Mod. de
+    <strong>SAG</strong>] mètres. Il ne peut rester immatériel  qu'un court
+    instant et reprend corps dès qu'il émerge du mur. Il est insensible aux
+    attaques tant qu'il est entièrement dans le mur, sauf si le mur est
+    détruit.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!IZ3Prz0bSWl91TMz'

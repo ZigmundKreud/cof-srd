@@ -1,0 +1,54 @@
+_id: 0DeDUgrlfpxwyrqa
+name: Voie de l'escarmouche
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-escarmouche.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-escarmouche
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: nxoveqJ1N9iGaLKD
+      name: Chasseur émérite
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escarmouche-1.webp
+      sourceId: Compendium.cof-srd.capacities.nxoveqJ1N9iGaLKD
+    - _id: J3Pa2FtGk88IGkmT
+      name: Traquenard
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escarmouche-2.webp
+      sourceId: Compendium.cof-srd.capacities.J3Pa2FtGk88IGkmT
+    - _id: R13feAYm12KYBNYe
+      name: Attaque éclair
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escarmouche-3.webp
+      sourceId: Compendium.cof-srd.capacities.R13feAYm12KYBNYe
+    - _id: wDNlJgp4jf8aBeDT
+      name: Repli
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escarmouche-4.webp
+      sourceId: Compendium.cof-srd.capacities.wDNlJgp4jf8aBeDT
+    - _id: Ca1WmWxnZi2z3jAh
+      name: Dextérité héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escarmouche-5.webp
+      sourceId: Compendium.cof-srd.capacities.Ca1WmWxnZi2z3jAh
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!0DeDUgrlfpxwyrqa'

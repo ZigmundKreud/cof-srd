@@ -1,0 +1,56 @@
+_id: hld4YJU8zeqVywla
+name: Voie du familier
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-familier.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-familier
+  description: >-
+    <h1>Note</h1><p>La Voie du familier peut remplacer une Voie de base d'un
+    personnage si le MJ l'y autorise.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: OKZUsqi5PPcSUqBQ
+      name: Familier
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-1.webp
+      sourceId: Compendium.cof-srd.capacities.OKZUsqi5PPcSUqBQ
+    - _id: o7MpkXGvDspjlJQl
+      name: Résistance
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-2.webp
+      sourceId: Compendium.cof-srd.capacities.o7MpkXGvDspjlJQl
+    - _id: XGiBSDze4rOd4enC
+      name: Sens développés
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-3.webp
+      sourceId: Compendium.cof-srd.capacities.XGiBSDze4rOd4enC
+    - _id: TzTMSwlw8f6xxhTz
+      name: Rappel
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-4.webp
+      sourceId: Compendium.cof-srd.capacities.TzTMSwlw8f6xxhTz
+    - _id: g87GZ3nnd5VOv9eO
+      name: Lilliputien
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-5.webp
+      sourceId: Compendium.cof-srd.capacities.g87GZ3nnd5VOv9eO
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!hld4YJU8zeqVywla'

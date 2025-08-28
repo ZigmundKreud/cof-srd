@@ -1,0 +1,81 @@
+name: Charge
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-cavalier-4.webp
+_id: V3xEG30X1w6WyTNd
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: charge
+  description: >-
+    <h1>Description</h1><p>A cheval, le chevalier peut effectuer un déplacement
+    de  40 m en ligne droite, et une attaque de contact placée au moment son
+    choix. Il doit parcourir au moins 10 m avant d'attaquer, mais peut réaliser
+    le reste du déplacement à sa guise.
+
+
+    Le joueur lance deux d20 à son test d'attaque et garde le meilleur résultat,
+    tout en ajoutant +1d6 aux <strong>DM</strong>.
+
+
+    Une créature située sur la trajectoire de la charge doit réussir un test de
+    <strong>FOR</strong> difficulté 18 ou être contrainte de céder le passage en
+    subissant 1d6 <strong>DM</strong>. Si elle réussit ce test, la Charge est
+    bloquée et le tour du Chevalier se termine.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!V3xEG30X1w6WyTNd'

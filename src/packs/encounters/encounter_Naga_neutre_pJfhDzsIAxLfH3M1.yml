@@ -1,0 +1,1402 @@
+_id: pJfhDzsIAxLfH3M1
+name: Naga neutre
+type: encounter
+sort: 100001
+flags: {}
+img: /modules/cof-srd/ui/icons/creature.webp
+items:
+  - _id: 3Y8mYGPa9zlAKV3l
+    name: Venin (Naga neutre)
+    type: capacity
+    sort: 100000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/encounter-capacities/venin-naga-neutre.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: venin-naga-neutre
+      description: >-
+        <h1>Description</h1><p>la victime doit réussir un test de CON difficulté
+        14 ou être <em>Affaiblie</em>. Si la victime est déjà Affaiblie par le
+        venin, un échec lors d’une nouvelle morsure, la fait sombrer dans
+        l’inconscience pour 1d6 tours. Un troisième échec signifie 1d6 heures
+        d’inconscience.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.3Y8mYGPa9zlAKV3l'
+  - _id: bDw3TjVwuDX5fLlo
+    name: Injonction
+    type: capacity
+    sort: 200000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: injonction
+      description: >-
+        <h1>Description</h1><p>L'Ensorceleur donne un ordre simple (mais pas
+        dangereux pour elle) que la victime doit pouvoir comprendre. Il doit
+        réussir un test d'attaque magique opposé avec la cible (contre attaque
+        au contact si la créature n'en a pas) à une portée de 20 mètres. En cas
+        d'échec, la cible exécutera l'ordre pendant son prochain tour.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.bDw3TjVwuDX5fLlo'
+  - _id: CtQypotgwD2Vt7PA
+    name: Sommeil
+    type: capacity
+    sort: 300000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: sommeil
+      description: >-
+        <h1>Description</h1><p>[1d6 + Mod. de <strong>CHA</strong>] cibles
+        vivantes dans une zone de 10 m de diamètre (portée 20 m) et dont le
+        score max de PV ne dépasse pas le score d’attaque magique de
+        l’ensorceleur* sombrent dans l’inconscience pendant [5 + Mod. de
+        <strong>CHA</strong>] minutes. Il est possible de les réveiller en les
+        giflant (action d’attaque).</p><p><i> * Les créatures dont les PV sont
+        compris entre le score d’attaque magique du magicien et le double de
+        celui-ci peuvent faire un test de <strong>SAG</strong> difficulté [10 +
+        Mod. de <strong>CHA</strong>] pour résister au sort. Les créatures avec
+        des PV supérieur ne sont pas affectées.</i></p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.CtQypotgwD2Vt7PA'
+  - _id: 3hypo7wzbVgYObAw
+    name: Confusion
+    type: capacity
+    sort: 400000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: confusion
+      description: >-
+        <h1>Description</h1><p>En réussissant un test d'Attaque magique (portée
+        20 m), l'Ensorceleur désoriente sa cible pendant [3 + Mod. de
+        <strong>CHA</strong>] tours. Chaque tour, lancer 1d6 :
+        <strong>1-3</strong> la victime n'agit pas, <strong>4-6</strong> elle
+        attaque la créature la plus proche (au hasard). Chaque fin de tour, elle
+        fait un test de <strong>SAG</strong> difficulté [10 + Mod. de
+        <strong>CHA</strong>] pour mettre fin au sort.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.3hypo7wzbVgYObAw'
+  - _id: zgmJuGtXtMnEtW4t
+    name: Amitié
+    type: capacity
+    sort: 500000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-4.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: amitie
+      description: >-
+        <h1>Description</h1><p>Si l'Ensorceleur réussit un test d'Attaque
+        magique (portée 10 m) contre le score max de PV d'une cible humanoïde,
+        celle-ci se comporte comme un ami de longue date tant qu'elle n'est pas
+        attaquée. Elle peut résister au sort avec un test de
+        <strong>SAG</strong> difficulté [12 + Mod. de <strong>CHA</strong>],
+        renouvelable une fois par jour.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.zgmJuGtXtMnEtW4t'
+  - _id: VV3GSWOC8y614bxJ
+    name: Domination
+    type: capacity
+    sort: 600000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-5.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: domination
+      description: >-
+        <h1>Description</h1><p>En réussissant un test d’Attaque magique (portée
+        20 m) en opposition contre un test d’Attaque magique de la cible (ou
+        d’Attaque au contact si la créature n’en a pas), l’Ensorceleur prend
+        contrôle de son esprit pendant [1d4 + Mod. <strong>CHA</strong>]
+        minutes. Son propre corps devient inactif. La victime peut résister au
+        sort avec un test de <strong>SAG</strong> difficulté [10 + Mod. de
+        <strong>CHA</strong>] à chaque fois qu’elle subit des
+        <strong>DM</strong>. Si la créature meurt pendant la domination,
+        l’Ensorceleur réintègre son corps et subit 1d6 <strong>DM</strong>.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.VV3GSWOC8y614bxJ'
+  - _id: aHRP4SADAt5PTMhb
+    name: Image décalée
+    type: capacity
+    sort: 700000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: image-decalee
+      description: >-
+        <h1>Description</h1><p>Pendant [5 + Mod. de <strong>CHA</strong>] tours,
+        lorsqu'une attaque le touche, l'Ensorceleur lance 1d6 : sur 5-6, il ne
+        subit pas les <strong>DM</strong>.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.aHRP4SADAt5PTMhb'
+  - _id: f9v8rLLb31gy8cLC
+    name: Mirage
+    type: capacity
+    sort: 800000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: mirage
+      description: >-
+        <h1>Description</h1><p>L'Ensorceleur crée une illusion visuelle et
+        sonore immobile d'une durée de [5 + Mod. de <strong>CHA</strong>]
+        minutes (ou tours si l'illusion est animée). Le volume maximum de
+        l'illusion est de 10 m de coté par rang dans la voie (portée 500 m).
+        Divisez ces paramètres par 10 si l'illusion est animée. Interagir avec
+        l'illusion la fait disparaître.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.f9v8rLLb31gy8cLC'
+  - _id: 4W1mEn4Lv9jNsXvr
+    name: Imitation
+    type: capacity
+    sort: 900000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: imitation
+      description: >-
+        <h1>Description</h1><p>L'ensorceleur peut prendre l'apparence d'une
+        créature de taille proche (+ ou - 50 cm) qu'il voit au moment de
+        l'incantation. Durée [5 + Mod. de <strong>CHA</strong>] minutes. Toucher
+        l'Ensorceleur (une attaque ou non) met fin au sort.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.4W1mEn4Lv9jNsXvr'
+  - _id: 9qF4khsxhTRkLwgQ
+    name: Dédoublement
+    type: capacity
+    sort: 1000000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-4.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: dedoublement
+      description: >-
+        <h1>Description</h1><p>Sur une Attaque magique réussie (portée 20 m),
+        l’Ensorceleur crée un double translucide de la cible pendant [5 + Mod.
+        de <strong>CHA</strong>] tours. Le double est sous le contrôle de
+        l’Ensorceleur. Il possède les mêmes Caractéristiques que l’original mais
+        seulement la moitié de ses PV et tous les <strong>DM</strong> qu’il
+        inflige sont divisés par deux. Il disparaît si ses PV tombent à 0. Une
+        créature ne peut être dédoublée qu’une fois par combat.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.9qF4khsxhTRkLwgQ'
+  - _id: 5AXvXIhRf4S5YCO0
+    name: Tueur fantasmagorique
+    type: capacity
+    sort: 1100000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-5.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: tueur-fantasmagorique
+      description: >-
+        <h1>Description</h1><p>Ce sort invoque les pires terreurs d’une créature
+        vivante et lui fait croire à sa propre mort. L’Ensorceleur doit réussir
+        un test d’Attaque magique (portée 20 m) en opposition à un test
+        d’Attaque magique de la cible (ou attaque au contact si la créature n’en
+        a pas). La victime fait un test de <strong>SAG</strong> difficulté [10 +
+        Mod. de <strong>CHA</strong>] pour résister. En cas d’échec, elle tombe
+        à 0 PV. En cas de succès, elle perd l’équilibre et tombe par terre. Une
+        créature ne peut être la cible de ce sort qu’une fois par jour, et
+        l’Ensorceleur ne peut pas affecter un personnage ou une créature de
+        niveau supérieur au sien.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.5AXvXIhRf4S5YCO0'
+  - _id: 6hEQI07MOMdvd4hl
+    name: 6ème sens
+    type: capacity
+    sort: 1200000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-divination-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: 6eme-sens
+      description: >-
+        <h1>Description</h1><p>L'Ensorceleur sait toujours légèrement en avance
+        ce qui va arriver. Il gagne un bonus de +1 par Rang dans la Voie en
+        Initiative et en <strong>DEF</strong>, ainsi qu'un bonus de +2 par Rang
+        à tous les tests pour éviter d'être surpris.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.6hEQI07MOMdvd4hl'
+  - _id: TL4IPOBwjz26sTJw
+    name: Détection de l'invisible
+    type: capacity
+    sort: 1300000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-divination-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: detection-de-linvisible
+      description: >-
+        <h1>Description</h1><p>Pendant [5 + Mod. de <strong>CHA</strong>] tours,
+        l’Ensorceleur détecte les créatures invisibles ou cachées à moins de 30
+        mètres et détecte si un sort de <i>Clairvoyance</i> affecte l’endroit.
+        Aveuglé, ce sort lui permet de voir normalement.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.TL4IPOBwjz26sTJw'
+  - _id: 9B6iOzLLVC2QEYd8
+    name: Clairvoyance
+    type: capacity
+    sort: 1400000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-divination-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: clairvoyance
+      description: >-
+        <h1>Description</h1><p>L'Ensorceleur peut voir et entendre à distance ce
+        qui se passe dans un lieu qu'il connait, tant qu'il reste concentré
+        (action limitée à chaque tour). Les créatures présentes ont droit à un
+        test de <strong>SAG</strong> difficulté [12 + Mod. de
+        <strong>CHA</strong>] : en cas de réussite, elles se sentent
+        observées.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!pJfhDzsIAxLfH3M1.9B6iOzLLVC2QEYd8'
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  stats:
+    str:
+      key: str
+      label: COF.stats.str.label
+      abbrev: COF.stats.str.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 6
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    dex:
+      key: dex
+      label: COF.stats.dex.label
+      abbrev: COF.stats.dex.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 3
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    con:
+      key: con
+      label: COF.stats.con.label
+      abbrev: COF.stats.con.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 6
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    int:
+      key: int
+      label: COF.stats.int.label
+      abbrev: COF.stats.int.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    wis:
+      key: wis
+      label: COF.stats.wis.label
+      abbrev: COF.stats.wis.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    cha:
+      key: cha
+      label: COF.stats.cha.label
+      abbrev: COF.stats.cha.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+  attacks:
+    melee:
+      key: melee
+      label: COF.attacks.melee.label
+      abbrev: COF.attacks.melee.abbrev
+      stat: '@stats.str.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    ranged:
+      key: ranged
+      label: COF.attacks.ranged.label
+      abbrev: COF.attacks.ranged.abbrev
+      stat: '@stats.dex.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    magic:
+      key: magic
+      label: COF.attacks.magic.label
+      abbrev: COF.attacks.magic.abbrev
+      stat: '@stats.int.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+  description: >-
+    <h1>Description</h1><p><strong>Ensorceleur</strong> de niveau
+    10</p><p><strong>Milieu : </strong><p>marais</p>
+  attributes:
+    hp:
+      key: hp
+      label: COF.attributes.hp.label
+      abbrev: COF.attributes.hp.abbrev
+      base: 110
+      bonus: 0
+      value: 110
+      max: 110
+    def:
+      key: def
+      label: COF.attributes.def.label
+      abbrev: COF.attributes.def.abbrev
+      base: 18
+      bonus: 0
+      malus: 0
+      value: 18
+    init:
+      key: init
+      label: COF.attributes.init.label
+      abbrev: COF.attributes.init.abbrev
+      base: 16
+      bonus: 0
+      malus: 0
+      value: 16
+    dr:
+      key: dr
+      label: COF.attributes.dr.label
+      abbrev: COF.attributes.dr.abbrev
+      enabled: false
+      base:
+        value: 0
+        ignored: ''
+      bonus:
+        value: 0
+        ignored: ''
+      value: 0
+    rp:
+      key: rp
+      label: COF.attributes.rp.label
+      abbrev: COF.attributes.rp.abbrev
+      enabled: false
+      base: 5
+      bonus: 0
+      value: 5
+      max: 5
+    fp:
+      key: fp
+      label: COF.attributes.fp.label
+      abbrev: COF.attributes.fp.abbrev
+      enabled: false
+      base: 3
+      bonus: 0
+      value: 3
+      max: 3
+    mp:
+      key: mp
+      label: COF.attributes.mp.label
+      abbrev: COF.attributes.mp.abbrev
+      enabled: false
+      base: 0
+      bonus: 0
+      value: 0
+      max: 0
+    hd:
+      key: hd
+      label: COF.attributes.hd.label
+      abbrev: COF.attributes.hd.abbrev
+      value: 1d4
+    overload:
+      key: over
+      label: COF.attributes.over.label
+      abbrev: COF.attributes.over.abbrev
+      misc: 0
+    madness:
+      key: fp
+      label: COF.attributes.madness.label
+      abbrev: COF.attributes.madness.abbrev
+      enabled: false
+      base: 0
+      value: 0
+  currency:
+    pp:
+      key: pp
+      label: COF.currency.pp.label
+      abbrev: COF.currency.pp.abbrev
+      qty: 0
+    gp:
+      key: gp
+      label: COF.currency.gp.label
+      abbrev: COF.currency.gp.abbrev
+      qty: 0
+    sp:
+      key: sp
+      label: COF.currency.sp.label
+      abbrev: COF.currency.sp.abbrev
+      qty: 0
+    cp:
+      key: cp
+      label: COF.currency.cp.label
+      abbrev: COF.currency.cp.abbrev
+      qty: 0
+  alert:
+    type: error
+    msg: ''
+  details:
+    gender: ''
+    age: ''
+    weight: ''
+    height: ''
+    eyes: ''
+    hair: ''
+    size: big
+    senses: ''
+    languages:
+      value: []
+      custom: ''
+  settings:
+    combat:
+      folded: []
+    inventory:
+      folded: []
+    capacities:
+      folded: []
+    effects:
+      folded: []
+  moduleData: {}
+  key: naga-neutre
+  nc:
+    key: nc
+    label: COF.attributes.nc.label
+    abbrev: COF.attributes.nc.abbrev
+    value: 9
+  weapons:
+    - name: Morsure
+      mod: 20
+      dmg: 2d6+8 + venin
+    - name: Attaque magique
+      mod: 18
+      dmg: ''
+  capacities:
+    - name: Venin
+      type: creature
+      description: >-
+        la victime doit réussir un test de CON difficulté 14 ou être
+        <em>Affaiblie</em>. Si la victime est déjà Affaiblie par le venin, un
+        échec lors d’une nouvelle morsure, la fait sombrer dans l’inconscience
+        pour 1d6 tours. Un troisième échec signifie 1d6 heures d’inconscience.
+  paths:
+    - key: voie-de-l-envouteur-1
+    - key: voie-de-l-envouteur-2
+    - key: voie-de-l-envouteur-3
+    - key: voie-de-l-envouteur-4
+    - key: voie-de-l-envouteur-5
+    - key: voie-des-illusions-1
+    - key: voie-des-illusions-2
+    - key: voie-des-illusions-3
+    - key: voie-des-illusions-4
+    - key: voie-des-illusions-5
+    - key: voie-de-la-divination-1
+    - key: voie-de-la-divination-2
+    - key: voie-de-la-divination-3
+  boss:
+    rank: 1
+    type: rapide
+  families:
+    - name: Nagas
+      key: nagas
+      description: >-
+        <h1>Description</h1><p>Le naga est un énorme serpent à tête humaine (4
+        mètre pour 200kg), un puissant esprit de la magie aux motivations
+        étranges et souvent incompréhensibles pour les mortels. Les nagas sont
+        quasi-immortels et leur savoir dépasse l’entendement, ils sont
+        généralement liés à un lieu sacré qu’ils gardent et leur apparence ainsi
+        que leurs pouvoirs s’accordent à la nature mystique de l’endroit.</p>
+  archetype: standard
+  category: vivante
+prototypeToken:
+  flags: {}
+  name: Naga neutre
+  displayName: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    alpha: 1
+    animation:
+      speed: 5
+      intensity: 5
+      type: null
+      reverse: false
+    negative: false
+    priority: 0
+    color: null
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+  texture:
+    src: /modules/cof-srd/ui/icons/creature.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  alpha: 1
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+folder: null
+_key: '!actors!pJfhDzsIAxLfH3M1'

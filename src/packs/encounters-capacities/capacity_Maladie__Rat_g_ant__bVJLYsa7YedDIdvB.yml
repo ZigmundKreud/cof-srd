@@ -1,0 +1,74 @@
+name: Maladie (Rat géant)
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/encounter-capacities/maladie-rat-geant.webp
+effects: []
+_id: bVJLYsa7YedDIdvB
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: maladie-rat-geant
+  description: >-
+    <h1>Description</h1><p>chaque créature mordue par un rat doit faire un test
+    de CON difficulté 12 à la fin du combat. En cas d’échec, elle contracte une
+    maladie dont les symptômes se manifestent après 2d6 heures. La victime est
+    <em>Affaiblie</em> et perd 1d4 PV toutes les 24 heures qui ne peuvent pas
+    être soignés par le repos. Réalisez un nouveau test de CON difficulté 15
+    chaque jour pour tenter de mettre fin à la maladie. Les PV perdus sont alors
+    récupérés au rythme de 1 PV par jour de repos.</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!bVJLYsa7YedDIdvB'

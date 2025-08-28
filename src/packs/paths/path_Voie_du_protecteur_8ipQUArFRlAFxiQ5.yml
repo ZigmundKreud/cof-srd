@@ -1,0 +1,54 @@
+_id: 8ipQUArFRlAFxiQ5
+name: Voie du protecteur
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-protecteur.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-protecteur
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: jQ1plOGkjRpGMTpw
+      name: Baies magiques
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-protecteur-1.webp
+      sourceId: Compendium.cof-srd.capacities.jQ1plOGkjRpGMTpw
+    - _id: cdSzFjG4wHZ0hM4i
+      name: Forêt vivante
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-protecteur-2.webp
+      sourceId: Compendium.cof-srd.capacities.cdSzFjG4wHZ0hM4i
+    - _id: pReUAbf45TRmxdTC
+      name: Régénération
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-protecteur-3.webp
+      sourceId: Compendium.cof-srd.capacities.pReUAbf45TRmxdTC
+    - _id: xkMBOVXbFpreq9ER
+      name: Forme d'arbre
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-protecteur-4.webp
+      sourceId: Compendium.cof-srd.capacities.xkMBOVXbFpreq9ER
+    - _id: mcdC01mn70bDS2Cu
+      name: Sagesse héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-protecteur-5.webp
+      sourceId: Compendium.cof-srd.capacities.mcdC01mn70bDS2Cu
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!8ipQUArFRlAFxiQ5'

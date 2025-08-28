@@ -1,0 +1,72 @@
+name: Solide comme un roc
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-nain-2.webp
+_id: ALRjGJmG3N6GWXq2
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: solide-comme-un-roc
+  description: >-
+    <h1>Description</h1><p>Le nain réduit tous les <strong>DM</strong> subis de
+    2 points (mais il subit toujours au moins 1 point de <strong>DM</strong> par
+    attaque reçue).Ce bonus est cumulable avec d’autres sources de réduction des
+    <strong>DM</strong> comme la 'Peau d’acier du barbare'. Au rang 4, la
+    réduction passe à 3 points.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!ALRjGJmG3N6GWXq2'

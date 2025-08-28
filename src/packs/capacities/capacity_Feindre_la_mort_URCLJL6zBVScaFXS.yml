@@ -1,0 +1,74 @@
+_id: URCLJL6zBVScaFXS
+name: Feindre la mort
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-l-aventurier-4.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: feindre-la-mort
+  description: >-
+    <h1>Description</h1><p>Une fois par combat, le Voleur peut feindre la mort
+    après avoir reçu une blessure (même à 0 PV). Il peut ainsi passer pour mort
+    aussi longtemps qu’il le souhaite et un test d’<strong>INT</strong>
+    difficulté 20 est nécessaire pour révéler la supercherie. Lorsqu’il  décide
+    de se relever, le Voleur gagne +1d6 PV et il obtient une action de 
+    mouvement supplémentaire en plus des actions normales autorisées à son
+    tour.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!URCLJL6zBVScaFXS'

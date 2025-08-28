@@ -1,0 +1,916 @@
+_id: AEZHH3g6qcHtTuRA
+name: Dragon jeune
+type: encounter
+sort: 100001
+flags: {}
+img: /modules/cof-srd/ui/icons/creature.webp
+items:
+  - _id: omc77WtBMXiZdvlo
+    name: Effroi (Dragon jeune)
+    type: capacity
+    sort: 100000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/encounter-capacities/effroi-dragon-jeune.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: effroi-dragon-jeune
+      description: >-
+        <h1>Description</h1><p>lorsque le dragon attaque pour la première fois,
+        toutes les créatures à moins de 50 m doivent réussir un test de SAG
+        difficulté [5+Mod. de FOR du dragon] ou être submergées par la peur et
+        <em>Ralenties</em> pendant 1d4 tours.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!AEZHH3g6qcHtTuRA.omc77WtBMXiZdvlo'
+  - _id: to69Af3gs2ByBfRQ
+    name: Coup de queue (Dragon jeune)
+    type: capacity
+    sort: 200000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/coup-de-queue-dragon-jeune.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: coup-de-queue-dragon-jeune
+      description: >-
+        <h1>Description</h1><p>à chaque fois qu’un adversaire attaque le dragon
+        dans le dos, il subit une attaque de queue gratuite équivalente à une
+        attaque avec un malus de -5 et des DM divisés par 2.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!AEZHH3g6qcHtTuRA.to69Af3gs2ByBfRQ'
+  - _id: VBmRCeOhtenn7Xci
+    name: Immunités (Dragon jeune)
+    type: capacity
+    sort: 300000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/encounter-capacities/immunites-dragon-jeune.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: immunites-dragon-jeune
+      description: >-
+        <h1>Description</h1><p>un dragon est immunisé au sommeil et à la
+        paralysie et ne subit aucun DM du type correspondant à son souffle.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!AEZHH3g6qcHtTuRA.VBmRCeOhtenn7Xci'
+  - _id: bVgFpKT6vPlzseDB
+    name: Souffle enflammé
+    type: capacity
+    sort: 400000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/capacities/voie-des-creatures-elementaire-du-feu-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: souffle-enflamme
+      description: >-
+        <h1>Description</h1><p>Le souffle est une attaque de zone affectant
+        toutes les créatures dans un cône de 10 m de long sur 5 m de large pour
+        une créature moyenne ou grande (énorme 20 x 10 m et colossale 30 x 15
+        m). L’attaque inflige automatiquement (pas de test d’attaque) [(NC+2) x
+        1d6] <strong>DM</strong> (par exemple 6d6 pour NC 4). Les
+        <strong>DM</strong> sont divisés par 2 si la victime réussit un test de
+        <strong>DEX</strong> difficulté 13. La créature doit attendre 1d4 tours
+        avant d’utiliser à nouveau son souffle après chaque utilisation. Pour
+        plus de simplicité, lorsque les <strong>DM</strong> dépassent 6d6 chaque
+        d6 supplémentaire et remplacer par un bonus de +3. Ainsi un dragon NC 14
+        aura un souffle infligeant [6d6 + 30] <strong>DM</strong>.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!AEZHH3g6qcHtTuRA.bVgFpKT6vPlzseDB'
+  - _id: 7OkOod3x8oHkcsiG
+    name: Vol rapide
+    type: capacity
+    sort: 500000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-volantes-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: vol-rapide
+      description: >-
+        <h1>Description</h1><p>La créature obtient une action de mouvement
+        supplémentaire par tour lorsqu’elle est en vol. Au premier tour de
+        combat, la créature obtient un bonus de +5 en attaque et +1d6 aux
+        <strong>DM</strong> si elle est en vol et attaque une créature au
+        sol.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!AEZHH3g6qcHtTuRA.7OkOod3x8oHkcsiG'
+  - _id: TPjhfsQyR0ZtXm72
+    name: Agripper
+    type: capacity
+    sort: 600000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-volantes-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: agripper
+      description: >-
+        <h1>Description</h1><p>Sur un résultat de 15-20 au d20 en attaque, la
+        créature agrippe sa proie et ne la lâche plus. Elle obtient un bonus de
+        +5 en attaque et +1d6 aux <strong>DM</strong> contre la cible qu’elle
+        agrippe et celle-ci est Immobilisée si elle est de taille inférieure. La
+        victime peut essayer de se libérer au prix d’une action de mouvement en
+        réussissant un test de <strong>FOR</strong> opposé.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!AEZHH3g6qcHtTuRA.TPjhfsQyR0ZtXm72'
+  - _id: g8SqbwC5J0ZILzFP
+    name: Emporter dans les airs
+    type: capacity
+    sort: 700000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-volantes-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: emporter-dans-les-airs
+      description: >-
+        <h1>Description</h1><p>La créature peut emporter dans les airs une
+        victime agrippée de taille inférieure à la sienne au prix d’une action
+        de mouvement. Au premier tour, si la victime se libère (test de
+        <strong>FOR</strong> opposé), elle subit, 5d6 <strong>DM</strong> de
+        chute. Au tour suivant, si la créature décide de prendre de l’altitude,
+        les <strong>DM</strong> passent à 10d6.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!AEZHH3g6qcHtTuRA.g8SqbwC5J0ZILzFP'
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  stats:
+    str:
+      key: str
+      label: COF.stats.str.label
+      abbrev: COF.stats.str.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 9
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    dex:
+      key: dex
+      label: COF.stats.dex.label
+      abbrev: COF.stats.dex.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 3
+      value: 10
+      tmpmod: null
+      superior: true
+      skillbonus: 0
+      skillmalus: 0
+    con:
+      key: con
+      label: COF.stats.con.label
+      abbrev: COF.stats.con.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 9
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    int:
+      key: int
+      label: COF.stats.int.label
+      abbrev: COF.stats.int.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 2
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    wis:
+      key: wis
+      label: COF.stats.wis.label
+      abbrev: COF.stats.wis.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: true
+      skillbonus: 0
+      skillmalus: 0
+    cha:
+      key: cha
+      label: COF.stats.cha.label
+      abbrev: COF.stats.cha.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 2
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+  attacks:
+    melee:
+      key: melee
+      label: COF.attacks.melee.label
+      abbrev: COF.attacks.melee.abbrev
+      stat: '@stats.str.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    ranged:
+      key: ranged
+      label: COF.attacks.ranged.label
+      abbrev: COF.attacks.ranged.abbrev
+      stat: '@stats.dex.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    magic:
+      key: magic
+      label: COF.attacks.magic.label
+      abbrev: COF.attacks.magic.abbrev
+      stat: '@stats.int.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+  description: >-
+    <h1>Description</h1><p><em>Aucune description
+    fournie.</em></p><p><strong>Milieu : </strong><p>spécial</p>
+  attributes:
+    hp:
+      key: hp
+      label: COF.attributes.hp.label
+      abbrev: COF.attributes.hp.abbrev
+      base: 110
+      bonus: 0
+      value: 110
+      max: 110
+    def:
+      key: def
+      label: COF.attributes.def.label
+      abbrev: COF.attributes.def.abbrev
+      base: 24
+      bonus: 0
+      malus: 0
+      value: 24
+    init:
+      key: init
+      label: COF.attributes.init.label
+      abbrev: COF.attributes.init.abbrev
+      base: 17
+      bonus: 0
+      malus: 0
+      value: 17
+    dr:
+      key: dr
+      label: COF.attributes.dr.label
+      abbrev: COF.attributes.dr.abbrev
+      enabled: false
+      base:
+        value: 0
+        ignored: ''
+      bonus:
+        value: 0
+        ignored: ''
+      value: 0
+    rp:
+      key: rp
+      label: COF.attributes.rp.label
+      abbrev: COF.attributes.rp.abbrev
+      enabled: false
+      base: 5
+      bonus: 0
+      value: 5
+      max: 5
+    fp:
+      key: fp
+      label: COF.attributes.fp.label
+      abbrev: COF.attributes.fp.abbrev
+      enabled: false
+      base: 3
+      bonus: 0
+      value: 3
+      max: 3
+    mp:
+      key: mp
+      label: COF.attributes.mp.label
+      abbrev: COF.attributes.mp.abbrev
+      enabled: false
+      base: 0
+      bonus: 0
+      value: 0
+      max: 0
+    hd:
+      key: hd
+      label: COF.attributes.hd.label
+      abbrev: COF.attributes.hd.abbrev
+      value: 1d4
+    overload:
+      key: over
+      label: COF.attributes.over.label
+      abbrev: COF.attributes.over.abbrev
+      misc: 0
+    madness:
+      key: fp
+      label: COF.attributes.madness.label
+      abbrev: COF.attributes.madness.abbrev
+      enabled: false
+      base: 0
+      value: 0
+  currency:
+    pp:
+      key: pp
+      label: COF.currency.pp.label
+      abbrev: COF.currency.pp.abbrev
+      qty: 0
+    gp:
+      key: gp
+      label: COF.currency.gp.label
+      abbrev: COF.currency.gp.abbrev
+      qty: 0
+    sp:
+      key: sp
+      label: COF.currency.sp.label
+      abbrev: COF.currency.sp.abbrev
+      qty: 0
+    cp:
+      key: cp
+      label: COF.currency.cp.label
+      abbrev: COF.currency.cp.abbrev
+      qty: 0
+  alert:
+    type: error
+    msg: ''
+  details:
+    gender: ''
+    age: ''
+    weight: ''
+    height: ''
+    eyes: ''
+    hair: ''
+    size: huge
+    senses: ''
+    languages:
+      value: []
+      custom: ''
+  settings:
+    combat:
+      folded: []
+    inventory:
+      folded: []
+    capacities:
+      folded: []
+    effects:
+      folded: []
+  moduleData: {}
+  key: dragon-jeune
+  nc:
+    key: nc
+    label: COF.attributes.nc.label
+    abbrev: COF.attributes.nc.abbrev
+    value: 10
+  weapons:
+    - name: Morsure et griffes
+      mod: 17
+      dmg: 3d6+13
+    - name: Souffle (L)
+      mod: ''
+      range: 20x15m
+      dmg: 6d6+30
+  capacities:
+    - name: Effroi
+      type: creature
+      description: >-
+        lorsque le dragon attaque pour la première fois, toutes les créatures à
+        moins de 50 m doivent réussir un test de SAG difficulté [5+Mod. de FOR
+        du dragon] ou être submergées par la peur et <em>Ralenties</em> pendant
+        1d4 tours.
+    - name: Coup de queue
+      type: creature
+      description: >-
+        à chaque fois qu’un adversaire attaque le dragon dans le dos, il subit
+        une attaque de queue gratuite équivalente à une attaque avec un malus de
+        -5 et des DM divisés par 2.
+    - name: Immunités
+      type: creature
+      description: >-
+        un dragon est immunisé au sommeil et à la paralysie et ne subit aucun DM
+        du type correspondant à son souffle.
+  paths:
+    - key: voie-des-creatures-elementaire-du-feu-1
+    - key: voie-des-creatures-volantes-1
+    - key: voie-des-creatures-volantes-2
+    - key: voie-des-creatures-volantes-3
+  boss:
+    rank: 2
+    type: null
+  families:
+    - name: Dragons
+      key: dragons
+      description: >-
+        <h1>Description</h1><p>Énormes créatures reptiliennes, les dragons
+        possèdent quatre pattes et de grandes ailes membraneuses.</p><p>Le
+        caractère de chaque dragon varie selon son espèce, mais tous sont fiers
+        et attirés par les trésors et ceux qui ont réuni un butin fabuleux
+        évitent de s’en éloigner.<br> Les dragons chromatiques sont malfaisants
+        et leur souffle correspond à leur couleur : blanc (froid), bleu
+        (foudre), noir (acide), rouge (feu) et vert (gaz empoisonné). Les
+        dragons métalliques sont bienfaisants et en plus du souffle élémentaire
+        indiqué, ils possèdent un souffle magique non létal (DM temporaires) :
+        airain (feu), argent (froid), bronze (électricité), cuivre (acide) et or
+        (feu).<br> Tous les dragons parlent le draconien et apprennent d’autres
+        langues en vieillissant. Ils deviennent de plus en plus puissants avec
+        l’âge et leur taille peut atteindre plus de 30 m. Les dragons sont des
+        créatures très intelligentes, aux sens très affûtés, et certains
+        utilisent la magie, n’hésitez pas à ajouter des niveaux de <a
+        href="http://co-drs.org/profils/magicien/">Magicien</a> aux Profils
+        décrits si vous le souhaitez.</p><p><strong>Capacités communes aux
+        dragons</strong><br> <em>Effroi :</em> lorsque le dragon attaque pour la
+        première fois, toutes les créatures à moins de 50 m doivent réussir un
+        test de SAG difficulté [5+Mod. de FOR du dragon] ou être submergées par
+        la peur et <em>Ralenties</em> pendant 1d4 tours.</p><p><em>Coup de queue
+        :</em> à chaque fois qu’un adversaire attaque le dragon dans le dos, il
+        subit une attaque de queue gratuite équivalente à une attaque avec un
+        malus de -5 et des DM divisés par 2. </p><p><em>Immunités :</em> un
+        dragon est immunisé au sommeil et à la paralysie et ne subit aucun DM du
+        type correspondant à son souffle.</p>
+  archetype: rapide
+  category: vivante
+prototypeToken:
+  flags: {}
+  name: Dragon jeune
+  displayName: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    alpha: 1
+    animation:
+      speed: 5
+      intensity: 5
+      type: null
+      reverse: false
+    negative: false
+    priority: 0
+    color: null
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+  texture:
+    src: /modules/cof-srd/ui/icons/creature.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  alpha: 1
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+folder: null
+_key: '!actors!AEZHH3g6qcHtTuRA'

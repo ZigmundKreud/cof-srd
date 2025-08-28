@@ -1,0 +1,64 @@
+_id: jRc5rHzNFGcgcjHc
+name: Voie du combat à deux armes
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-combat-a-deux-armes.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-combat-a-deux-armes
+  description: >-
+    <h1>Note</h1><p>Avec autorisation du MJ, la Voie du combat à deux armes peut
+    aussi être choisie par un joueur pour un personnage dont le Profil est
+    Guerrier dès sa création en remplacement d'une Voie de son choix. Toutefois,
+    dans ce cas, les capacités de rang 1 et 5 deviennent des capacités limitées.
+
+    Autres Profils possibles : tous sauf la famille des lanceurs de sort.
+
+    Requis : Mod. de <strong>DEX</strong> de +1 minimum.
+
+    </p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: XJvn6COIptQQkemk
+      name: Combat à deux armes amélioré
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-1.webp
+      sourceId: Compendium.cof-srd.capacities.XJvn6COIptQQkemk
+    - _id: 1pzjmO6f68wOCmdA
+      name: Parade croisée
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-2.webp
+      sourceId: Compendium.cof-srd.capacities.1pzjmO6f68wOCmdA
+    - _id: oaVodJwyDZ3LF3ZQ
+      name: Symétrie
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-3.webp
+      sourceId: Compendium.cof-srd.capacities.oaVodJwyDZ3LF3ZQ
+    - _id: NSkzDO2ZJ8jsBl63
+      name: Double peine
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-4.webp
+      sourceId: Compendium.cof-srd.capacities.NSkzDO2ZJ8jsBl63
+    - _id: Ue86QiAZovmyLR5f
+      name: Combat à deux armes parfait
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-5.webp
+      sourceId: Compendium.cof-srd.capacities.Ue86QiAZovmyLR5f
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!jRc5rHzNFGcgcjHc'

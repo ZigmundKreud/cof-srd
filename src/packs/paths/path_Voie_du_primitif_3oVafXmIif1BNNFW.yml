@@ -1,0 +1,54 @@
+_id: 3oVafXmIif1BNNFW
+name: Voie du primitif
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-primitif.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-primitif
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: cHnZxuc3zoxNRl2L
+      name: Proche de la nature
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-primitif-1.webp
+      sourceId: Compendium.cof-srd.capacities.cHnZxuc3zoxNRl2L
+    - _id: 5uogl2V5kmiATzF0
+      name: Armure de vent
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-primitif-2.webp
+      sourceId: Compendium.cof-srd.capacities.5uogl2V5kmiATzF0
+    - _id: EkzAJylLRQe3R47Z
+      name: Vigilance
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-primitif-3.webp
+      sourceId: Compendium.cof-srd.capacities.EkzAJylLRQe3R47Z
+    - _id: osqAj8A0rrWZ0sRI
+      name: Résistance à la magie
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-primitif-4.webp
+      sourceId: Compendium.cof-srd.capacities.osqAj8A0rrWZ0sRI
+    - _id: qouO6975f1bmRduF
+      name: Vitalité débordante
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-primitif-5.webp
+      sourceId: Compendium.cof-srd.capacities.qouO6975f1bmRduF
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!3oVafXmIif1BNNFW'

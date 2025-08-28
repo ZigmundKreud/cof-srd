@@ -1,0 +1,71 @@
+name: Mur de force
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-l-invocation-3.webp
+_id: lFl4OKXYCTQW8Aaa
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: mur-de-force
+  description: >-
+    <h1>Description</h1><p>L'Ensorceleur crée un mur de force indestructible
+    (portée 10 m, maximum 5 m de haut et 10 m de long), ou bien un hémisphère de
+    3 m de rayon centré sur lui-même. Le sort dure pendant [5 + Mod. de
+    <strong>CHA</strong>] tours.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!lFl4OKXYCTQW8Aaa'

@@ -1,0 +1,72 @@
+name: Mirage
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-2.webp
+_id: f9v8rLLb31gy8cLC
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: mirage
+  description: >-
+    <h1>Description</h1><p>L'Ensorceleur crée une illusion visuelle et sonore
+    immobile d'une durée de [5 + Mod. de <strong>CHA</strong>] minutes (ou tours
+    si l'illusion est animée). Le volume maximum de l'illusion est de 10 m de
+    coté par rang dans la voie (portée 500 m). Divisez ces paramètres par 10 si
+    l'illusion est animée. Interagir avec l'illusion la fait disparaître.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!f9v8rLLb31gy8cLC'

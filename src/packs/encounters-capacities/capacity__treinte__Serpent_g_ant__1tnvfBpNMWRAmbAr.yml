@@ -1,0 +1,74 @@
+name: Étreinte (Serpent géant)
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/encounter-capacities/etreinte-serpent-geant.webp
+effects: []
+_id: 1tnvfBpNMWRAmbAr
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: etreinte-serpent-geant
+  description: >-
+    <h1>Description</h1><p>à chaque fois que le serpent réussit une attaque il
+    peut faire un test de FOR opposé contre sa victime (toutefois celle-ci peut
+    choisir de résister par un test de DEX). En cas de succès, il s’enroule
+    autour d’elle et commence à l’étouffer, infligeant automatiquement 1d6 DM
+    supplémentaire par tour. La victime est <em>Immobilisée</em>. Elle peut
+    tenter de se libérer au prix d’une action de mouvement à chaque tour, en
+    réussissant un test de FOR difficulté 20.</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!1tnvfBpNMWRAmbAr'

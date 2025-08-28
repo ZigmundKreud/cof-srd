@@ -1,0 +1,72 @@
+name: Attaque sonore
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-2.webp
+_id: 31ux5zryEbXnJqnq
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: attaque-sonore
+  description: >-
+    <h1>Description</h1><p>Le barde pousse un cri dont les effets sont
+    dévastateurs (ou produit un son avec un instrument à cette même fin). Sur un
+    test  d'attaque magique réussi, il inflige [1d6 + Mod. de
+    <strong>CHA</strong>] <strong>DM</strong> à toutes les cibles lui faisant
+    face sur une portée de 10 m.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!31ux5zryEbXnJqnq'

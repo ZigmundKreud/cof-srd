@@ -1,0 +1,80 @@
+name: Attaque sournoise
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-2.webp
+_id: kM273cYLNEMWG0Xs
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: attaque-sournoise
+  description: >-
+    <h1>Description</h1><p>Quand il attaque un adversaire dans le dos* ou par
+    surprise, le Voleur inflige 1d6 de <strong>DM</strong> supplémentaires par
+    rang possédé dans cette voie (notez que les dés d’Attaque sournoise ne sont
+    pas multipliés en cas de critique).
+
+
+    * Attaquer de dos : lorsque le Voleur attaque la même créature qu’un allié,
+    on considère qu’il peut attaquer celle-ci de dos à 2 conditions.
+
+    1. Le Voleur et l’allié peuvent se placer de part et d’autre de la cible.
+
+    2. La cible n’a pas attaqué le Voleur à son dernier tour (dans le cas
+    contraire, on considère qu’elle lui fait face).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!kM273cYLNEMWG0Xs'

@@ -1,0 +1,73 @@
+name: Recouvrir (Nuée d’araignées venimeuses)
+type: capacity
+flags: {}
+img: >-
+  /modules/cof-srd/ui/icons/encounter-capacities/recouvrir-nuee-daraignees-venimeuses.webp
+effects: []
+_id: AnDckl9BgCbpAeIJ
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: recouvrir-nuee-daraignees-venimeuses
+  description: >-
+    <h1>Description</h1><p>la nuée peut recouvrir sa proie après avoir réussi
+    une attaque de contact contre sa cible. Dès lors, la cible est distraite,
+    déséquilibrée et victime d’innombrables morsures. La nuée lui inflige
+    automatiquement 1d6 DM par tour et la victime est <em>Affaiblie</em> tant
+    que la nuée n’est pas vaincue.</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!AnDckl9BgCbpAeIJ'

@@ -1,0 +1,74 @@
+name: Domination (Balor)
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/encounter-capacities/domination-balor.webp
+effects: []
+_id: w8uiK4G4fGusTYBw
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: domination-balor
+  description: >-
+    <h1>Description</h1><p>le Balor doit gagner un test opposé de SAG contre sa
+    cible pour la dominer (portée 20 mètres) pendant [1d6 + 7 tours]. En cas de
+    succès, le démon peut contrôler les faits et gestes de sa cible comme s’il
+    s’agissait d’un simple pantin ou lui donner des ordres qu’elle est obligée
+    d’exécuter. Les créatures de niveau 10 et plus sont immunisées à ce pouvoir
+    de même que les créatures dépourvues d’esprit comme les créatures mécaniques
+    ou certains mort-vivants.</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!w8uiK4G4fGusTYBw'

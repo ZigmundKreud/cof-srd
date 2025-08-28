@@ -1,0 +1,53 @@
+_id: 5dBGFEkC0cP7Xozw
+name: Voie des créatures élémentaire [du feu]
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-creatures-elementaire-du-feu.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-des-creatures-elementaire-du-feu
+  description: >-
+    <h1>Note</h1><p>Cette voie, déclinée ici pour le feu, peut l’être pour
+    d’autres éléments : froid, acide, foudre, etc. Quel que soit le rang atteint
+    ou choisi dans cette voie, la créature est immunisée aux <strong>DM</strong>
+    de l’élément choisi (ici feu).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: bVgFpKT6vPlzseDB
+      name: Souffle enflammé
+      img: >-
+        /modules/cof-srd/ui/icons/capacities/voie-des-creatures-elementaire-du-feu-1.webp
+      sourceId: Compendium.cof-srd.capacities.bVgFpKT6vPlzseDB
+    - _id: jXZEwGj2ELT1gTe1
+      name: Corps enflammé
+      img: >-
+        /modules/cof-srd/ui/icons/capacities/voie-des-creatures-elementaire-du-feu-2.webp
+      sourceId: Compendium.cof-srd.capacities.jXZEwGj2ELT1gTe1
+    - _id: oJVV8bqC1lfpH7vf
+      name: Explosion finale
+      img: >-
+        /modules/cof-srd/ui/icons/capacities/voie-des-creatures-elementaire-du-feu-3.webp
+      sourceId: Compendium.cof-srd.capacities.oJVV8bqC1lfpH7vf
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!5dBGFEkC0cP7Xozw'

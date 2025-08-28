@@ -1,0 +1,77 @@
+name: Rune de pouvoir
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-5.webp
+_id: sKzxHxeASob5MEpX
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: rune-de-pouvoir
+  description: >-
+    <h1>Description</h1><p>Le Forgesort peut lier un sort à un objet par une
+    inscription runique. S’il ne connaît pas lui-même le sort, il doit se faire
+    aider par un personnage qui sait le lancer. Le sort ainsi lié peut être
+    utilisé trois fois par jour. Le processus est le même que pour fabriquer une
+    arme ou une armure magique, remplacez le bonus par le rang du sort à lier.
+    Il peut aussi lier certains sorts à une potion (en général les sorts dont le
+    personnage lui-même est la cible), mais pas au-delà de son rang dans la Voie
+    des élixirs, au prix de un jour de travail et 10 pa par rang du sort. Le PV
+    perdu pour la création d’une potion est récupéré dès que la potion est
+    consommée ou au plus tard après 1 an.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!sKzxHxeASob5MEpX'

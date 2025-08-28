@@ -1,0 +1,89 @@
+_id: ARkV8q8SfnchScPS
+name: Invocation d'un démon
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-5.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: invocation-dun-demon
+  description: >-
+    <h1>Description</h1>
+
+    <p>Une fois par combat, en sacrifiant 1d6 PV, le N&eacute;cromancien invoque
+    un d&eacute;mon &agrave; son service pour [5 + Mod.
+    d&rsquo;<strong>INT</strong>] tours.<br />Ce d&eacute;mon poss&egrave;de
+    l&rsquo;apparence d&rsquo;un Balor en plus petit (environ 2m30).<br />Le
+    d&eacute;mon divise par deux tous les <strong>DM</strong> non magiques
+    subis, les sorts et les armes magiques lui infligent des <strong>DM</strong>
+    normaux.</p>
+
+    <p>Il est capable de voler &agrave; une vitesse &eacute;quivalente &agrave;
+    un d&eacute;placement normal.</p>
+
+    <p>Lorsque le N&eacute;cromancien atteint le niveau 10, le d&eacute;mon
+    devient capable d&rsquo;attaquer deux fois par tour, au prix d&rsquo;une
+    action limit&eacute;e. <br /><br />D&eacute;mon : <br /><strong>FOR</strong>
+    +5*, <strong>DEX</strong> +2, <strong>CON</strong> +4*, <strong>INT</strong>
+    +2, <strong>SAG</strong> +2, <strong>CHA</strong> +0, <br
+    /><strong>Init</strong> 16, <strong>DEF</strong> 17, <br
+    /><strong>PV</strong> [niveau x 5], <br /><strong>Attaque au
+    contact</strong> = [niveau du n&eacute;cromancien],<br /><strong>DM</strong>
+    1d8+5</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!ARkV8q8SfnchScPS'

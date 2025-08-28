@@ -1,0 +1,71 @@
+name: Symétrie
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-3.webp
+_id: oaVodJwyDZ3LF3ZQ
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: symetrie
+  description: >-
+    <h1>Description</h1><p>Le personnage n’est plus obligé de manier une arme
+    légère dans sa main secondaire. S’il le souhaite, il peut utiliser une arme
+    aussi lourde que dans sa main principale (d8). S’il utilise deux armes
+    légères, il gagne un bonus de +1 en attaque.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!oaVodJwyDZ3LF3ZQ'

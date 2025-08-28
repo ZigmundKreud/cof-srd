@@ -1,0 +1,54 @@
+_id: U0cH2vLItLdGLtaT
+name: Voie de la guerre sainte
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-guerre-sainte.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-guerre-sainte
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 1NoVCs79epbEHqbK
+      name: Arme bénie
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-1.webp
+      sourceId: Compendium.cof-srd.capacities.1NoVCs79epbEHqbK
+    - _id: tyZJnxLSDwbPIcia
+      name: Bouclier de la foi
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-2.webp
+      sourceId: Compendium.cof-srd.capacities.tyZJnxLSDwbPIcia
+    - _id: T4cwO5p78cIHMK5G
+      name: Marteau spirituel
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-3.webp
+      sourceId: Compendium.cof-srd.capacities.T4cwO5p78cIHMK5G
+    - _id: Q2qKYE2w5F74qC6W
+      name: Châtiment divin
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-4.webp
+      sourceId: Compendium.cof-srd.capacities.Q2qKYE2w5F74qC6W
+    - _id: g1gYqYm4WgFBkSRv
+      name: Mot de pouvoir
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-5.webp
+      sourceId: Compendium.cof-srd.capacities.g1gYqYm4WgFBkSRv
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!U0cH2vLItLdGLtaT'

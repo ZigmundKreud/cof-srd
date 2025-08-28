@@ -1,0 +1,53 @@
+_id: oNRVjBJfUoDkX5eL
+name: Voie du PNJ récurrent
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-pnj-recurrent.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-pnj-recurrent
+  description: >-
+    <h1>Note</h1><p>Cette voie est créée sur mesure pour un PNJ important et
+    récurrent de votre campagne. Elle doit lui permettre de survivre à
+    l’agressivité bien naturelle de vos PJ à son encontre et lui donner
+    l’occasion de se tirer des plus mauvais pas pour mieux revenir plus
+    tard&#8230; et le rendre encore plus détestable ! Les créatures dotées de
+    cette voie obtiennent l’<strong>INT</strong> et le CHA en Carac. Supérieure
+    (indiqué par un *).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: vTeHAjW97F98ZyPG
+      name: Instinct de survie (Creature)
+      img: systems/cof/ui/icons/capacities/voie-du-pnj-recurrent-1.webp
+      sourceId: Compendium.cof-srd.capacities.vTeHAjW97F98ZyPG
+    - _id: SjswPW3ZT7ikVyds
+      name: Chair à canon
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pnj-recurrent-2.webp
+      sourceId: Compendium.cof-srd.capacities.SjswPW3ZT7ikVyds
+    - _id: s8iBR0vquttnRaTV
+      name: Porteur de poisse
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pnj-recurrent-3.webp
+      sourceId: Compendium.cof-srd.capacities.s8iBR0vquttnRaTV
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!oNRVjBJfUoDkX5eL'

@@ -1,0 +1,54 @@
+_id: 8BOjv6kSyjIbdMjR
+name: Voie de la magie élémentaire
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-elementaire.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-magie-elementaire
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: ttVWGoEx6M7UASf2
+      name: Asphyxie
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-1.webp
+      sourceId: Compendium.cof-srd.capacities.ttVWGoEx6M7UASf2
+    - _id: V6QPzK0a8Qwpwhdp
+      name: Protection contre les éléments
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-2.webp
+      sourceId: Compendium.cof-srd.capacities.V6QPzK0a8Qwpwhdp
+    - _id: r6wC1vcP5MaBIJUk
+      name: Arme enflammée
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-3.webp
+      sourceId: Compendium.cof-srd.capacities.r6wC1vcP5MaBIJUk
+    - _id: bclCNtKl8obM9UGr
+      name: Respiration aquatique
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-4.webp
+      sourceId: Compendium.cof-srd.capacities.bclCNtKl8obM9UGr
+    - _id: gUq5KJuzHHvYoREU
+      name: Peau de pierre
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-5.webp
+      sourceId: Compendium.cof-srd.capacities.gUq5KJuzHHvYoREU
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!8BOjv6kSyjIbdMjR'

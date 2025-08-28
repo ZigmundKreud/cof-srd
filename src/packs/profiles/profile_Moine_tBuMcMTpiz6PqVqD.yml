@@ -1,0 +1,82 @@
+_id: tBuMcMTpiz6PqVqD
+name: Moine
+type: profile
+flags: {}
+img: /modules/cof-srd/ui/icons/profiles/moine.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: moine
+  description: >-
+    <h1>Description</h1><p>Le Moine combat à mains nues et utilise le contrôle
+    qu'il a sur son esprit et son corps pour transformer ce dernier en arme de
+    chair.</p><h1>Maîtrise</h1><p>Le Moines n'y font pas appel et sont plus 
+    efficaces à mains nues.</p><h1>Possessions de départ</h1><p>Bâton ferré
+    (<strong>DM</strong> 1d6).</p><h1>Notes</h1><h2>Adapter le moine à votre
+    univers</h2><p>Bien que d 'inspiration asiatique, ce Moine est un
+    moine-guerrier qui peut être adapté à de nombreux mondes fantastiques. Si
+    cela ne colle pas avec votre univers, vous pouvez facilement transposer les
+    capacités de combat à mains nues avec une arme (l'épée par exemple) afin d
+    'occidentaliser ce profil.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  dv: 1d8
+  spellcasting: ''
+  mpfactor: '0'
+  paths:
+    - _id: LVGrkV4h4kHTluim
+      name: Voie de l'énergie vitale
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-energie-vitale.webp
+      sourceId: Compendium.cof-srd.paths.LVGrkV4h4kHTluim
+    - _id: QWEUF746ZyuCPmZ1
+      name: Voie de la maîtrise
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-maitrise.webp
+      sourceId: Compendium.cof-srd.paths.QWEUF746ZyuCPmZ1
+    - _id: m1ZI2GIINMlbRQjE
+      name: Voie de la méditation
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-meditation.webp
+      sourceId: Compendium.cof-srd.paths.m1ZI2GIINMlbRQjE
+    - _id: 7jUk4TrJFQWe9kvl
+      name: Voie du poing
+      img: /modules/cof-srd/ui/icons/paths/voie-du-poing.webp
+      sourceId: Compendium.cof-srd.paths.7jUk4TrJFQWe9kvl
+    - _id: xDjQbLAWZxDUCDlb
+      name: Voie du vent
+      img: /modules/cof-srd/ui/icons/paths/voie-du-vent.webp
+      sourceId: Compendium.cof-srd.paths.xDjQbLAWZxDUCDlb
+  proficiencies:
+    daggers: false
+    swords: false
+    axes: false
+    staves: false
+    clubs: false
+    hammers: false
+    katanas: false
+    2-hands: false
+    slings: false
+    bows: false
+    crossbows: false
+    throwing-weapons: false
+    powder-weapons: false
+    soft-leather: false
+    studded-leather: false
+    mail: false
+    half-plate: false
+    full-plate: false
+    shield: false
+  prestige: []
+  alternatives: []
+folder: null
+sort: 0
+_key: '!items!tBuMcMTpiz6PqVqD'

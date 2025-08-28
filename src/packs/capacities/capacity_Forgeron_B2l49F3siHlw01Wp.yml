@@ -1,0 +1,73 @@
+name: Forgeron
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-1.webp
+_id: B2l49F3siHlw01Wp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: forgeron
+  description: >-
+    <h1>Description</h1><p>Le Forgesort obtient un bonus de +2 par Rang dans la
+    Voie aux tests d'orfèvrerie ou de forge. Au prix d'une action de mouvement,
+    il peut enflammer son marteau ou son bâton pour une durée de [5 + Mod.
+    d'<strong>INT</strong>] tours et gagne alors un bonus aux
+    <strong>DM</strong> de +1 par rang dans la voie avec cette arme
+    (<strong>DM</strong> de feu).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!B2l49F3siHlw01Wp'

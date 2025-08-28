@@ -1,0 +1,70 @@
+name: Attaque en meute (Gobelin de base)
+type: capacity
+flags: {}
+img: >-
+  /modules/cof-srd/ui/icons/encounter-capacities/attaque-en-meute-gobelin-de-base.webp
+effects: []
+_id: GrzjsdeUorAZ1S4I
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: attaque-en-meute-gobelin-de-base
+  description: >-
+    <h1>Description</h1><p>lorsqu’au moins 2 gobelins attaquent la même cible à
+    ce tour, ils bénéficient d’un bonus de +2 en attaque.</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!GrzjsdeUorAZ1S4I'

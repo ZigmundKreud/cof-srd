@@ -1,0 +1,72 @@
+name: Ascétisme
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-l-energie-vitale-5.webp
+_id: 9FCxJGZ52QRgB3lZ
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: ascetisme
+  description: >-
+    <h1>Description</h1><p>Le Moine peut subsister sans nourriture, sans eau et
+    sans sommeil pendant [5 + Mod. <strong>SAG</strong>] jour. Il ne subit
+    aucune pénalité durant cette période. De plus, il peut désormais lancer deux
+    d20 à chaque fois qu'un test de <strong>CON</strong> lui est demandé et
+    conserver le meilleur résultat.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!9FCxJGZ52QRgB3lZ'

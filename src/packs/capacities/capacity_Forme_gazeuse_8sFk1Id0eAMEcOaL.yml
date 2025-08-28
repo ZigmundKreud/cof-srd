@@ -1,0 +1,74 @@
+name: Forme gazeuse
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-des-arcanes-2.webp
+_id: 8sFk1Id0eAMEcOaL
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: forme-gazeuse
+  description: >-
+    <h1>Description</h1><p>Le Magicien prend la consistance d’un gaz. Il se
+    déplace au ras du sol (s’il chute, il le fait au ralenti) à une vitesse de
+    10 m par tour. Il peut s’introduire par les plus petits interstices (comme
+    sous une porte) mais ne peut utiliser aucune capacité sous cette forme. Il
+    ne subit pas non plus de <strong>DM</strong>, à l’exception des sorts de
+    zone occasionnant des <strong>DM</strong> (comme Boule de feu). Le sort a
+    une durée de [1d4 + Mod. d’<strong>INT</strong>] tours.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!8sFk1Id0eAMEcOaL'

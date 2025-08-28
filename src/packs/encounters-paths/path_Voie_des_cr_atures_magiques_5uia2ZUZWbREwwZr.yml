@@ -1,0 +1,55 @@
+_id: 5uia2ZUZWbREwwZr
+name: Voie des créatures magiques
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-creatures-magiques.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-des-creatures-magiques
+  description: >-
+    <h1>Note</h1><p>Cette voie s’applique aux golems, aux élémentaires et aux
+    lycanthropes, à la plupart des démons et des mort-vivants. Une créature qui
+    bénéficie de cette voie retranche de 5 à 15 points aux <strong>DM</strong>
+    qui lui sont infligés par des armes ordinaires, ce qui augmente
+    considérablement sa résistance. Toutefois, contre un groupe de personnage
+    équipé d’armes appropriées ne permettant pas à la créature de profiter de
+    cet avantage, n’hésitez pas à réduire le NC de 1. Les créatures dotées de
+    cette voie obtiennent la <strong>CON</strong> en Carac. Supérieure (indiqué
+    par un *).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: TWxxalJsj3H0pvbI
+      name: Réduction des <strong>DM</strong>
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-1.webp
+      sourceId: Compendium.cof-srd.capacities.TWxxalJsj3H0pvbI
+    - _id: Y6mephOMWkwBf8LA
+      name: Vitalité surnaturelle
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-2.webp
+      sourceId: Compendium.cof-srd.capacities.Y6mephOMWkwBf8LA
+    - _id: vN8YrDhvg82brUlg
+      name: Immortel
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-3.webp
+      sourceId: Compendium.cof-srd.capacities.vN8YrDhvg82brUlg
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!5uia2ZUZWbREwwZr'

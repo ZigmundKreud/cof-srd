@@ -1,0 +1,97 @@
+_id: xWWthBSnnnELk3xw
+name: Demi-elfe
+type: species
+flags: {}
+img: /modules/cof-srd/ui/icons/species/demi-elfe.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: demi-elfe
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Demi-elfe a h&eacute;rit&eacute; des qualit&eacute;s de ses deux
+    parents (humain et Elfe). Il est g&eacute;n&eacute;ralement trait&eacute;
+    avec condescendance parmi les Elfes et est consid&eacute;r&eacute; comme un
+    Elfe parmi les humains.</p>
+
+    <p>Pr&eacute;jug&eacute;s typiques : les Demi-elfes sont des artistes
+    hors-pair dot&eacute;s d&rsquo;une grande sensibilit&eacute;. Toutefois,
+    attention car ils sont beaux parleurs et manipulateurs : cachez vos filles
+    et vos femmes, ils ont bris&eacute; plus d&rsquo;un c&oelig;ur et corrompu
+    bien des dames de r&eacute;putation vertueuse.</p>
+
+    <p><strong>&Acirc;ge de d&eacute;part : </strong>20+</p>
+
+    <p><strong>Long&eacute;vit&eacute;</strong> :&nbsp;150 ans</p>
+
+    <p><strong>Taille</strong> :&nbsp;1.50 m &agrave; 1.90 m</p>
+
+    <p><strong>Poids</strong> :&nbsp;40 kg &agrave; 80 kg</p>
+
+    <p><strong>Morphologie</strong> :&nbsp;Gr&acirc;ce naturelle, oreilles
+    l&eacute;g&egrave;rement pointues, pilosit&eacute; faible.</p>
+
+    <h2>Noms</h2>
+
+    <p>Les noms des personnages Demi-elfes refl&egrave;tent souvent leur double
+    nature et ils se composent d&rsquo;un pr&eacute;nom elfique et d&rsquo;un
+    nom humain. Plus rarement l&rsquo;inverse, car les Elfes n&rsquo;acceptent
+    pas qu&rsquo;une cr&eacute;ature avec une dur&eacute;e de vie aussi
+    br&egrave;ve porte le nom de leur lign&eacute;e.</p>
+
+    <h2>Racial</h2>
+
+    <p>-2 CON, +2 SAG</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  bonuses:
+    '0': null
+    '1': null
+    '2': null
+    '3': null
+    '4': null
+    '5': null
+    str: 0
+    dex: 0
+    con: -2
+    int: 0
+    wis: 2
+    cha: 0
+  paths:
+    - _id: Jh9dUJpLAYEu5jUV
+      name: Voie de l'humain
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-humain.webp
+      sourceId: Compendium.cof-srd.paths.Jh9dUJpLAYEu5jUV
+    - _id: Ax95ays7Dcw2kDFS
+      name: Voie du haut-elfe
+      img: /modules/cof-srd/ui/icons/paths/voie-du-haut-elfe.webp
+      sourceId: Compendium.cof-srd.paths.Ax95ays7Dcw2kDFS
+  capacities:
+    - _id: qbbpWew1pv73yATQ
+      name: Instinct de survie
+      img: /modules/cof-srd/ui/icons/capacities/instinct-de-survie.webp
+      sourceId: Compendium.cof-srd.capacities.qbbpWew1pv73yATQ
+    - _id: dKYtHvoyFmF0Y8g4
+      name: Lumière des étoiles
+      img: /modules/cof-srd/ui/icons/capacities/lumiere-des-etoiles.webp
+      sourceId: Compendium.cof-srd.capacities.dKYtHvoyFmF0Y8g4
+  racial: ''
+  age: ''
+  longevity: ''
+  height: ''
+  weight: ''
+folder: null
+sort: 0
+_key: '!items!xWWthBSnnnELk3xw'

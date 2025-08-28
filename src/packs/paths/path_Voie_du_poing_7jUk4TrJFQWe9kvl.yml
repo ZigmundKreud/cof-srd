@@ -1,0 +1,54 @@
+_id: 7jUk4TrJFQWe9kvl
+name: Voie du poing
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-poing.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-poing
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: OHosshhasEkbzI5J
+      name: Poings de fer
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-1.webp
+      sourceId: Compendium.cof-srd.capacities.OHosshhasEkbzI5J
+    - _id: MeLb2QKix3Ezdvjw
+      name: Parade de projectiles
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-2.webp
+      sourceId: Compendium.cof-srd.capacities.MeLb2QKix3Ezdvjw
+    - _id: cWz7Pq2x99gEOa1y
+      name: Peau de fer
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-3.webp
+      sourceId: Compendium.cof-srd.capacities.cWz7Pq2x99gEOa1y
+    - _id: DrqZanhb8RjJGmWZ
+      name: Déluge de coups
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-4.webp
+      sourceId: Compendium.cof-srd.capacities.DrqZanhb8RjJGmWZ
+    - _id: XH9xOZpLQAoBZ8JV
+      name: Puissance du ki
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-5.webp
+      sourceId: Compendium.cof-srd.capacities.XH9xOZpLQAoBZ8JV
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!7jUk4TrJFQWe9kvl'

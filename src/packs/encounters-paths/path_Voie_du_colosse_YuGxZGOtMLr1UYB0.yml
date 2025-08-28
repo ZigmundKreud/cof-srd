@@ -1,0 +1,50 @@
+_id: YuGxZGOtMLr1UYB0
+name: Voie du colosse
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-colosse.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-colosse
+  description: >-
+    <h1>Note</h1><p>Cette voie est à réserver aux créatures de grande taille,
+    les capacités présentées  n’affectent que les cibles de taille inférieure à
+    la créature. Les créatures dotées de cette voie obtiennent la
+    <strong>FOR</strong> en Carac. Supérieure (indiqué par un *).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: AqsPsZVUyDYy3DTj
+      name: Fauchage
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-colosse-1.webp
+      sourceId: Compendium.cof-srd.capacities.AqsPsZVUyDYy3DTj
+    - _id: Q8cWUxU0IkY8jbDZ
+      name: Balayage
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-colosse-2.webp
+      sourceId: Compendium.cof-srd.capacities.Q8cWUxU0IkY8jbDZ
+    - _id: S344vN4knjWmELwC
+      name: Projection
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-colosse-3.webp
+      sourceId: Compendium.cof-srd.capacities.S344vN4knjWmELwC
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!YuGxZGOtMLr1UYB0'

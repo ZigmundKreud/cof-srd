@@ -1,0 +1,48 @@
+_id: ObKB3GxGPnaxAb1O
+name: Voie des créatures volantes
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-creatures-volantes.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-des-creatures-volantes
+  description: >-
+    <h1>Note</h1><p>Les créatures dotées de cette capacité obtiennent la
+    <strong>SAG</strong> en Carac. Supérieure (indiqué par un *).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 7OkOod3x8oHkcsiG
+      name: Vol rapide
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-volantes-1.webp
+      sourceId: Compendium.cof-srd.capacities.7OkOod3x8oHkcsiG
+    - _id: TPjhfsQyR0ZtXm72
+      name: Agripper
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-volantes-2.webp
+      sourceId: Compendium.cof-srd.capacities.TPjhfsQyR0ZtXm72
+    - _id: g8SqbwC5J0ZILzFP
+      name: Emporter dans les airs
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-volantes-3.webp
+      sourceId: Compendium.cof-srd.capacities.g8SqbwC5J0ZILzFP
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!ObKB3GxGPnaxAb1O'

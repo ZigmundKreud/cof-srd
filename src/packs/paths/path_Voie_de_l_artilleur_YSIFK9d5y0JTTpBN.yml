@@ -1,0 +1,54 @@
+_id: YSIFK9d5y0JTTpBN
+name: Voie de l'artilleur
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-artilleur.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-artilleur
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: ZRPc9Smtn1XWOXqA
+      name: Mécanismes
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-artilleur-1.webp
+      sourceId: Compendium.cof-srd.capacities.ZRPc9Smtn1XWOXqA
+    - _id: wC2rS09HihUXk3BN
+      name: Tir de semonce
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-artilleur-2.webp
+      sourceId: Compendium.cof-srd.capacities.wC2rS09HihUXk3BN
+    - _id: Jf43gos1SuvCmV2n
+      name: Tir de barrage
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-artilleur-3.webp
+      sourceId: Compendium.cof-srd.capacities.Jf43gos1SuvCmV2n
+    - _id: g4F8LDWEnOGg3Bnn
+      name: Couleuvrine
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-artilleur-4.webp
+      sourceId: Compendium.cof-srd.capacities.g4F8LDWEnOGg3Bnn
+    - _id: oBqdIxlS2ZiDeRHB
+      name: Feu nourri
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-artilleur-5.webp
+      sourceId: Compendium.cof-srd.capacities.oBqdIxlS2ZiDeRHB
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!YSIFK9d5y0JTTpBN'

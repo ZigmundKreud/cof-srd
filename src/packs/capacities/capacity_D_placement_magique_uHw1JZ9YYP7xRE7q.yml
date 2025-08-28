@@ -1,0 +1,74 @@
+name: Déplacement magique
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-combat-3.webp
+_id: uHw1JZ9YYP7xRE7q
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: deplacement-magique
+  description: >-
+    <h1>Description</h1><p>La créature possède une magie qui lui permet de se
+    téléporter à une distance maximum de [20 x NC] mètre. Le lieu d’arrivée doit
+    être en ligne de vue ou parfaitement connu (10 minutes pour étudier le
+    lieu).
+
+    Alternativement, le MJ peut choisir de lui donner une capacité de vol
+    magique (équivalent à Vol rapide).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!uHw1JZ9YYP7xRE7q'

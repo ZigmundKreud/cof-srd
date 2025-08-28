@@ -1,0 +1,74 @@
+name: Soigner (Loup-garou infecté)
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/encounter-capacities/soigner-loup-garou-infecte.webp
+effects: []
+_id: Ufncmrn4s5yebYRT
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: soigner-loup-garou-infecte
+  description: >-
+    <h1>Description</h1><p>si elle est traitée dans les 3 jours suivant la
+    morsure, l’infection peut être guéries par certaines herbes médicinales
+    rares (aconit) ou par les sorts de <em><a
+    href="http://co-drs.org/capacites/guerison/">Guérison</a></em> ou de <em><a
+    href="http://co-drs.org/capacites/delivrance/">Délivrance</a></em> du Profil
+    de <a href="http://co-drs.org/profils/pretre/">Prêtre</a>. Au-delà de ce
+    laps de temps aucun traitement connu ne permet de guérir l’infection.</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!Ufncmrn4s5yebYRT'

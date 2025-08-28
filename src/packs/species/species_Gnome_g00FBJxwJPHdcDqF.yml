@@ -1,0 +1,83 @@
+_id: g00FBJxwJPHdcDqF
+name: Gnome
+type: species
+flags: {}
+img: /modules/cof-srd/ui/icons/species/gnome.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: gnome
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Gnome est une cr&eacute;ature de petite taille pourvue d&rsquo;un gros
+    nez, d&rsquo;une bonne nature et d&rsquo;une curiosit&eacute; insatiable
+    pour la magie et les sciences. C&rsquo;est un compagnon souvent
+    agr&eacute;able bien qu&rsquo;un peu original. Les Nains et les Halfelins
+    l&rsquo;appr&eacute;cient, tandis que les &laquo; grandes &raquo; races se
+    montrent plut&ocirc;t indiff&eacute;rentes &agrave; leur &eacute;gard.</p>
+
+    <p>Pr&eacute;jug&eacute;s typiques : les Gnomes sont sympathiques mais
+    &agrave; moiti&eacute; fous, m&eacute;fiez-vous comme de la peste de leurs
+    inventions ou de leurs projets farfelus.</p>
+
+    <p><strong>&Acirc;ge de d&eacute;part</strong> : 40+</p>
+
+    <p><strong>Long&eacute;vit&eacute;</strong> :&nbsp;250 ans</p>
+
+    <p><strong>Taille</strong> :&nbsp;1 m &agrave; 1.20 m</p>
+
+    <p><strong>Poids</strong> :&nbsp;30 kg &agrave; 50 kg</p>
+
+    <p><strong>Morphologie</strong> :&nbsp;Petit et rondouillard. Gros nez,
+    moustaches et rouflaquettes.</p>
+
+    <h2>Noms</h2>
+
+    <p>Les Gnomes aiment les pr&eacute;noms que les humains jugent
+    d&eacute;suets. Ils ont aussi un nom de famille compliqu&eacute; et long,
+    qu&rsquo;ils accolent toujours &agrave; ce pr&eacute;nom. Un habitant de
+    notre monde pourrait trouver que ces noms ont des consonances germaniques et
+    &eacute;tranges.</p>
+
+    <h2>Racial</h2>
+
+    <p>-2 FOR, +2 INT</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  bonuses:
+    str: -2
+    dex: 0
+    con: 0
+    int: 2
+    wis: 0
+    cha: 0
+  paths:
+    - _id: e8ZbXmgqaa7ydI8y
+      name: Voie du gnome
+      img: /modules/cof-srd/ui/icons/paths/voie-du-gnome.webp
+      sourceId: Compendium.cof-srd.paths.e8ZbXmgqaa7ydI8y
+  capacities:
+    - _id: 4iKdozAAfMUAaRvW
+      name: Don étrange
+      img: /modules/cof-srd/ui/icons/capacities/don-etrange.webp
+      sourceId: Compendium.cof-srd.capacities.4iKdozAAfMUAaRvW
+  racial: ''
+  age: ''
+  longevity: ''
+  height: ''
+  weight: ''
+folder: null
+sort: 0
+_key: '!items!g00FBJxwJPHdcDqF'

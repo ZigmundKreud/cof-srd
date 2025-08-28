@@ -1,0 +1,54 @@
+_id: IojaXgZwfecc3mAF
+name: Voie de la magie protectrice
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-protectrice.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-magie-protectrice
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: i34SMILLJgZRnct0
+      name: Armure de mage
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-protectrice-1.webp
+      sourceId: Compendium.cof-srd.capacities.i34SMILLJgZRnct0
+    - _id: Dlw7CtYR78MshT8o
+      name: Chute ralentie
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-protectrice-2.webp
+      sourceId: Compendium.cof-srd.capacities.Dlw7CtYR78MshT8o
+    - _id: 2qo0T9WeUXpoMN30
+      name: Flou
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-protectrice-3.webp
+      sourceId: Compendium.cof-srd.capacities.2qo0T9WeUXpoMN30
+    - _id: MvUkmLFLkAJIkJPX
+      name: Cercle de protection
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-protectrice-4.webp
+      sourceId: Compendium.cof-srd.capacities.MvUkmLFLkAJIkJPX
+    - _id: Z2kpD980dJyi7AQb
+      name: Arrêt du temps
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-protectrice-5.webp
+      sourceId: Compendium.cof-srd.capacities.Z2kpD980dJyi7AQb
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!IojaXgZwfecc3mAF'

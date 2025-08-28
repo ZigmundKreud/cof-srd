@@ -1,0 +1,80 @@
+_id: kjSTIItrJsR5rr8U
+name: Voleur
+type: profile
+flags: {}
+img: /modules/cof-srd/ui/icons/profiles/voleur.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voleur
+  description: >-
+    <h1>Description</h1><p>Le Voleur crochète les portes, détecte les pièges et
+    préfère piller les cadavres des ennemis que de se salir les mains pendant le
+    combat.</p><h1>Maîtrise</h1><p>Le Voleur sait manier les armes de contact à
+    une main et toutes les armes à distance. Il peut seulement porter une armure
+    de cuir simple et ne manie pas de bouclier.</p><h1>Possessions de
+    départ</h1><p>Rapière (<strong>DM</strong> 1d6, Crit 19-20), 5 dagues
+    (<strong>DM</strong> 1d4, portée 5 m), outils de crochetage, armure de cuir
+    (<strong>DEF</strong> +2).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  dv: 1d6
+  spellcasting: ''
+  mpfactor: '0'
+  paths:
+    - _id: VKOfkHgRDKOgq59h
+      name: Voie de l'assassin
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-assassin.webp
+      sourceId: Compendium.cof-srd.paths.VKOfkHgRDKOgq59h
+    - _id: elOUyojJTA99DMtV
+      name: Voie de l'aventurier
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-aventurier.webp
+      sourceId: Compendium.cof-srd.paths.elOUyojJTA99DMtV
+    - _id: 3OgIRFgWMaWXKRAZ
+      name: Voie du déplacement
+      img: /modules/cof-srd/ui/icons/paths/voie-du-deplacement.webp
+      sourceId: Compendium.cof-srd.paths.3OgIRFgWMaWXKRAZ
+    - _id: kRPc9MeKPfNGC7QH
+      name: Voie du roublard
+      img: /modules/cof-srd/ui/icons/paths/voie-du-roublard.webp
+      sourceId: Compendium.cof-srd.paths.kRPc9MeKPfNGC7QH
+    - _id: iUauKDYC31NO9ofn
+      name: Voie du spadassin
+      img: /modules/cof-srd/ui/icons/paths/voie-du-spadassin.webp
+      sourceId: Compendium.cof-srd.paths.iUauKDYC31NO9ofn
+  proficiencies:
+    daggers: false
+    swords: false
+    axes: false
+    staves: false
+    clubs: false
+    hammers: false
+    katanas: false
+    2-hands: false
+    slings: false
+    bows: false
+    crossbows: false
+    throwing-weapons: false
+    powder-weapons: false
+    soft-leather: false
+    studded-leather: false
+    mail: false
+    half-plate: false
+    full-plate: false
+    shield: false
+  prestige: []
+  alternatives: []
+folder: null
+sort: 0
+_key: '!items!kjSTIItrJsR5rr8U'

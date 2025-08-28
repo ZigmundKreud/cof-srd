@@ -1,0 +1,80 @@
+name: Absorption d’énergie (Succube)
+type: capacity
+flags: {}
+img: >-
+  /modules/cof-srd/ui/icons/encounter-capacities/absorption-denergie-succube.webp
+effects: []
+_id: AFuCC6dyywIakkBT
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: absorption-denergie-succube
+  description: >-
+    <h1>Description</h1><p>une succube peut aspirer l’énergie vitale de sa
+    victime en l’enlaçant ou en l’embrassant. Si la victime n’est pas
+    consentante, la succube doit auparavant réussir un test d’attaque au contact
+    puis gagner un test opposé de FOR. La victime de l’absorption d’énergie est
+    <em>affaiblie (</em>utilise un d12 aux tests) pour 24 heures mais ressent
+    une jouissance extatique lors de ce contact. Elle ressent le besoin
+    impérieux de le renouveler pendant les 24 heures suivantes à moins de
+    réussir un test de SAG difficulté 18. Si la victime résiste elle est
+    immunisée à cet effet pour les prochaines 24 heures.<br> En plus des autres
+    effets, si la Succube le souhaite, à chaque fois qu’elle absorbe l’énergie,
+    elle peut infliger 1d6 DM et guérir d’autant (les Points de vie acquis
+    au-delà de son score maximum de PV sont perdus après 10 minutes).</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!AFuCC6dyywIakkBT'

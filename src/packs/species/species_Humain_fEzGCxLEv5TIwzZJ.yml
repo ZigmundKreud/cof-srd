@@ -1,0 +1,86 @@
+_id: fEzGCxLEv5TIwzZJ
+name: Humain
+type: species
+flags: {}
+img: /modules/cof-srd/ui/icons/species/humain.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: humain
+  description: >-
+    <h1>Description</h1>
+
+    <p>L&rsquo;humain se distingue par sa capacit&eacute; d&rsquo;adaptation et
+    son instinct qui le pousse &agrave; coloniser tous les territoires qui
+    l&rsquo;entourent. La Race humaine est la plus repr&eacute;sent&eacute;e et
+    la plus r&eacute;pandue dans les zones dites &laquo; civilis&eacute;es
+    &raquo;.</p>
+
+    <p>Pr&eacute;jug&eacute;s typiques : les humains sont de jeunes loups
+    ignorants, ils croissent et se multiplient sans aucun respect pour
+    l&rsquo;&eacute;quilibre du monde, leur &eacute;go&iuml;sme et leur
+    &eacute;gocentrisme semblent sans limite. Ils m&egrave;neront le monde
+    entier &agrave; la catastrophe si personne ne les arr&ecirc;te.</p>
+
+    <p><strong>&Acirc;ge de d&eacute;part</strong> :&nbsp;18+</p>
+
+    <p><strong>Long&eacute;vit&eacute;</strong> :&nbsp;100 ans</p>
+
+    <p><strong>Taille</strong> :&nbsp;1.50 m &agrave; 2 m</p>
+
+    <p><strong>Poids</strong> :&nbsp;40 kg &agrave; 120 kg</p>
+
+    <p><strong>Morphologie</strong> :&nbsp;Toute la diversit&eacute; possible
+    &agrave; l&rsquo;exception des couleurs trop exotiques (cheveux violets,
+    etc.).</p>
+
+    <h2>Noms</h2>
+
+    <p>Les humains ont les pr&eacute;noms et les noms les plus vari&eacute;s qui
+    soient. Vous pouvez vous inspirer d&rsquo;anciens pr&eacute;noms
+    m&eacute;di&eacute;vaux, scandinaves, francs ou celtiques et les modifier
+    l&eacute;g&egrave;rement pour leur donner une consonance plus fantastique.
+    Pour les femmes, les noms de min&eacute;raux, de fleurs ou de couleurs
+    peuvent aussi &ecirc;tres utilis&eacute;s.</p>
+
+    <h2>Racial</h2>
+
+    <p>aucun changement</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  bonuses:
+    str: 0
+    dex: 0
+    con: 0
+    int: 0
+    wis: 0
+    cha: 0
+  paths:
+    - _id: Jh9dUJpLAYEu5jUV
+      name: Voie de l'humain
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-humain.webp
+      sourceId: Compendium.cof-srd.paths.Jh9dUJpLAYEu5jUV
+  capacities:
+    - _id: qbbpWew1pv73yATQ
+      name: Instinct de survie
+      img: /modules/cof-srd/ui/icons/capacities/instinct-de-survie.webp
+      sourceId: Compendium.cof-srd.capacities.qbbpWew1pv73yATQ
+  racial: ''
+  age: ''
+  longevity: ''
+  height: ''
+  weight: ''
+folder: null
+sort: 0
+_key: '!items!fEzGCxLEv5TIwzZJ'

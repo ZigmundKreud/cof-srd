@@ -1,0 +1,79 @@
+_id: LuUEHGL3GCtPCoWt
+name: Magicien
+type: profile
+flags: {}
+img: /modules/cof-srd/ui/icons/profiles/magicien.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: magicien
+  description: >-
+    <h1>Description</h1><p>Le Magicien n'est pas qu'un rat de bibliothèque. Il
+    fait aussi appel à ses sorts pour se débarrasser de ses ennemis et pour
+    aider ses compagnons.</p><h1>Maîtrise</h1><p>Le Magicien sait manier la
+    dague et le bâton ferré et ne porte que des vêtements en tissu, donc aucune
+    armure.</p><h1>Possessions de départ</h1><p>Bâton (<strong>DM</strong> 1d6),
+    dague (<strong>DM</strong> 1d4), grimoire, potion de soin (guérit 1d8
+    PV).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  dv: 1d4
+  spellcasting: int
+  mpfactor: '2'
+  paths:
+    - _id: 7wwZIS9mDFdbCCt4
+      name: Voie de la magie des arcanes
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+      sourceId: Compendium.cof-srd.paths.7wwZIS9mDFdbCCt4
+    - _id: JYl2oQ0gdyRNrnrg
+      name: Voie de la magie destructrice
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-destructrice.webp
+      sourceId: Compendium.cof-srd.paths.JYl2oQ0gdyRNrnrg
+    - _id: 8BOjv6kSyjIbdMjR
+      name: Voie de la magie élémentaire
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-elementaire.webp
+      sourceId: Compendium.cof-srd.paths.8BOjv6kSyjIbdMjR
+    - _id: IojaXgZwfecc3mAF
+      name: Voie de la magie protectrice
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-protectrice.webp
+      sourceId: Compendium.cof-srd.paths.IojaXgZwfecc3mAF
+    - _id: VIk41M2r4KIEatbC
+      name: Voie de la magie universelle
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-universelle.webp
+      sourceId: Compendium.cof-srd.paths.VIk41M2r4KIEatbC
+  proficiencies:
+    daggers: false
+    swords: false
+    axes: false
+    staves: false
+    clubs: false
+    hammers: false
+    katanas: false
+    2-hands: false
+    slings: false
+    bows: false
+    crossbows: false
+    throwing-weapons: false
+    powder-weapons: false
+    soft-leather: false
+    studded-leather: false
+    mail: false
+    half-plate: false
+    full-plate: false
+    shield: false
+  prestige: []
+  alternatives: []
+folder: null
+sort: 0
+_key: '!items!LuUEHGL3GCtPCoWt'

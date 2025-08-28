@@ -1,0 +1,1477 @@
+_id: ZDC5IJgCb57EYXdy
+name: Succube
+type: encounter
+sort: 100001
+flags: {}
+img: /modules/cof-srd/ui/icons/creature.webp
+items:
+  - _id: iiSo4szFD9n2G5Hy
+    name: Démon (Succube)
+    type: capacity
+    sort: 100000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/encounter-capacities/demon-succube.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: demon-succube
+      description: >-
+        <h1>Description</h1><p>les démons ne sont pas considérés comme des
+        créatures non-vivantes toutefois ils partagent avec celles-ci de
+        nombreux traits. Ils ne respirent pas, ne dorment jamais, ne connaissent
+        pas la fatigue et sont immunisées au poison et aux maladies
+        non-magiques. Ils n’ont pas besoin de se sustenter, du moins pas de
+        nourritures terrestres.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.iiSo4szFD9n2G5Hy'
+  - _id: isT4fCu9KcK8WGsT
+    name: Résistance (Succube)
+    type: capacity
+    sort: 200000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/encounter-capacities/resistance-succube.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: resistance-succube
+      description: >-
+        <h1>Description</h1><p>par défaut, tous les démons réduisent les DM de
+        feu et d’acide de 10 points. D’autres capacités peuvent améliorer cette
+        résistance.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.isT4fCu9KcK8WGsT'
+  - _id: vE1WW1CMhNdEmrZd
+    name: Télépathie (Succube)
+    type: capacity
+    sort: 300000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/encounter-capacities/telepathie-succube.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: telepathie-succube
+      description: >-
+        <h1>Description</h1><p>les démons peuvent communiquer avec toutes les
+        créatures par télépathie à une distance de 50 mètres sans avoir besoin
+        de partager une langue commune. Ils parlent l’infernal.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.vE1WW1CMhNdEmrZd'
+  - _id: ubrXPMc94Psi0zeJ
+    name: Téléportation (Succube)
+    type: capacity
+    sort: 400000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/encounter-capacities/teleportation-succube.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: teleportation-succube
+      description: >-
+        <h1>Description</h1><p>un démon peut se téléporter à n’importe quel
+        endroit qu’il voit ou qu’il connaît à une distance maximum de [NC x 100]
+        mètres.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.ubrXPMc94Psi0zeJ'
+  - _id: RGMNmJkPKFsb1CUR
+    name: Vision dans le noir (Succube)
+    type: capacity
+    sort: 500000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/vision-dans-le-noir-succube.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: vision-dans-le-noir-succube
+      description: >-
+        <h1>Description</h1><p>tous les démons voient dans le noir comme en
+        plein jour à une distance de 30 mètres.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.RGMNmJkPKFsb1CUR'
+  - _id: AFuCC6dyywIakkBT
+    name: Absorption d’énergie (Succube)
+    type: capacity
+    sort: 600000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/absorption-denergie-succube.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: absorption-denergie-succube
+      description: >-
+        <h1>Description</h1><p>une succube peut aspirer l’énergie vitale de sa
+        victime en l’enlaçant ou en l’embrassant. Si la victime n’est pas
+        consentante, la succube doit auparavant réussir un test d’attaque au
+        contact puis gagner un test opposé de FOR. La victime de l’absorption
+        d’énergie est <em>affaiblie (</em>utilise un d12 aux tests) pour 24
+        heures mais ressent une jouissance extatique lors de ce contact. Elle
+        ressent le besoin impérieux de le renouveler pendant les 24 heures
+        suivantes à moins de réussir un test de SAG difficulté 18. Si la victime
+        résiste elle est immunisée à cet effet pour les prochaines 24
+        heures.<br> En plus des autres effets, si la Succube le souhaite, à
+        chaque fois qu’elle absorbe l’énergie, elle peut infliger 1d6 DM et
+        guérir d’autant (les Points de vie acquis au-delà de son score maximum
+        de PV sont perdus après 10 minutes).</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.AFuCC6dyywIakkBT'
+  - _id: idZ6EThhx094kzVc
+    name: Vol (Succube)
+    type: capacity
+    sort: 700000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/encounter-capacities/vol-succube.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: vol-succube
+      description: >-
+        <h1>Description</h1><p>une Succube peut se déplacer en vol de 20 mètres
+        par action de mouvement.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.idZ6EThhx094kzVc'
+  - _id: TWxxalJsj3H0pvbI
+    name: Réduction des <strong>DM</strong>
+    type: capacity
+    sort: 800000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: reduction-des-lessstronggreaterdmlessstronggreater
+      description: >-
+        <h1>Description</h1><p>La créature est peu sensible aux
+        <strong>DM</strong> provoqués par les armes, le métal rebondi sur elle
+        comme un vulgaire morceau de bois ou alors la créature guérit
+        immédiatement. Elle obtient une réduction des <strong>DM</strong> (RD)
+        de 5, ce score est retranché à tous les <strong>DM</strong> subits.
+        Choisissez un type d’arme qui ignore cette réduction : un certain métal
+        ou un certain type d’armes ou encore la magie (armes et sorts). Par
+        exemple les masses sur un squelette ou les armes en argent sur un
+        lycanthrope. Vous pouvez augmenter cette réduction des
+        <strong>DM</strong> à 10 au rang 2 et à 15 au rang 3.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.TWxxalJsj3H0pvbI'
+  - _id: Y6mephOMWkwBf8LA
+    name: Vitalité surnaturelle
+    type: capacity
+    sort: 900000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: vitalite-surnaturelle
+      description: >-
+        <h1>Description</h1><p>La créature guérit à un rythme fantastique, elle
+        récupère 5 PV à la fin de chaque tour. Il existe parfois une source de
+        <strong>DM</strong> qui permet d’empêcher cette régénération (le feu
+        pour les trolls par exemple). Alternativement remplacez simplement la
+        régénération par une vitalité extraordinaire (c’est souvent le cas des
+        mort-vivants ou des créatures artificielles) : doublez ses PV ou ajoutez
+        +20 PV (si ces PV de base sont inférieurs à 20).</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.Y6mephOMWkwBf8LA'
+  - _id: bDw3TjVwuDX5fLlo
+    name: Injonction
+    type: capacity
+    sort: 1000000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: injonction
+      description: >-
+        <h1>Description</h1><p>L'Ensorceleur donne un ordre simple (mais pas
+        dangereux pour elle) que la victime doit pouvoir comprendre. Il doit
+        réussir un test d'attaque magique opposé avec la cible (contre attaque
+        au contact si la créature n'en a pas) à une portée de 20 mètres. En cas
+        d'échec, la cible exécutera l'ordre pendant son prochain tour.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.bDw3TjVwuDX5fLlo'
+  - _id: CtQypotgwD2Vt7PA
+    name: Sommeil
+    type: capacity
+    sort: 1100000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: sommeil
+      description: >-
+        <h1>Description</h1><p>[1d6 + Mod. de <strong>CHA</strong>] cibles
+        vivantes dans une zone de 10 m de diamètre (portée 20 m) et dont le
+        score max de PV ne dépasse pas le score d’attaque magique de
+        l’ensorceleur* sombrent dans l’inconscience pendant [5 + Mod. de
+        <strong>CHA</strong>] minutes. Il est possible de les réveiller en les
+        giflant (action d’attaque).</p><p><i> * Les créatures dont les PV sont
+        compris entre le score d’attaque magique du magicien et le double de
+        celui-ci peuvent faire un test de <strong>SAG</strong> difficulté [10 +
+        Mod. de <strong>CHA</strong>] pour résister au sort. Les créatures avec
+        des PV supérieur ne sont pas affectées.</i></p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.CtQypotgwD2Vt7PA'
+  - _id: 3hypo7wzbVgYObAw
+    name: Confusion
+    type: capacity
+    sort: 1200000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: confusion
+      description: >-
+        <h1>Description</h1><p>En réussissant un test d'Attaque magique (portée
+        20 m), l'Ensorceleur désoriente sa cible pendant [3 + Mod. de
+        <strong>CHA</strong>] tours. Chaque tour, lancer 1d6 :
+        <strong>1-3</strong> la victime n'agit pas, <strong>4-6</strong> elle
+        attaque la créature la plus proche (au hasard). Chaque fin de tour, elle
+        fait un test de <strong>SAG</strong> difficulté [10 + Mod. de
+        <strong>CHA</strong>] pour mettre fin au sort.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.3hypo7wzbVgYObAw'
+  - _id: zgmJuGtXtMnEtW4t
+    name: Amitié
+    type: capacity
+    sort: 1300000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-4.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: amitie
+      description: >-
+        <h1>Description</h1><p>Si l'Ensorceleur réussit un test d'Attaque
+        magique (portée 10 m) contre le score max de PV d'une cible humanoïde,
+        celle-ci se comporte comme un ami de longue date tant qu'elle n'est pas
+        attaquée. Elle peut résister au sort avec un test de
+        <strong>SAG</strong> difficulté [12 + Mod. de <strong>CHA</strong>],
+        renouvelable une fois par jour.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.zgmJuGtXtMnEtW4t'
+  - _id: VV3GSWOC8y614bxJ
+    name: Domination
+    type: capacity
+    sort: 1400000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-5.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: domination
+      description: >-
+        <h1>Description</h1><p>En réussissant un test d’Attaque magique (portée
+        20 m) en opposition contre un test d’Attaque magique de la cible (ou
+        d’Attaque au contact si la créature n’en a pas), l’Ensorceleur prend
+        contrôle de son esprit pendant [1d4 + Mod. <strong>CHA</strong>]
+        minutes. Son propre corps devient inactif. La victime peut résister au
+        sort avec un test de <strong>SAG</strong> difficulté [10 + Mod. de
+        <strong>CHA</strong>] à chaque fois qu’elle subit des
+        <strong>DM</strong>. Si la créature meurt pendant la domination,
+        l’Ensorceleur réintègre son corps et subit 1d6 <strong>DM</strong>.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!ZDC5IJgCb57EYXdy.VV3GSWOC8y614bxJ'
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  stats:
+    str:
+      key: str
+      label: COF.stats.str.label
+      abbrev: COF.stats.str.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 1
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    dex:
+      key: dex
+      label: COF.stats.dex.label
+      abbrev: COF.stats.dex.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 3
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    con:
+      key: con
+      label: COF.stats.con.label
+      abbrev: COF.stats.con.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 1
+      value: 10
+      tmpmod: null
+      superior: true
+      skillbonus: 0
+      skillmalus: 0
+    int:
+      key: int
+      label: COF.stats.int.label
+      abbrev: COF.stats.int.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 2
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    wis:
+      key: wis
+      label: COF.stats.wis.label
+      abbrev: COF.stats.wis.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 2
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    cha:
+      key: cha
+      label: COF.stats.cha.label
+      abbrev: COF.stats.cha.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 6
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+  attacks:
+    melee:
+      key: melee
+      label: COF.attacks.melee.label
+      abbrev: COF.attacks.melee.abbrev
+      stat: '@stats.str.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    ranged:
+      key: ranged
+      label: COF.attacks.ranged.label
+      abbrev: COF.attacks.ranged.abbrev
+      stat: '@stats.dex.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    magic:
+      key: magic
+      label: COF.attacks.magic.label
+      abbrev: COF.attacks.magic.abbrev
+      stat: '@stats.int.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+  description: >-
+    <em><p>Malgré des attributs démoniaques comme de grandes ailes de
+    chauve-souris, il faut bien avouer que la succube est dotée d’un corps de
+    rêve.</p></em><p>C’est une séductrice perverse et cruelle qui compte sur la
+    ruse et la domination psychologique plutôt que sur le combat pour tuer et
+    corrompre. Son jeu préféré consiste à utiliser son pouvoir de déguisement
+    pour cacher ses attributs démoniaques afin de séduire ses proies et leur
+    voler leur énergie vitale lors d’une étreinte mortelle.</p><p><strong>Milieu
+    : </strong><p>spécial</p>
+  attributes:
+    hp:
+      key: hp
+      label: COF.attributes.hp.label
+      abbrev: COF.attributes.hp.abbrev
+      base: 49
+      bonus: 0
+      value: 49
+      max: 49
+    def:
+      key: def
+      label: COF.attributes.def.label
+      abbrev: COF.attributes.def.abbrev
+      base: 18
+      bonus: 0
+      malus: 0
+      value: 18
+    init:
+      key: init
+      label: COF.attributes.init.label
+      abbrev: COF.attributes.init.abbrev
+      base: 16
+      bonus: 0
+      malus: 0
+      value: 16
+    dr:
+      key: dr
+      label: COF.attributes.dr.label
+      abbrev: COF.attributes.dr.abbrev
+      enabled: true
+      base:
+        value: 10
+        ignored: armes saintes
+      bonus:
+        value: 0
+        ignored: ''
+      value: 10
+    rp:
+      key: rp
+      label: COF.attributes.rp.label
+      abbrev: COF.attributes.rp.abbrev
+      enabled: false
+      base: 5
+      bonus: 0
+      value: 5
+      max: 5
+    fp:
+      key: fp
+      label: COF.attributes.fp.label
+      abbrev: COF.attributes.fp.abbrev
+      enabled: false
+      base: 3
+      bonus: 0
+      value: 3
+      max: 3
+    mp:
+      key: mp
+      label: COF.attributes.mp.label
+      abbrev: COF.attributes.mp.abbrev
+      enabled: false
+      base: 0
+      bonus: 0
+      value: 0
+      max: 0
+    hd:
+      key: hd
+      label: COF.attributes.hd.label
+      abbrev: COF.attributes.hd.abbrev
+      value: 1d4
+    overload:
+      key: over
+      label: COF.attributes.over.label
+      abbrev: COF.attributes.over.abbrev
+      misc: 0
+    madness:
+      key: fp
+      label: COF.attributes.madness.label
+      abbrev: COF.attributes.madness.abbrev
+      enabled: false
+      base: 0
+      value: 0
+  currency:
+    pp:
+      key: pp
+      label: COF.currency.pp.label
+      abbrev: COF.currency.pp.abbrev
+      qty: 0
+    gp:
+      key: gp
+      label: COF.currency.gp.label
+      abbrev: COF.currency.gp.abbrev
+      qty: 0
+    sp:
+      key: sp
+      label: COF.currency.sp.label
+      abbrev: COF.currency.sp.abbrev
+      qty: 0
+    cp:
+      key: cp
+      label: COF.currency.cp.label
+      abbrev: COF.currency.cp.abbrev
+      qty: 0
+  alert:
+    type: error
+    msg: ''
+  details:
+    gender: ''
+    age: ''
+    weight: ''
+    height: ''
+    eyes: ''
+    hair: ''
+    size: med
+    senses: ''
+    languages:
+      value: []
+      custom: ''
+  settings:
+    combat:
+      folded: []
+    inventory:
+      folded: []
+    capacities:
+      folded: []
+    effects:
+      folded: []
+  moduleData: {}
+  key: succube
+  nc:
+    key: nc
+    label: COF.attributes.nc.label
+    abbrev: COF.attributes.nc.abbrev
+    value: 6
+  weapons:
+    - name: Griffes
+      mod: 6
+      dmg: 1d6+4
+  capacities:
+    - name: Démon
+      type: creature
+      description: >-
+        les démons ne sont pas considérés comme des créatures non-vivantes
+        toutefois ils partagent avec celles-ci de nombreux traits. Ils ne
+        respirent pas, ne dorment jamais, ne connaissent pas la fatigue et sont
+        immunisées au poison et aux maladies non-magiques. Ils n’ont pas besoin
+        de se sustenter, du moins pas de nourritures terrestres.
+    - name: Résistance
+      type: creature
+      description: >-
+        par défaut, tous les démons réduisent les DM de feu et d’acide de 10
+        points. D’autres capacités peuvent améliorer cette résistance.
+    - name: Télépathie
+      type: creature
+      description: >-
+        les démons peuvent communiquer avec toutes les créatures par télépathie
+        à une distance de 50 mètres sans avoir besoin de partager une langue
+        commune. Ils parlent l’infernal.
+    - name: Téléportation (L)
+      type: creature
+      description: >-
+        un démon peut se téléporter à n’importe quel endroit qu’il voit ou qu’il
+        connaît à une distance maximum de [NC x 100] mètres.
+    - name: Vision dans le noir
+      type: creature
+      description: >-
+        tous les démons voient dans le noir comme en plein jour à une distance
+        de 30 mètres.
+    - name: Absorption d’énergie (L)
+      type: creature
+      description: >-
+        une succube peut aspirer l’énergie vitale de sa victime en l’enlaçant ou
+        en l’embrassant. Si la victime n’est pas consentante, la succube doit
+        auparavant réussir un test d’attaque au contact puis gagner un test
+        opposé de FOR. La victime de l’absorption d’énergie est <em>affaiblie
+        (</em>utilise un d12 aux tests) pour 24 heures mais ressent une
+        jouissance extatique lors de ce contact. Elle ressent le besoin
+        impérieux de le renouveler pendant les 24 heures suivantes à moins de
+        réussir un test de SAG difficulté 18. Si la victime résiste elle est
+        immunisée à cet effet pour les prochaines 24 heures.<br> En plus des
+        autres effets, si la Succube le souhaite, à chaque fois qu’elle absorbe
+        l’énergie, elle peut infliger 1d6 DM et guérir d’autant (les Points de
+        vie acquis au-delà de son score maximum de PV sont perdus après 10
+        minutes).
+    - name: Vol
+      type: creature
+      description: >-
+        une Succube peut se déplacer en vol de 20 mètres par action de
+        mouvement.
+  paths:
+    - key: voie-des-creatures-magiques-1
+    - key: voie-des-creatures-magiques-2
+    - key: voie-de-l-envouteur-1
+    - key: voie-de-l-envouteur-2
+    - key: voie-de-l-envouteur-3
+    - key: voie-de-l-envouteur-4
+    - key: voie-de-l-envouteur-5
+  boss:
+    rank: 2
+    type: null
+  families:
+    - name: Démons et Diables
+      key: demons-et-diables
+      description: >-
+        <h1>Description</h1><p>Les démons sont des créatures des enfers, ces
+        mondes maléfiques d’une autre dimension ou les âmes corrompues sont
+        torturées pour l’éternité. L’existence d’un démon est une lutte
+        constante pour le pouvoir et la domination par la force, la ruse et la
+        cruauté. Bien qu’ils ne quittent généralement pas leur plan d’origine,
+        les démons peuvent être appelés par un mortel ou franchir un portail
+        vers le monde des hommes. Ce qu’ils font avec joie car les faibles
+        humains sont pour eux des proies faciles et leurs âmes une source
+        importante de pouvoir.</p><p><strong>Diables :</strong> il ne faut pas
+        confondre les démons et les diables. Les premiers œuvrent pour le chaos,
+        la douleur et la destruction sauvage, là où les seconds prônent un ordre
+        tyrannique, cruel et immuable. Ils sont au contraire ennemis depuis la
+        nuit des temps dans une guerre sans fin appelée la Guerre de Sang.
+        Toutefois, la plupart des mortels ne font pas la différence entre les
+        deux catégories de créatures infernales et ils appellent sans
+        discernement «démon» toutes les créatures maléfiques issues d’un autre
+        monde.<br> <em>CO fantasy</em> fait le choix de ne décrire que les
+        démons, laissant les diables à votre imagination. Chaque type de démon
+        possède son alter-égo chez les diables avec quelques variations
+        d’apparence et de pouvoir. En particulier la résistance des diables
+        concerne le froid et l’électricité plutôt que le feu et l’acide. Les
+        plus connus des diables sont le Diantrefosse (équivalent du Balor),
+        l’Érinye (Succube) et le Diablotin (Quasit).</p><h2>Capacités des
+        démons</h2><p>Tous les démons possèdent les capacités suivantes
+        (NC+1).</p><p><em>Démon :</em> les démons ne sont pas considérés comme
+        des créatures non-vivantes toutefois ils partagent avec celles-ci de
+        nombreux traits. Ils ne respirent pas, ne dorment jamais, ne connaissent
+        pas la fatigue et sont immunisées au poison et aux maladies
+        non-magiques. Ils n’ont pas besoin de se sustenter, du moins pas de
+        nourritures terrestres.</p><p><em>Résistance :</em> par défaut, tous les
+        démons réduisent les DM de feu et d’acide de 10 points. D’autres
+        capacités peuvent améliorer cette résistance.</p><p><em>Télépathie
+        :</em> les démons peuvent communiquer avec toutes les créatures par
+        télépathie à une distance de 50 mètres sans avoir besoin de partager une
+        langue commune. Ils parlent l’infernal.</p><p><em>Téléportation (L)
+        :</em> un démon peut se téléporter à n’importe quel endroit qu’il voit
+        ou qu’il connaît à une distance maximum de [NC x 100]
+        mètres.</p><p><em>Vision dans le noir :</em> tous les démons voient dans
+        le noir comme en plein jour à une distance de 30 mètres.</p>
+  archetype: standard
+  category: humanoïde
+prototypeToken:
+  flags: {}
+  name: Succube
+  displayName: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    alpha: 1
+    animation:
+      speed: 5
+      intensity: 5
+      type: null
+      reverse: false
+    negative: false
+    priority: 0
+    color: null
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+  texture:
+    src: /modules/cof-srd/ui/icons/creature.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  alpha: 1
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+folder: null
+_key: '!actors!ZDC5IJgCb57EYXdy'

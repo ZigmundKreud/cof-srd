@@ -1,0 +1,54 @@
+_id: 1SO8W2jhhkTYoL7S
+name: Voie du fauve
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-fauve.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-fauve
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: enLQ9LIRF0x6oTrE
+      name: Vitesse du félin
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-1.webp
+      sourceId: Compendium.cof-srd.capacities.enLQ9LIRF0x6oTrE
+    - _id: afgTpeEi8EiqY89I
+      name: Panthère
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-2.webp
+      sourceId: Compendium.cof-srd.capacities.afgTpeEi8EiqY89I
+    - _id: Tm6CnMcyF83iPqyB
+      name: Attaque bondissante
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-3.webp
+      sourceId: Compendium.cof-srd.capacities.Tm6CnMcyF83iPqyB
+    - _id: arC7lNfMBfD0HgoF
+      name: Grand félin
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-4.webp
+      sourceId: Compendium.cof-srd.capacities.arC7lNfMBfD0HgoF
+    - _id: 6ZVHvgNXKVC5d7On
+      name: Les sept vies du chat
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-5.webp
+      sourceId: Compendium.cof-srd.capacities.6ZVHvgNXKVC5d7On
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!1SO8W2jhhkTYoL7S'

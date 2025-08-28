@@ -1,0 +1,74 @@
+name: Gland de pouvoir
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-vegetaux-4.webp
+_id: hMNgb5d9wvmydq07
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: gland-de-pouvoir
+  description: >-
+    <h1>Description</h1><p>Une fois par combat, le Druide peut lancer un gland
+    sur une cible (portée 10 m). En cas d'attaque magique réussie, la victime se
+    transforme en statue de bois pendant [2d6 + Mod. de <strong>SAG</strong>]
+    tours. Sous cette forme elle ne peut agir et ne ressent rien. Sa
+    <strong>DEF</strong> passe à 10 mais elle gagne une réduction des
+    <strong>DM</strong> de 10. Le sort s'achève dès que la cible perd plus de 10
+    PV.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!hMNgb5d9wvmydq07'

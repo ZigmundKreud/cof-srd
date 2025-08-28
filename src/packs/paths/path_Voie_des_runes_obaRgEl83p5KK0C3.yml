@@ -1,0 +1,54 @@
+_id: obaRgEl83p5KK0C3
+name: Voie des runes
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-runes.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-des-runes
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 4m5pM8RxpfYiuOnf
+      name: Runes de défense
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-1.webp
+      sourceId: Compendium.cof-srd.capacities.4m5pM8RxpfYiuOnf
+    - _id: JJizCcDxL98PkO5y
+      name: Rune d'énergie
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-2.webp
+      sourceId: Compendium.cof-srd.capacities.JJizCcDxL98PkO5y
+    - _id: CixD4MWQtoUfVp39
+      name: Rune de protection
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-3.webp
+      sourceId: Compendium.cof-srd.capacities.CixD4MWQtoUfVp39
+    - _id: hb69uDWUaub85V2s
+      name: Rune de puissance
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-4.webp
+      sourceId: Compendium.cof-srd.capacities.hb69uDWUaub85V2s
+    - _id: sKzxHxeASob5MEpX
+      name: Rune de pouvoir
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-5.webp
+      sourceId: Compendium.cof-srd.capacities.sKzxHxeASob5MEpX
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!obaRgEl83p5KK0C3'

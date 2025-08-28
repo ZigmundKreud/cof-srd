@@ -1,0 +1,73 @@
+name: Sanctuaire
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-3.webp
+_id: sfgCWCpp6fbwFaxi
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: sanctuaire
+  description: >-
+    <h1>Description</h1><p>Quand le Prêtre lance ce sort, tous les adversaires
+    qui veulent l'attaquer doivent d'abord réussir un test de
+    <strong>SAG</strong> difficulté 15. S'ils échouent, ils ne peuvent pas
+    l'attaquer. Les effets de ce sort durent [5 + Mod de <strong>SAG</strong>]
+    tours, mais s'il tente la moindre attaque, le sort prend fin
+    immédiatement.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!sfgCWCpp6fbwFaxi'

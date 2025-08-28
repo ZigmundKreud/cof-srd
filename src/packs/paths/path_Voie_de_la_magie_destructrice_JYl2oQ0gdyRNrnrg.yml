@@ -1,0 +1,54 @@
+_id: JYl2oQ0gdyRNrnrg
+name: Voie de la magie destructrice
+type: path
+img: icons/magic/fire/barrier-wall-explosion-orange.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-magie-destructrice
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: HKq1CiEy1OnjDVy2
+      name: Projectile magique
+      img: icons/magic/light/projectile-smoke-blue.webp
+      sourceId: Compendium.cof-srd.capacities.HKq1CiEy1OnjDVy2
+    - _id: lhZWnADetnQWR1uD
+      name: Rayon affaiblissant
+      img: icons/magic/unholy/strike-body-life-soul-purple.webp
+      sourceId: Compendium.cof-srd.capacities.lhZWnADetnQWR1uD
+    - _id: ltsS6HJyu6fs4dzU
+      name: Flèche enflammée
+      img: icons/magic/fire/projectile-arrow-fire-orange-yellow.webp
+      sourceId: Compendium.cof-srd.capacities.ltsS6HJyu6fs4dzU
+    - _id: zmKdQaVhDRkpmess
+      name: Boule de feu
+      img: icons/magic/fire/projectile-fireball-orange-yellow.webp
+      sourceId: Compendium.cof-srd.capacities.zmKdQaVhDRkpmess
+    - _id: supvWZkB2nzlKQjZ
+      name: Rituel de puissance
+      img: icons/magic/fire/orb-vortex.webp
+      sourceId: Compendium.cof-srd.capacities.supvWZkB2nzlKQjZ
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+_key: '!items!JYl2oQ0gdyRNrnrg'

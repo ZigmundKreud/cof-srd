@@ -1,0 +1,54 @@
+_id: Ax95ays7Dcw2kDFS
+name: Voie du haut-elfe
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-haut-elfe.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-haut-elfe
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: R5GWaqkhQ9ai9zmt
+      name: Grâce elfique
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-1.webp
+      sourceId: Compendium.cof-srd.capacities.R5GWaqkhQ9ai9zmt
+    - _id: Uc2KvYWHWOjl0XPq
+      name: Talent pour la magie
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-2.webp
+      sourceId: Compendium.cof-srd.capacities.Uc2KvYWHWOjl0XPq
+    - _id: QGHg9Ae4y0lJ20KV
+      name: Force d'âme
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-3.webp
+      sourceId: Compendium.cof-srd.capacities.QGHg9Ae4y0lJ20KV
+    - _id: c3E1BIuGkFStJ1lb
+      name: Immortel
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-4.webp
+      sourceId: Compendium.cof-srd.capacities.c3E1BIuGkFStJ1lb
+    - _id: c7akeD3nYgQw2Nw5
+      name: Supériorité elfique
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-5.webp
+      sourceId: Compendium.cof-srd.capacities.c7akeD3nYgQw2Nw5
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!Ax95ays7Dcw2kDFS'

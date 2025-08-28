@@ -1,0 +1,54 @@
+_id: F4yU0J2R16bozD0d
+name: Voie du combat
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-combat.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-combat
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 0dDXnaPArJZEtCeJ
+      name: Vivacité
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-1.webp
+      sourceId: Compendium.cof-srd.capacities.0dDXnaPArJZEtCeJ
+    - _id: d980dSZ2tnZY50QI
+      name: Désarmer
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-2.webp
+      sourceId: Compendium.cof-srd.capacities.d980dSZ2tnZY50QI
+    - _id: d1tTZoM6C568Pi03
+      name: Double attaque
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-3.webp
+      sourceId: Compendium.cof-srd.capacities.d1tTZoM6C568Pi03
+    - _id: 0pjDZv8LrzKtbf1o
+      name: Attaque circulaire
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-4.webp
+      sourceId: Compendium.cof-srd.capacities.0pjDZv8LrzKtbf1o
+    - _id: 4OPEJya8kG8EEGPc
+      name: Attaque puissante
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-5.webp
+      sourceId: Compendium.cof-srd.capacities.4OPEJya8kG8EEGPc
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!F4yU0J2R16bozD0d'

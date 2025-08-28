@@ -1,0 +1,54 @@
+_id: vp7tGzTxsxBekRMO
+name: Voie de l'air
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-air.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-air
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: w8NyQjx1hXaf2c6t
+      name: Murmures dans le vent
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-1.webp
+      sourceId: Compendium.cof-srd.capacities.w8NyQjx1hXaf2c6t
+    - _id: xnhPFjVOjMFCuSTa
+      name: Sous tension
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-2.webp
+      sourceId: Compendium.cof-srd.capacities.xnhPFjVOjMFCuSTa
+    - _id: SuAd6wA9T4O4Lp9v
+      name: Télékinésie
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-3.webp
+      sourceId: Compendium.cof-srd.capacities.SuAd6wA9T4O4Lp9v
+    - _id: PKAWWZ52BckvoUDn
+      name: Foudre
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-4.webp
+      sourceId: Compendium.cof-srd.capacities.PKAWWZ52BckvoUDn
+    - _id: aakWWHYz2eWKDdhC
+      name: Forme éthérée
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-5.webp
+      sourceId: Compendium.cof-srd.capacities.aakWWHYz2eWKDdhC
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!vp7tGzTxsxBekRMO'

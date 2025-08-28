@@ -1,0 +1,54 @@
+_id: ZXyXVkfEVheuv2fs
+name: Voie de la séduction
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-seduction.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-seduction
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: vutRImsIWxHcpV3H
+      name: Charmant
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-seduction-1.webp
+      sourceId: Compendium.cof-srd.capacities.vutRImsIWxHcpV3H
+    - _id: 9KRrlqL8kUAiDFtT
+      name: Dentelles et rapière
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-seduction-2.webp
+      sourceId: Compendium.cof-srd.capacities.9KRrlqL8kUAiDFtT
+    - _id: BmFzABQ8KdZIjAMP
+      name: Arme secrète
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-seduction-3.webp
+      sourceId: Compendium.cof-srd.capacities.BmFzABQ8KdZIjAMP
+    - _id: cQHQzNJeshvmnOk3
+      name: Suggestion
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-seduction-4.webp
+      sourceId: Compendium.cof-srd.capacities.cQHQzNJeshvmnOk3
+    - _id: U8PdKWfB0CkRSD2l
+      name: Charisme héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-seduction-5.webp
+      sourceId: Compendium.cof-srd.capacities.U8PdKWfB0CkRSD2l
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!ZXyXVkfEVheuv2fs'

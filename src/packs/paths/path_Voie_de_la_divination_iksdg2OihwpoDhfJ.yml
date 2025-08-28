@@ -1,0 +1,54 @@
+_id: iksdg2OihwpoDhfJ
+name: Voie de la divination
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-divination.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-divination
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 6hEQI07MOMdvd4hl
+      name: 6ème sens
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-divination-1.webp
+      sourceId: Compendium.cof-srd.capacities.6hEQI07MOMdvd4hl
+    - _id: TL4IPOBwjz26sTJw
+      name: Détection de l'invisible
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-divination-2.webp
+      sourceId: Compendium.cof-srd.capacities.TL4IPOBwjz26sTJw
+    - _id: 9B6iOzLLVC2QEYd8
+      name: Clairvoyance
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-divination-3.webp
+      sourceId: Compendium.cof-srd.capacities.9B6iOzLLVC2QEYd8
+    - _id: J43WhyLeXxIpsbIt
+      name: Prescience
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-divination-4.webp
+      sourceId: Compendium.cof-srd.capacities.J43WhyLeXxIpsbIt
+    - _id: ytNhONr9WfuuXM5s
+      name: Hyperconscience
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-divination-5.webp
+      sourceId: Compendium.cof-srd.capacities.ytNhONr9WfuuXM5s
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!iksdg2OihwpoDhfJ'

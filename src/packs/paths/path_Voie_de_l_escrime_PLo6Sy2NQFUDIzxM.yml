@@ -1,0 +1,54 @@
+_id: PLo6Sy2NQFUDIzxM
+name: Voie de l'escrime
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-escrime.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-escrime
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: jhQgvRxvREPmfJ8J
+      name: Précision
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escrime-1.webp
+      sourceId: Compendium.cof-srd.capacities.jhQgvRxvREPmfJ8J
+    - _id: nK8a0ROJi4xOHlzd
+      name: Intelligence du combat
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escrime-2.webp
+      sourceId: Compendium.cof-srd.capacities.nK8a0ROJi4xOHlzd
+    - _id: l76UatwjVn46TeQt
+      name: Feinte
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escrime-3.webp
+      sourceId: Compendium.cof-srd.capacities.l76UatwjVn46TeQt
+    - _id: EatG1Fxkx5y06toV
+      name: Attaque flamboyante
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escrime-4.webp
+      sourceId: Compendium.cof-srd.capacities.EatG1Fxkx5y06toV
+    - _id: uRDT8cJp6w4WxSf0
+      name: Botte mortelle
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escrime-5.webp
+      sourceId: Compendium.cof-srd.capacities.uRDT8cJp6w4WxSf0
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!PLo6Sy2NQFUDIzxM'

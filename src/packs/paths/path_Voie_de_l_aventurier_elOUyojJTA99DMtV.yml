@@ -1,0 +1,54 @@
+_id: elOUyojJTA99DMtV
+name: Voie de l'aventurier
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-aventurier.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-aventurier
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 6qBrg9FqH5WYLDF9
+      name: Sprint
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-aventurier-1.webp
+      sourceId: Compendium.cof-srd.capacities.6qBrg9FqH5WYLDF9
+    - _id: feNUtVhSCOrVPwSf
+      name: Provocation
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-aventurier-2.webp
+      sourceId: Compendium.cof-srd.capacities.feNUtVhSCOrVPwSf
+    - _id: yUSPBhTcWW46ZQD6
+      name: Grâce féline
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-aventurier-3.webp
+      sourceId: Compendium.cof-srd.capacities.yUSPBhTcWW46ZQD6
+    - _id: URCLJL6zBVScaFXS
+      name: Feindre la mort
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-aventurier-4.webp
+      sourceId: Compendium.cof-srd.capacities.URCLJL6zBVScaFXS
+    - _id: wljnkXvkEHD3RvtU
+      name: Charisme héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-aventurier-5.webp
+      sourceId: Compendium.cof-srd.capacities.wljnkXvkEHD3RvtU
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!elOUyojJTA99DMtV'

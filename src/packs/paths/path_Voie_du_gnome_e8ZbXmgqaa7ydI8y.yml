@@ -1,0 +1,54 @@
+_id: e8ZbXmgqaa7ydI8y
+name: Voie du gnome
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-gnome.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-gnome
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: ltUc5z2hpCZ9v7xz
+      name: Petit pote
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-1.webp
+      sourceId: Compendium.cof-srd.capacities.ltUc5z2hpCZ9v7xz
+    - _id: ND8AvxtOWRCvYtvL
+      name: Don occulte
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-2.webp
+      sourceId: Compendium.cof-srd.capacities.ND8AvxtOWRCvYtvL
+    - _id: 4keZkUYxlZ5leHFf
+      name: Insignifiant
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-3.webp
+      sourceId: Compendium.cof-srd.capacities.4keZkUYxlZ5leHFf
+    - _id: mT4kGzBLdR0DuJqX
+      name: Merveille technologique
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-4.webp
+      sourceId: Compendium.cof-srd.capacities.mT4kGzBLdR0DuJqX
+    - _id: kbcyrmKIRWG1jfvM
+      name: Bonne nature
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-5.webp
+      sourceId: Compendium.cof-srd.capacities.kbcyrmKIRWG1jfvM
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!e8ZbXmgqaa7ydI8y'

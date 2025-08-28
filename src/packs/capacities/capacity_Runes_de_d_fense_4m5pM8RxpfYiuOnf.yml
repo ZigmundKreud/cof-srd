@@ -1,0 +1,70 @@
+name: Runes de défense
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-1.webp
+_id: 4m5pM8RxpfYiuOnf
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: runes-de-defense
+  description: >-
+    <h1>Description</h1><p>Le Forgesort inscrit des runes de protection sur
+    l'ensemble de son équipement et parfois jusque sur sa peau. Il obtient un
+    bonus de +1 en <strong>DEF</strong> par rang dans la voie.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!4m5pM8RxpfYiuOnf'

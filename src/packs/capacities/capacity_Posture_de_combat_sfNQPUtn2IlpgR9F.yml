@@ -1,0 +1,72 @@
+name: Posture de combat
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-soldat-1.webp
+_id: sfNQPUtn2IlpgR9F
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: posture-de-combat
+  description: >-
+    <h1>Description</h1><p>Au début de votre tour, choisissez d'appliquer
+    jusqu'à -1 par rang en attaque, en <strong>DEF</strong> ou aux
+    <strong>DM</strong> et obtenez l'équivalent en bonus au choix en attaque, en
+    <strong>DEF</strong> ou aux <strong>DM</strong> jusqu'à votre prochain
+    tour.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!sfNQPUtn2IlpgR9F'

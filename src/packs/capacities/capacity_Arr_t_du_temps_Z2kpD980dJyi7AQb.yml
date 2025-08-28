@@ -1,0 +1,73 @@
+name: Arrêt du temps
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-protectrice-5.webp
+_id: Z2kpD980dJyi7AQb
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: arret-du-temps
+  description: >-
+    <h1>Description</h1><p>Le Magicien arrête le temps pendant [1d6 + Mod.
+    d’<strong>INT</strong>] tours. Seul le Magicien peut agir à sa guise pendant
+    cette période, lancer des sorts sur lui-même, se déplacer et déplacer des
+    objets, tant qu’il ne touche pas un être vivant ou n’interagit pas avec lui
+    (en lui lançant un sort par exemple). Dans le cas d’un contact (même
+    magique), le temps reprend instantanément son cours normal.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!Z2kpD980dJyi7AQb'

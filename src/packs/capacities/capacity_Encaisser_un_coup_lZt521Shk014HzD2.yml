@@ -1,0 +1,73 @@
+name: Encaisser un coup
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-2.webp
+_id: lZt521Shk014HzD2
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: encaisser-un-coup
+  description: >-
+    <h1>Description</h1><p>Le chevalier se place de façon à dévier un coup sur
+    son armure. A son tour, il fait seulement une action d'attaque ou une action
+    de mouvement. Par la suite, à tout moment avant son prochain tour, il peut
+    retrancher aux dégâts subits suite à une attaque au contact un total égal au
+    Mod. de <strong>DEF</strong> de son armure (plus d'éventuels bonus de magie
+    et de bouclier).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!lZt521Shk014HzD2'

@@ -1,0 +1,54 @@
+_id: kRPc9MeKPfNGC7QH
+name: Voie du roublard
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-roublard.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-roublard
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: niXnSMFSO93YFP3H
+      name: Doigts agiles
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-1.webp
+      sourceId: Compendium.cof-srd.capacities.niXnSMFSO93YFP3H
+    - _id: wQuyqyNviEMepLhp
+      name: Détecter les pièges
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-2.webp
+      sourceId: Compendium.cof-srd.capacities.wQuyqyNviEMepLhp
+    - _id: dV5q1nsXZmCHDbHf
+      name: Croc-en-jambe
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-3.webp
+      sourceId: Compendium.cof-srd.capacities.dV5q1nsXZmCHDbHf
+    - _id: 8mmNtrSnetWvb0xF
+      name: Attaque paralysante
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-4.webp
+      sourceId: Compendium.cof-srd.capacities.8mmNtrSnetWvb0xF
+    - _id: 29elGCmWgu7mccxm
+      name: Attaque en traître
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-5.webp
+      sourceId: Compendium.cof-srd.capacities.29elGCmWgu7mccxm
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!kRPc9MeKPfNGC7QH'

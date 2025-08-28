@@ -1,0 +1,83 @@
+_id: yOZGNnquzqIgMTdQ
+name: Renvoi de sort
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-5.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: renvoi-de-sort
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Guerrier peut d&eacute;cider de renvoyer un sort qu&rsquo;il vient
+    d&rsquo;absorber gr&acirc;ce &agrave; sa capacit&eacute; Absorber un sort.
+    Au lieu d&rsquo;&ecirc;tre annul&eacute;, <span style="text-decoration:
+    underline;">le sort absorb&eacute; le tour pr&eacute;c&eacute;dent</span>
+    est retourn&eacute; contre son exp&eacute;diteur : le lanceur du sort subit
+    alors les effets de sa propre attaque !</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie du
+    bouclier</strong></span></p>
+
+    <p>Pour utiliser les capacit&eacute;s de cette voie, le guerrier doit
+    obligatoirement manier un bouclier.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!yOZGNnquzqIgMTdQ'

@@ -1,0 +1,58 @@
+_id: Rk5M013FMlikBZ3d
+name: Voie des soins
+type: path
+img: icons/magic/life/cross-area-circle-green-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-des-soins
+  description: >-
+    <h1>Note</h1><p>Soins légers et soins modérés peuvent être utilisés un
+    nombre de fois par jour égal au Rang que le Prêtre a atteint dans cette
+    Voie. Au Rang 2 par exemple, il peut utiliser chaque capacité 2 fois par
+    jour.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: ENZELDnQpvTbQ3Sz
+      name: Soins légers
+      img: icons/magic/life/cross-worn-green.webp
+      sourceId: Compendium.cof-srd.capacities.ENZELDnQpvTbQ3Sz
+    - _id: Un6S53LcOYqABNL9
+      name: Soins modérés
+      img: icons/magic/life/cross-yellow-green.webp
+      sourceId: Compendium.cof-srd.capacities.Un6S53LcOYqABNL9
+    - _id: H6OXpJfgfdOzFySV
+      name: Soins de groupe
+      img: icons/magic/life/crosses-trio-red.webp
+      sourceId: Compendium.cof-srd.capacities.H6OXpJfgfdOzFySV
+    - _id: LDm510DtfhvQrvkq
+      name: Guérison
+      img: icons/magic/life/heart-shadow-red.webp
+      sourceId: Compendium.cof-srd.capacities.LDm510DtfhvQrvkq
+    - _id: itzflH9LDBXARsDK
+      name: Rappel à la vie
+      img: icons/magic/life/ankh-gold-blue.webp
+      sourceId: Compendium.cof-srd.capacities.itzflH9LDBXARsDK
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+_key: '!items!Rk5M013FMlikBZ3d'

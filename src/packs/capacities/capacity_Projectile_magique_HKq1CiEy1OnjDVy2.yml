@@ -1,0 +1,74 @@
+_id: HKq1CiEy1OnjDVy2
+name: Projectile magique
+type: capacity
+img: icons/magic/light/projectile-smoke-blue.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: projectile-magique
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Magicien choisit une cible visible situ&eacute;e &agrave; moins de 50
+    m&egrave;tres. <br />Elle encaisse automatiquement 1d4 points de
+    d&eacute;g&acirc;ts (pas de test d'attaque n&eacute;cessaire). <br />A
+    partir du Rang 4 dans cette Voie, les <strong>DM</strong> passent &agrave;
+    1d6.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: true
+  limitedUsage: false
+  save: false
+  activable: true
+  heal: false
+  attack: true
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: '50'
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: auto
+      skillBonus: ''
+      difficulty: ''
+      dmgBase: 1d4
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!HKq1CiEy1OnjDVy2'

@@ -1,0 +1,85 @@
+_id: lcEhohluCYSRguY8
+name: Demi-orque
+type: species
+flags: {}
+img: /modules/cof-srd/ui/icons/species/demi-orque.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: demi-orque
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Demi-orque est de grande taille. Issu de l&rsquo;union souvent
+    forc&eacute;e d&rsquo;une humaine et d&rsquo;un Orque, il poss&egrave;de une
+    force physique hors du commun. Il est g&eacute;n&eacute;ralement
+    m&eacute;pris&eacute; par les autres races, en particulier par les Nains et
+    les Elfes.</p>
+
+    <p>Pr&eacute;jug&eacute;s typiques : Les Demi-orques sont violents, sales et
+    stupides, ils en veulent au monde entier de leur ignoble naissance et mieux
+    vaut les &eacute;viter</p>
+
+    <p><strong>&Acirc;ge de d&eacute;part</strong> :&nbsp;15+</p>
+
+    <p><strong>Long&eacute;vit&eacute;</strong> :&nbsp;60 ans</p>
+
+    <p><strong>Taille</strong> :&nbsp;1.70 m &agrave; 2.10 m</p>
+
+    <p><strong>Poids</strong> :&nbsp;70 kg &agrave; 150 kg</p>
+
+    <p><strong>Morphologie</strong> :&nbsp;Grand et athl&eacute;tique. Peau
+    gris&acirc;tre ou verd&acirc;tre, m&acirc;choire large, front bas, petits
+    yeux.</p>
+
+    <h2>Noms</h2>
+
+    <p>Les Demi-orques utilisent des pr&eacute;noms humains, &agrave; moins
+    qu&rsquo;ils aient &eacute;t&eacute; &eacute;lev&eacute;s chez les Orques.
+    Certains se choisissent aussi un pr&eacute;nom orque &agrave;
+    l&rsquo;&acirc;ge adulte, en r&eacute;action &agrave; l&rsquo;ostracisme
+    dont ils sont victimes. Les noms orques sont courts et gutturaux,
+    privil&eacute;giez les lettres R, G et K, &eacute;vitez une voyelle douce
+    comme le E et pr&eacute;f&eacute;rez le O.</p>
+
+    <h2>Racial</h2>
+
+    <p>+2 FOR, -2 INT, -2 CHA</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  bonuses:
+    str: 2
+    dex: 0
+    con: 0
+    int: -2
+    wis: 0
+    cha: -2
+  paths:
+    - _id: 38dY15bO0HKJlyZ3
+      name: Voie du demi-orque
+      img: /modules/cof-srd/ui/icons/paths/voie-du-demi-orque.webp
+      sourceId: Compendium.cof-srd.paths.38dY15bO0HKJlyZ3
+  capacities:
+    - _id: e4bI6a2UWQy9bgDW
+      name: Vision dans le noir
+      img: /modules/cof-srd/ui/icons/capacities/vision-dans-le-noir.webp
+      sourceId: Compendium.cof-srd.capacities.e4bI6a2UWQy9bgDW
+  racial: ''
+  age: ''
+  longevity: ''
+  height: ''
+  weight: ''
+folder: null
+sort: 0
+_key: '!items!lcEhohluCYSRguY8'

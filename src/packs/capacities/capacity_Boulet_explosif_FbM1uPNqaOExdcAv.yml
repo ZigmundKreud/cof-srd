@@ -1,0 +1,89 @@
+_id: FbM1uPNqaOExdcAv
+name: Boulet explosif
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-5.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: boulet-explosif
+  description: >-
+    <h1>Description</h1>
+
+    <p>L&rsquo;Arquebusier sait fabriquer et lancer de petites boules de
+    m&eacute;tal munies de poudre et d&rsquo;une m&egrave;che. <br />Un tel
+    projectile a une <strong>port&eacute;e de 20 m&egrave;tres</strong> et
+    explose dans un<strong> rayon de 5 m&egrave;tres</strong> en infligeant 5d6
+    <strong>DM</strong>, divis&eacute; par 2 pour les victimes qui
+    r&eacute;ussissent un test de <strong>DEX</strong> difficult&eacute; [12 +
+    Mod. de <strong>DEX</strong> de l&rsquo;Arquebusier].</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie des
+    explosifs</strong></span></p>
+
+    <p>Chaque jour l&rsquo;arquebusier peut utiliser&nbsp;un nombre de charges
+    explosives&nbsp;&eacute;gal au Rang dans la voie.</p>
+
+    <p>Ces charges&nbsp;permettent indiff&eacute;remment
+    d&rsquo;utiliser&nbsp;les
+    capacit&eacute;s&nbsp;<strong>D&eacute;molition</strong>,&nbsp;<strong>Pi&egrave;ge
+    explosif&nbsp;</strong>ou&nbsp;<strong>Boulet explosif</strong>.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!FbM1uPNqaOExdcAv'

@@ -1,0 +1,54 @@
+_id: O02Zr9LKVJfB7SX1
+name: Voie de la précision
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-precision.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-precision
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: GCEos6mC5IMn3Uvq
+      name: Joli coup !
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-1.webp
+      sourceId: Compendium.cof-srd.capacities.GCEos6mC5IMn3Uvq
+    - _id: ePxqRGcAxwMUf5te
+      name: Tir précis
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-2.webp
+      sourceId: Compendium.cof-srd.capacities.ePxqRGcAxwMUf5te
+    - _id: nWWvXyb0egkW18ac
+      name: Défaut dans la cuirasse
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-3.webp
+      sourceId: Compendium.cof-srd.capacities.nWWvXyb0egkW18ac
+    - _id: 8nYPQsgpNbIv05hN
+      name: Tir parabolique
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-4.webp
+      sourceId: Compendium.cof-srd.capacities.8nYPQsgpNbIv05hN
+    - _id: lx1455mVpgsJPh5N
+      name: Tir mortel
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-5.webp
+      sourceId: Compendium.cof-srd.capacities.lx1455mVpgsJPh5N
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!O02Zr9LKVJfB7SX1'

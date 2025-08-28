@@ -1,0 +1,76 @@
+name: Réduction des <strong>DM</strong>
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-1.webp
+_id: TWxxalJsj3H0pvbI
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: reduction-des-lessstronggreaterdmlessstronggreater
+  description: >-
+    <h1>Description</h1><p>La créature est peu sensible aux <strong>DM</strong>
+    provoqués par les armes, le métal rebondi sur elle comme un vulgaire morceau
+    de bois ou alors la créature guérit immédiatement. Elle obtient une
+    réduction des <strong>DM</strong> (RD) de 5, ce score est retranché à tous
+    les <strong>DM</strong> subits. Choisissez un type d’arme qui ignore cette
+    réduction : un certain métal ou un certain type d’armes ou encore la magie
+    (armes et sorts). Par exemple les masses sur un squelette ou les armes en
+    argent sur un lycanthrope. Vous pouvez augmenter cette réduction des
+    <strong>DM</strong> à 10 au rang 2 et à 15 au rang 3.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!TWxxalJsj3H0pvbI'

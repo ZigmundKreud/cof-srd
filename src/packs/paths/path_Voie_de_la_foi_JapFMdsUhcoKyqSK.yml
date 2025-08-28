@@ -1,0 +1,54 @@
+_id: JapFMdsUhcoKyqSK
+name: Voie de la foi
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-foi.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-foi
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 6L7dTJfefKruFgfi
+      name: Parole divine
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-1.webp
+      sourceId: Compendium.cof-srd.capacities.6L7dTJfefKruFgfi
+    - _id: qLl4ywIXtd4Pp16j
+      name: Arme d'argent
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-2.webp
+      sourceId: Compendium.cof-srd.capacities.qLl4ywIXtd4Pp16j
+    - _id: 384zkrTwsDVULcay
+      name: Ailes célestes
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-3.webp
+      sourceId: Compendium.cof-srd.capacities.384zkrTwsDVULcay
+    - _id: qV15IF2bvwJ80niL
+      name: Foudres divines
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-4.webp
+      sourceId: Compendium.cof-srd.capacities.qV15IF2bvwJ80niL
+    - _id: C8eTcdgxKCBhVNuF
+      name: Charisme héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-5.webp
+      sourceId: Compendium.cof-srd.capacities.C8eTcdgxKCBhVNuF
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!JapFMdsUhcoKyqSK'

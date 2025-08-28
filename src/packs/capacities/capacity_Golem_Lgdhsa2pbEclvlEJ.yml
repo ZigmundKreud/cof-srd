@@ -1,0 +1,78 @@
+name: Golem
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-2.webp
+_id: Lgdhsa2pbEclvlEJ
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: golem
+  description: >-
+    <h1>Description</h1><p>Le golem est une créature humanoïde fabriquée par le
+    Forgesort pour lui servir de serviteur et de garde du corps.
+
+    Golem : Créature non-vivante, Init [forgesort], <strong>DEF</strong> 14, PV
+    [4 x niveau], Attaque [niveau + Mod. de <strong>FOR</strong>],
+    <strong>DM</strong> 1d8+1. <strong>FOR</strong> +1, <strong>DEX</strong> -1,
+    <strong>CON</strong> +10, <strong>INT</strong> -4, <strong>SAG</strong> -3,
+    <strong>CHA</strong> -4.
+
+    Le Forgesort peut réparer le golem au rythme de [1d6 par rang + Mod.
+    d’<strong>INT</strong>] PV par heure.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!Lgdhsa2pbEclvlEJ'

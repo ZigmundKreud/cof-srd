@@ -1,0 +1,78 @@
+name: Fidèle monture
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-cavalier-1.webp
+_id: FN8w4bWW0qkrYRkp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: fidele-monture
+  description: >-
+    <h1>Description</h1><p>Le Chevalier possède un puissant destrier, c'est un
+    cheval de guerre bien dressé qui comprend les ordres simples.
+
+    A cheval, il peut ajouter un déplacement de 10 m avant ou après une action
+    normale (par exemple faire 10 m et une action limitée). La monture n'attaque
+    que si elle est elle-même attaquée au contact par une créature.
+
+    Fidèle monture : <strong>FOR</strong> +4, <strong>DEX</strong> +0,
+    <strong>CON</strong> +4, <strong>INT</strong> -2, <strong>SAG</strong> +0,
+    <strong>CHA</strong> +0, Init 10, <strong>DEF</strong> 13, PV 15, Ruade +5,
+    <strong>DM</strong> 1d6+4</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!FN8w4bWW0qkrYRkp'

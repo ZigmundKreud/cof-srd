@@ -1,0 +1,71 @@
+name: Cadence de tir
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-pistolero-2.webp
+_id: JPBakfvO0brD7aD3
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: cadence-de-tir
+  description: >-
+    <h1>Description</h1><p>Recharger une pétoire ou un mousquet devient une
+    action de mouvement. Dans le cas d'une arbalète de poing ou d'une arbalète
+    légère, l'action devient gratuite. A partir du Rang 5 dans la voie, il peut
+    recharger deux armes en une seule action.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!JPBakfvO0brD7aD3'

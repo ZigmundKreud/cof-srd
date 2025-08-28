@@ -1,0 +1,87 @@
+_id: iH1Y1x2sblHvqr9i
+name: Forgesort
+type: profile
+flags: {}
+img: /modules/cof-srd/ui/icons/profiles/forgesort.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: forgesort
+  description: >-
+    <h1>Description</h1><p>A la fois artisan et enchanteur, artiste et magicien,
+    le Forgesort lie les énergies occultes à la matière qu'il façonne pour créer
+    des artefacts magiques ou des breuvages aux propriétés
+    fantastiques.</p><h1>Maîtrise</h1><p>Le Forgesort sait manier la dague, le
+    bâton ferré, le marteau et l'arbalète légère. Il peut porter une armure de
+    cuir simple seulement et ne peut pas manier de bouclier.</p><h1>Possessions
+    de départ</h1><p>Dague (<strong>DM</strong> 1d4), bâton ferré
+    (<strong>DM</strong> 1d6), marteau (<strong>DM</strong>
+    1d6).</p><h1>Notes</h1><h2>Science, pas science ?</h2><p>Ce Profil est
+    particulièrement adapté aux univers où le développement technologique n'est
+    pas en reste (tendance Steampunk, Les Royaumes d'Acier ou Eberron par
+    exemple). Dans ce genre d'univers, vous pouvez le typer plus fortement en
+    renommant la Voie du golem en Voie du méca et plutôt que des sorts, tous les
+    effets sont obtenus par de nombreux objets étranges portés, ingérés ou
+    greffés.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  dv: 1d6
+  spellcasting: int
+  mpfactor: '1'
+  paths:
+    - _id: XoJBkNOTqfAbaFAL
+      name: Voie des artefacts
+      img: /modules/cof-srd/ui/icons/paths/voie-des-artefacts.webp
+      sourceId: Compendium.cof-srd.paths.XoJBkNOTqfAbaFAL
+    - _id: 980HTx6g7nbWdF1U
+      name: Voie des élixirs
+      img: /modules/cof-srd/ui/icons/paths/voie-des-elixirs.webp
+      sourceId: Compendium.cof-srd.paths.980HTx6g7nbWdF1U
+    - _id: obaRgEl83p5KK0C3
+      name: Voie des runes
+      img: /modules/cof-srd/ui/icons/paths/voie-des-runes.webp
+      sourceId: Compendium.cof-srd.paths.obaRgEl83p5KK0C3
+    - _id: e7rUUliqqoCKXSS9
+      name: Voie du golem
+      img: /modules/cof-srd/ui/icons/paths/voie-du-golem.webp
+      sourceId: Compendium.cof-srd.paths.e7rUUliqqoCKXSS9
+    - _id: Pe5i15MvmqglTYzK
+      name: Voie du métal
+      img: /modules/cof-srd/ui/icons/paths/voie-du-metal.webp
+      sourceId: Compendium.cof-srd.paths.Pe5i15MvmqglTYzK
+  proficiencies:
+    daggers: false
+    swords: false
+    axes: false
+    staves: false
+    clubs: false
+    hammers: false
+    katanas: false
+    2-hands: false
+    slings: false
+    bows: false
+    crossbows: false
+    throwing-weapons: false
+    powder-weapons: false
+    soft-leather: false
+    studded-leather: false
+    mail: false
+    half-plate: false
+    full-plate: false
+    shield: false
+  prestige: []
+  alternatives: []
+folder: null
+sort: 0
+_key: '!items!iH1Y1x2sblHvqr9i'

@@ -1,0 +1,83 @@
+_id: KycG3XaiE8lf9ybE
+name: Impressionnant
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-1.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: impressionnant
+  description: >-
+    <h1>Description</h1>
+
+    <p>L'ours n'est pas dress&eacute; &agrave; attaquer, mais les interlocuteurs
+    du R&ocirc;deur ne le savent pas, aussi gagne-t-il un bonus de +5 &agrave;
+    tous ses tests d'intimidation lorsque l'animal est &agrave; ses
+    cot&eacute;s. L'ours n'attaque que pour se d&eacute;fendre s'il est
+    bless&eacute;.</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie du montreur
+    d&rsquo;ours</strong></span></p>
+
+    <p>Le r&ocirc;deur obtient un jeune ours noir&nbsp;pour compagnon animal
+    d&egrave;s qu&rsquo;il prend&nbsp;au moins un Rang dans cette
+    Voie.&nbsp;</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!KycG3XaiE8lf9ybE'

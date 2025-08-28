@@ -1,0 +1,54 @@
+_id: IS8mjVUM4Obb3Wr8
+name: Voie de la nature
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-nature.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-nature
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: uciBQ8BYpfgp8Jf9
+      name: Maître de la survie
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-nature-1.webp
+      sourceId: Compendium.cof-srd.capacities.uciBQ8BYpfgp8Jf9
+    - _id: vXFa8ARfADUKglNv
+      name: Marche sylvestre
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-nature-2.webp
+      sourceId: Compendium.cof-srd.capacities.vXFa8ARfADUKglNv
+    - _id: FN8zCPCxdt2dDvaH
+      name: Résistant
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-nature-3.webp
+      sourceId: Compendium.cof-srd.capacities.FN8zCPCxdt2dDvaH
+    - _id: fSDrGSxD6RNL74Kd
+      name: Bâton de druide
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-nature-4.webp
+      sourceId: Compendium.cof-srd.capacities.fSDrGSxD6RNL74Kd
+    - _id: jLC8ogwFb4gXX0WY
+      name: Constitution héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-nature-5.webp
+      sourceId: Compendium.cof-srd.capacities.jLC8ogwFb4gXX0WY
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!IS8mjVUM4Obb3Wr8'

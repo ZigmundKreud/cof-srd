@@ -1,0 +1,83 @@
+_id: zQ8tfKDn4vhkhN06
+name: Absorber un coup
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-2.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: absorber-un-coup
+  description: >-
+    <h1>Description</h1>
+
+    <p>A son tour, le Guerrier fait seulement une action d&rsquo;attaque ou de
+    d&eacute;placement. <br />Par la suite, &agrave; tout moment avant son
+    prochain tour, le Guerrier peut effectuer un test d&rsquo;attaque au contact
+    en opposition &agrave; un test r&eacute;ussi d&rsquo;attaque au contact ou
+    &agrave; distance d&rsquo;un adversaire. En cas de r&eacute;ussite,
+    l&rsquo;attaque adverse est bloqu&eacute;e par le bouclier.</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie du
+    bouclier</strong></span></p>
+
+    <p>Pour utiliser les capacit&eacute;s de cette voie, le guerrier doit
+    obligatoirement manier un bouclier.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!zQ8tfKDn4vhkhN06'

@@ -1,0 +1,54 @@
+_id: bZFm8QojFRanVzrW
+name: Voie du soldat
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-soldat.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-soldat
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: sfNQPUtn2IlpgR9F
+      name: Posture de combat
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-soldat-1.webp
+      sourceId: Compendium.cof-srd.capacities.sfNQPUtn2IlpgR9F
+    - _id: 3Z4wjlUUt84YrCkA
+      name: Combat en phalange
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-soldat-2.webp
+      sourceId: Compendium.cof-srd.capacities.3Z4wjlUUt84YrCkA
+    - _id: xBlgkpzQ0nEzZRpE
+      name: Prouesse
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-soldat-3.webp
+      sourceId: Compendium.cof-srd.capacities.xBlgkpzQ0nEzZRpE
+    - _id: FXq39zqdnhgLyqiD
+      name: Dernier rempart
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-soldat-4.webp
+      sourceId: Compendium.cof-srd.capacities.FXq39zqdnhgLyqiD
+    - _id: 3mvcthXPki5GOEQQ
+      name: Force héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-soldat-5.webp
+      sourceId: Compendium.cof-srd.capacities.3mvcthXPki5GOEQQ
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!bZFm8QojFRanVzrW'

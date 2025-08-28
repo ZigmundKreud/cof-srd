@@ -1,0 +1,54 @@
+_id: VKOfkHgRDKOgq59h
+name: Voie de l'assassin
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-assassin.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-assassin
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: ZmcZc3JoeSdjuCoz
+      name: Discrétion
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-1.webp
+      sourceId: Compendium.cof-srd.capacities.ZmcZc3JoeSdjuCoz
+    - _id: kM273cYLNEMWG0Xs
+      name: Attaque sournoise
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-2.webp
+      sourceId: Compendium.cof-srd.capacities.kM273cYLNEMWG0Xs
+    - _id: hO3j9irYrnvRA43G
+      name: Ombre mouvante
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-3.webp
+      sourceId: Compendium.cof-srd.capacities.hO3j9irYrnvRA43G
+    - _id: kJ35VzmEafJY0rhw
+      name: Surprise
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-4.webp
+      sourceId: Compendium.cof-srd.capacities.kJ35VzmEafJY0rhw
+    - _id: nrImcCsMn5UFxIfG
+      name: Ouverture mortelle
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-5.webp
+      sourceId: Compendium.cof-srd.capacities.nrImcCsMn5UFxIfG
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!VKOfkHgRDKOgq59h'

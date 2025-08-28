@@ -1,0 +1,91 @@
+_id: aap3UB47XWg9ZYUD
+name: Barde
+type: profile
+flags: {}
+img: /modules/cof-srd/ui/icons/profiles/barde.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: barde
+  description: >-
+    <h1>Description</h1><p>Le Barde est un personnage polyvalent qui utilise la
+    magie et le spectacle pour divertir et parvenir à ses fins. Il est aussi
+    habitué aux ruses qu'à la diplomatie.</p><h1>Maîtrise</h1><p>Le Barde sait
+    manier les armes à 1 main. Il peut porter jusqu'à l'armure de cuir renforcée
+    et ne peut pas manier le bouclier.</p><h1>Possessions de
+    départ</h1><p>Rapière (<strong>DM</strong> 1d6, Crit 19-20), dague
+    (<strong>DM</strong> 1d4), instrument de musique, armure de cuir
+    (<strong>DEF</strong> +2).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  dv: 1d6
+  spellcasting: cha
+  mpfactor: '1'
+  paths:
+    - _id: PLo6Sy2NQFUDIzxM
+      name: Voie de l'escrime
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-escrime.webp
+      sourceId: Compendium.cof-srd.paths.PLo6Sy2NQFUDIzxM
+    - _id: ZXyXVkfEVheuv2fs
+      name: Voie de la séduction
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-seduction.webp
+      sourceId: Compendium.cof-srd.paths.ZXyXVkfEVheuv2fs
+    - _id: W4O71o9CTqYXf2Ab
+      name: Voie du musicien
+      img: /modules/cof-srd/ui/icons/paths/voie-du-musicien.webp
+      sourceId: Compendium.cof-srd.paths.W4O71o9CTqYXf2Ab
+    - _id: jDRVIjOkA0r2x3bK
+      name: Voie du saltimbanque
+      img: /modules/cof-srd/ui/icons/paths/voie-du-saltimbanque.webp
+      sourceId: Compendium.cof-srd.paths.jDRVIjOkA0r2x3bK
+    - _id: I3aOjK4AaLjHcrYI
+      name: Voie du vagabond
+      img: /modules/cof-srd/ui/icons/paths/voie-du-vagabond.webp
+      sourceId: Compendium.cof-srd.paths.I3aOjK4AaLjHcrYI
+  proficiencies:
+    daggers: false
+    swords: false
+    axes: false
+    staves: false
+    clubs: false
+    hammers: false
+    katanas: false
+    2-hands: false
+    slings: false
+    bows: false
+    crossbows: false
+    throwing-weapons: false
+    powder-weapons: false
+    soft-leather: false
+    studded-leather: false
+    mail: false
+    half-plate: false
+    full-plate: false
+    shield: false
+  prestige: []
+  alternatives: []
+  properties:
+    basic-prof: false
+    1h-prof: false
+    2h-prof: false
+    ranged-prof: false
+    crossbow-prof: false
+    powder-prof: false
+    leather-prof: false
+    mail-prof: false
+    plate-prof: false
+    shield-prof: false
+folder: null
+sort: 0
+_key: '!items!aap3UB47XWg9ZYUD'

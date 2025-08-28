@@ -1,0 +1,81 @@
+name: Artefact majeur
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-5.webp
+_id: Qm3wiGW7u7zatbsc
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: artefact-majeur
+  description: >-
+    <h1>Description</h1><p>Le Forgesort peut enchanter des objets. Il peut créer
+    une arme qui donne un bonus de +1 aux tests d’attaque et aux
+    <strong>DM</strong> ou une armure qui donne un bonus de +1 en
+    <strong>DEF</strong> et réduit le malus d’encombrement d’autant. Le bonus
+    passe à +2 lorsque le personnage atteint le niveau 8 puis augmente de +1
+    tous les 3 niveaux (+5 au niveau 17).
+
+    Il faut un mois de travail et la dépense de 100 po par point de bonus pour
+    créer l’objet. A la fin, le Forgesort doit réaliser un test
+    d’<strong>INT</strong> difficulté [10 + 3 x bonus de l’objet] avec un bonus
+    égal au rang atteint dans la Voie du métal. En cas d’échec, l’objet n’est
+    pas enchanté et il faut recommencer (l’argent est perdu !). En cas de
+    succès, le Forgesort doit insuffler un peu d’énergie vitale dans l’objet :
+    il sacrifie 1 PV qu’il perd définitivement sur son score de PV maximum.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!Qm3wiGW7u7zatbsc'

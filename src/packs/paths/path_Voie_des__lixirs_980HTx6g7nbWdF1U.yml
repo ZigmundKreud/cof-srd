@@ -1,0 +1,60 @@
+_id: 980HTx6g7nbWdF1U
+name: Voie des élixirs
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-elixirs.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-des-elixirs
+  description: >-
+    <h1>Note</h1><p>Chaque jour, le Forgesort peut créer jusqu’à deux élixirs
+    par rang acquis dans la Voie. Produire un lot d’élixirs prend une heure,
+    quel qu’en soit le nombre. Ce sont des mélanges instables qui deviennent
+    inopérants après 24h. Le joueur doit donc en noter l’heure de fabrication.
+    Passé 24h, le Forgesort peut régénérer les élixirs en seulement 10 mn, mais
+    ils comptent alors parmi les potions créés pour la journée.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: RU7QauzNPiUx51Jk
+      name: Fortifiant
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-elixirs-1.webp
+      sourceId: Compendium.cof-srd.capacities.RU7QauzNPiUx51Jk
+    - _id: FCqI3ennNLZz5SiL
+      name: Feu grégeois
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-elixirs-2.webp
+      sourceId: Compendium.cof-srd.capacities.FCqI3ennNLZz5SiL
+    - _id: NTIaid2Le4Ci2XuQ
+      name: Elixir de guérison
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-elixirs-3.webp
+      sourceId: Compendium.cof-srd.capacities.NTIaid2Le4Ci2XuQ
+    - _id: f1NrAbwOLP3PwASA
+      name: Potion magique
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-elixirs-4.webp
+      sourceId: Compendium.cof-srd.capacities.f1NrAbwOLP3PwASA
+    - _id: G1et4eg1qfK4dczj
+      name: Elixirs magiques
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-elixirs-5.webp
+      sourceId: Compendium.cof-srd.capacities.G1et4eg1qfK4dczj
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!980HTx6g7nbWdF1U'

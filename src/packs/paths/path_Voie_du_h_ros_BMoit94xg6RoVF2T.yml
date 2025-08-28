@@ -1,0 +1,54 @@
+_id: BMoit94xg6RoVF2T
+name: Voie du héros
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-heros.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-heros
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: ieTPVFPnnAqgxI52
+      name: Ignorer la douleur
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-heros-1.webp
+      sourceId: Compendium.cof-srd.capacities.ieTPVFPnnAqgxI52
+    - _id: MDKVH9163OMGDXHL
+      name: Piqûres d'insecte
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-heros-2.webp
+      sourceId: Compendium.cof-srd.capacities.MDKVH9163OMGDXHL
+    - _id: ckZwiH6rbJxDW9gW
+      name: Laissez-le-moi !
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-heros-3.webp
+      sourceId: Compendium.cof-srd.capacities.ckZwiH6rbJxDW9gW
+    - _id: JFbGkc4mKpFRMmHg
+      name: Seul contre tous
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-heros-4.webp
+      sourceId: Compendium.cof-srd.capacities.JFbGkc4mKpFRMmHg
+    - _id: QmyeYKoiFxjORWqo
+      name: Charisme héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-heros-5.webp
+      sourceId: Compendium.cof-srd.capacities.QmyeYKoiFxjORWqo
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!BMoit94xg6RoVF2T'

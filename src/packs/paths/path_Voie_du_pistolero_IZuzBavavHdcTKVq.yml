@@ -1,0 +1,54 @@
+_id: IZuzBavavHdcTKVq
+name: Voie du pistolero
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-pistolero.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-pistolero
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: H6tHXu4XEB7GdqHY
+      name: Plus vite que son ombre
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pistolero-1.webp
+      sourceId: Compendium.cof-srd.capacities.H6tHXu4XEB7GdqHY
+    - _id: JPBakfvO0brD7aD3
+      name: Cadence de tir
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pistolero-2.webp
+      sourceId: Compendium.cof-srd.capacities.JPBakfvO0brD7aD3
+    - _id: 1xkv2ItrDVZZ9Law
+      name: Tir double
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pistolero-3.webp
+      sourceId: Compendium.cof-srd.capacities.1xkv2ItrDVZZ9Law
+    - _id: ZoDCRxY9j0XZNduK
+      name: As de la gâchette
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pistolero-4.webp
+      sourceId: Compendium.cof-srd.capacities.ZoDCRxY9j0XZNduK
+    - _id: Io9Iet9CdDg9YSDU
+      name: Dextérité héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pistolero-5.webp
+      sourceId: Compendium.cof-srd.capacities.Io9Iet9CdDg9YSDU
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!IZuzBavavHdcTKVq'

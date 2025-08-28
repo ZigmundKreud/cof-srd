@@ -1,0 +1,56 @@
+_id: yWiDuKdX6rZws3vL
+name: Voie de la mort
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-mort.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-mort
+  description: >-
+    <h1>Note</h1><p>Les sorts de cette voie n'affectent pas les créatures non
+    vivantes (golem, élémentaires, mort-vivants).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: v5Axy4gtVISCZ5hO
+      name: Siphon des âmes
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-mort-1.webp
+      sourceId: Compendium.cof-srd.capacities.v5Axy4gtVISCZ5hO
+    - _id: dKSmEeBjxLxk91Pc
+      name: Masque mortuaire
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-mort-2.webp
+      sourceId: Compendium.cof-srd.capacities.dKSmEeBjxLxk91Pc
+    - _id: rSWaESMIoEbE2Z9O
+      name: Baiser du vampire
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-mort-3.webp
+      sourceId: Compendium.cof-srd.capacities.rSWaESMIoEbE2Z9O
+    - _id: O94mm3DhqahdZ4c3
+      name: Briser les cœurs
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-mort-4.webp
+      sourceId: Compendium.cof-srd.capacities.O94mm3DhqahdZ4c3
+    - _id: HaTBkHV1HaagkEcW
+      name: Mot de mort
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-mort-5.webp
+      sourceId: Compendium.cof-srd.capacities.HaTBkHV1HaagkEcW
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!yWiDuKdX6rZws3vL'

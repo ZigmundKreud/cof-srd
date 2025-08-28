@@ -1,0 +1,54 @@
+_id: Y80BPqVI5CtQ6pAJ
+name: Voie de la résistance
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-resistance.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-resistance
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: tnSOKKqdaotaACeO
+      name: Robustesse
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-resistance-1.webp
+      sourceId: Compendium.cof-srd.capacities.tnSOKKqdaotaACeO
+    - _id: jVLOMgwVnOyei2xM
+      name: Armure naturelle
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-resistance-2.webp
+      sourceId: Compendium.cof-srd.capacities.jVLOMgwVnOyei2xM
+    - _id: UcIUa0em7sv6q4wo
+      name: Second souffle
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-resistance-3.webp
+      sourceId: Compendium.cof-srd.capacities.UcIUa0em7sv6q4wo
+    - _id: bQMj3gpFKOH1rmzK
+      name: Dur à cuire
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-resistance-4.webp
+      sourceId: Compendium.cof-srd.capacities.bQMj3gpFKOH1rmzK
+    - _id: f4defUW682Hdas8j
+      name: Constitution héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-resistance-5.webp
+      sourceId: Compendium.cof-srd.capacities.f4defUW682Hdas8j
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!Y80BPqVI5CtQ6pAJ'

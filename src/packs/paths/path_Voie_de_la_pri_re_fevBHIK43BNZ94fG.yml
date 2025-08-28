@@ -1,0 +1,54 @@
+_id: fevBHIK43BNZ94fG
+name: Voie de la prière
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-priere.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-priere
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: JMNeRt3KjfHpfjqI
+      name: Bénédiction
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-1.webp
+      sourceId: Compendium.cof-srd.capacities.JMNeRt3KjfHpfjqI
+    - _id: jlNRyBHjQt9oX2h9
+      name: Destruction des morts-vivants
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-2.webp
+      sourceId: Compendium.cof-srd.capacities.jlNRyBHjQt9oX2h9
+    - _id: sfgCWCpp6fbwFaxi
+      name: Sanctuaire
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-3.webp
+      sourceId: Compendium.cof-srd.capacities.sfgCWCpp6fbwFaxi
+    - _id: xoNwhL0pqUQ2e8bV
+      name: Intervention divine
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-4.webp
+      sourceId: Compendium.cof-srd.capacities.xoNwhL0pqUQ2e8bV
+    - _id: MDbMGpU4jxnAOxh1
+      name: Sagesse héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-5.webp
+      sourceId: Compendium.cof-srd.capacities.MDbMGpU4jxnAOxh1
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!fevBHIK43BNZ94fG'

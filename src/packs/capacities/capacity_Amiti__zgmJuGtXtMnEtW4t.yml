@@ -1,0 +1,83 @@
+_id: zgmJuGtXtMnEtW4t
+name: Amitié
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-4.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: amitie
+  description: >-
+    <h1>Description</h1>
+
+    <p>Si l'Ensorceleur r&eacute;ussit un test d'Attaque magique (port&eacute;e
+    10 m) contre le score max de PV d'une cible humano&iuml;de, celle-ci se
+    comporte comme un ami de longue date tant qu'elle n'est pas
+    attaqu&eacute;e.<br />Elle peut r&eacute;sister au sort avec un test de
+    <strong>SAG</strong> difficult&eacute; [12 + Mod. de <strong>CHA</strong>],
+    renouvelable une fois par jour.</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie de
+    l'envouteur</strong></span></p>
+
+    <p>Note : si une victime r&eacute;siste &agrave; un sort&nbsp;de cette voie
+    (envouteur), elle y est immunis&eacute;e pendant&nbsp;24h.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!zgmJuGtXtMnEtW4t'

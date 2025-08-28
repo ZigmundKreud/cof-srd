@@ -1,0 +1,54 @@
+_id: iUauKDYC31NO9ofn
+name: Voie du spadassin
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-spadassin.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-spadassin
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 3xcMFqCIk3WLu7nh
+      name: Attaque en finesse
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-spadassin-1.webp
+      sourceId: Compendium.cof-srd.capacities.3xcMFqCIk3WLu7nh
+    - _id: 8rIERIq3GBfXW0aQ
+      name: Esquive fatale
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-spadassin-2.webp
+      sourceId: Compendium.cof-srd.capacities.8rIERIq3GBfXW0aQ
+    - _id: Nsb3XE910w5z1BCg
+      name: Frappe chirurgicale
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-spadassin-3.webp
+      sourceId: Compendium.cof-srd.capacities.Nsb3XE910w5z1BCg
+    - _id: asWadWm8SwCFswus
+      name: Ambidextrie
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-spadassin-4.webp
+      sourceId: Compendium.cof-srd.capacities.asWadWm8SwCFswus
+    - _id: QipK5rJXRA4qmHOP
+      name: Botte secrète
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-spadassin-5.webp
+      sourceId: Compendium.cof-srd.capacities.QipK5rJXRA4qmHOP
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!iUauKDYC31NO9ofn'

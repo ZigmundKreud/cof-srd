@@ -1,0 +1,54 @@
+_id: SIHhpVjjLD8IMvdn
+name: Voie du sang
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-sang.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-sang
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: pnACupbRpQXbirje
+      name: Saignements
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-1.webp
+      sourceId: Compendium.cof-srd.capacities.pnACupbRpQXbirje
+    - _id: 24rYqddfdzo3kPvm
+      name: Sang mordant
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-2.webp
+      sourceId: Compendium.cof-srd.capacities.24rYqddfdzo3kPvm
+    - _id: xRMCF3whnKHhpptr
+      name: Exsangue
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-3.webp
+      sourceId: Compendium.cof-srd.capacities.xRMCF3whnKHhpptr
+    - _id: IhIj57GF5GUPg3j6
+      name: Hémorragie
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-4.webp
+      sourceId: Compendium.cof-srd.capacities.IhIj57GF5GUPg3j6
+    - _id: V7JCs69zYd1Cq1za
+      name: Lien de sang
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-5.webp
+      sourceId: Compendium.cof-srd.capacities.V7JCs69zYd1Cq1za
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!SIHhpVjjLD8IMvdn'

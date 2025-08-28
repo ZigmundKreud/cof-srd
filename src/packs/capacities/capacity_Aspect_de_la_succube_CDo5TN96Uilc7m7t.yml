@@ -1,0 +1,73 @@
+name: Aspect de la succube
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-2.webp
+_id: CDo5TN96Uilc7m7t
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: aspect-de-la-succube
+  description: >-
+    <h1>Description</h1><p>Le Nécromancien acquiert une beauté fascinante pour
+    [5 + Mod. d’<strong>INT</strong>] tours. Il gagne un bonus de +5 aux tests
+    de <strong>CHA</strong> ainsi qu’une attaque de contact nécessitant un test
+    d’attaque magique et qui inflige [1d4 + Mod. de <strong>CHA</strong>]
+    <strong>DM</strong>. Ces <strong>DM</strong> sont transformés en PV, au
+    bénéfice du Nécromancien (sans dépasser son score max de PV).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!CDo5TN96Uilc7m7t'

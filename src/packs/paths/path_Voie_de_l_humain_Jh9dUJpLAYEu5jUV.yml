@@ -1,0 +1,54 @@
+_id: Jh9dUJpLAYEu5jUV
+name: Voie de l'humain
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-humain.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-humain
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: gimEBBCc3ohFxYfk
+      name: Adaptable
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-1.webp
+      sourceId: Compendium.cof-srd.capacities.gimEBBCc3ohFxYfk
+    - _id: EiZjYWklFIp9xqpv
+      name: Loup parmi les loups
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-2.webp
+      sourceId: Compendium.cof-srd.capacities.EiZjYWklFIp9xqpv
+    - _id: Vz00c2yvNSw05S6v
+      name: Versatile
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-3.webp
+      sourceId: Compendium.cof-srd.capacities.Vz00c2yvNSw05S6v
+    - _id: 0PxTqX07tnuyy6k8
+      name: Increvable
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-4.webp
+      sourceId: Compendium.cof-srd.capacities.0PxTqX07tnuyy6k8
+    - _id: Ka4GSoPLt2oZi8Ax
+      name: Polyvalence
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-5.webp
+      sourceId: Compendium.cof-srd.capacities.Ka4GSoPLt2oZi8Ax
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!Jh9dUJpLAYEu5jUV'

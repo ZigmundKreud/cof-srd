@@ -1,0 +1,676 @@
+_id: HTmti7lcjriTr94W
+name: Prêtresse elfe noir
+type: encounter
+sort: 100001
+flags: {}
+img: /modules/cof-srd/ui/icons/creature.webp
+items:
+  - _id: eMuwBOlH7i0EBsAB
+    name: Poison (Prêtresse elfe noir)
+    type: capacity
+    sort: 100000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/poison-pretresse-elfe-noir.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: poison-pretresse-elfe-noir
+      description: >-
+        <h1>Description</h1><p>la masse serpent de la prêtresse inocule du
+        poison à sa victime à chaque attaque. Elle doit faire un test de CON
+        difficulté 14 ou sombrer dans l’inconscience immédiatement pour une
+        durée de 1d6 minutes.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!HTmti7lcjriTr94W.eMuwBOlH7i0EBsAB'
+  - _id: izdcR6ApAw8VEfVp
+    name: Attaque magique
+    type: capacity
+    sort: 200000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-combat-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: attaque-magique
+      description: >-
+        <h1>Description</h1><p>La créature possède un pouvoir magique qui
+        inflige [1d6 x NC] <strong>DM</strong> sur un test d’attaque magique
+        réussi (portée 30 m) sur une cible unique. Si vous souhaitez lancer
+        moins de dés, convertissez la moitié des d6 obtenus en autant de bonus
+        de +3 aux <strong>DM</strong> (8d6 vaut 4d6 + 12). Alternativement, le
+        pouvoir inflige les même <strong>DM</strong> dans une zone de 10 mètres
+        de diamètre, un test de <strong>DEX</strong> difficulté 10 réussi permet
+        alors aux cibles de diviser les <strong>DM</strong> par 2.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!HTmti7lcjriTr94W.izdcR6ApAw8VEfVp'
+  - _id: SjswPW3ZT7ikVyds
+    name: Chair à canon
+    type: capacity
+    sort: 300000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-pnj-recurrent-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: chair-a-canon
+      description: >-
+        <h1>Description</h1><p>Une fois par tour, le PNJ peut décider qu’une
+        attaque qui le visait touche à la place un de ses sous-fifres situé à
+        moins de 3 m et venu s’interposer (ou derrière lequel il s’est mis à
+        couvert). Le PNJ gagne un bonus de +5 en <strong>DEF</strong> tant que
+        des sous-fifres sont positionnés à moins de 3 mètres de lui.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!HTmti7lcjriTr94W.SjswPW3ZT7ikVyds'
+  - _id: 8yWlACOXcig29Bvx
+    name: Injonction mortelle
+    type: capacity
+    sort: 400000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-malefique-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: injonction-mortelle
+      description: >-
+        <h1>Description</h1><p>Une cible située à une distance maximum de 30
+        mètres doit réussir un test de <strong>CON</strong> difficulté 15 ou
+        tomber à 0 PV (et mourir immédiatement s’il s’agit d’un PNJ). En cas de
+        succès, la cible subit tout de même [2d6 + NC] <strong>DM</strong>. Ce
+        pouvoir ne peut prendre une même créature pour cible qu’une seule fois
+        par combat.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!HTmti7lcjriTr94W.8yWlACOXcig29Bvx'
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  stats:
+    str:
+      key: str
+      label: COF.stats.str.label
+      abbrev: COF.stats.str.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 2
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    dex:
+      key: dex
+      label: COF.stats.dex.label
+      abbrev: COF.stats.dex.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: true
+      skillbonus: 0
+      skillmalus: 0
+    con:
+      key: con
+      label: COF.stats.con.label
+      abbrev: COF.stats.con.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 2
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    int:
+      key: int
+      label: COF.stats.int.label
+      abbrev: COF.stats.int.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 2
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    wis:
+      key: wis
+      label: COF.stats.wis.label
+      abbrev: COF.stats.wis.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: true
+      skillbonus: 0
+      skillmalus: 0
+    cha:
+      key: cha
+      label: COF.stats.cha.label
+      abbrev: COF.stats.cha.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 2
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+  attacks:
+    melee:
+      key: melee
+      label: COF.attacks.melee.label
+      abbrev: COF.attacks.melee.abbrev
+      stat: '@stats.str.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    ranged:
+      key: ranged
+      label: COF.attacks.ranged.label
+      abbrev: COF.attacks.ranged.abbrev
+      stat: '@stats.dex.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    magic:
+      key: magic
+      label: COF.attacks.magic.label
+      abbrev: COF.attacks.magic.abbrev
+      stat: '@stats.int.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+  description: >-
+    <h1>Description</h1><p><em>Aucune description
+    fournie.</em></p><p><strong>Milieu : </strong><p>souterrain</p>
+  attributes:
+    hp:
+      key: hp
+      label: COF.attributes.hp.label
+      abbrev: COF.attributes.hp.abbrev
+      base: 56
+      bonus: 0
+      value: 56
+      max: 56
+    def:
+      key: def
+      label: COF.attributes.def.label
+      abbrev: COF.attributes.def.abbrev
+      base: 21
+      bonus: 0
+      malus: 0
+      value: 21
+    init:
+      key: init
+      label: COF.attributes.init.label
+      abbrev: COF.attributes.init.abbrev
+      base: 18
+      bonus: 0
+      malus: 0
+      value: 18
+    dr:
+      key: dr
+      label: COF.attributes.dr.label
+      abbrev: COF.attributes.dr.abbrev
+      enabled: false
+      base:
+        value: 0
+        ignored: ''
+      bonus:
+        value: 0
+        ignored: ''
+      value: 0
+    rp:
+      key: rp
+      label: COF.attributes.rp.label
+      abbrev: COF.attributes.rp.abbrev
+      enabled: false
+      base: 5
+      bonus: 0
+      value: 5
+      max: 5
+    fp:
+      key: fp
+      label: COF.attributes.fp.label
+      abbrev: COF.attributes.fp.abbrev
+      enabled: false
+      base: 3
+      bonus: 0
+      value: 3
+      max: 3
+    mp:
+      key: mp
+      label: COF.attributes.mp.label
+      abbrev: COF.attributes.mp.abbrev
+      enabled: false
+      base: 0
+      bonus: 0
+      value: 0
+      max: 0
+    hd:
+      key: hd
+      label: COF.attributes.hd.label
+      abbrev: COF.attributes.hd.abbrev
+      value: 1d4
+    overload:
+      key: over
+      label: COF.attributes.over.label
+      abbrev: COF.attributes.over.abbrev
+      misc: 0
+    madness:
+      key: fp
+      label: COF.attributes.madness.label
+      abbrev: COF.attributes.madness.abbrev
+      enabled: false
+      base: 0
+      value: 0
+  currency:
+    pp:
+      key: pp
+      label: COF.currency.pp.label
+      abbrev: COF.currency.pp.abbrev
+      qty: 0
+    gp:
+      key: gp
+      label: COF.currency.gp.label
+      abbrev: COF.currency.gp.abbrev
+      qty: 0
+    sp:
+      key: sp
+      label: COF.currency.sp.label
+      abbrev: COF.currency.sp.abbrev
+      qty: 0
+    cp:
+      key: cp
+      label: COF.currency.cp.label
+      abbrev: COF.currency.cp.abbrev
+      qty: 0
+  alert:
+    type: error
+    msg: ''
+  details:
+    gender: ''
+    age: ''
+    weight: ''
+    height: ''
+    eyes: ''
+    hair: ''
+    size: med
+    senses: ''
+    languages:
+      value: []
+      custom: ''
+  settings:
+    combat:
+      folded: []
+    inventory:
+      folded: []
+    capacities:
+      folded: []
+    effects:
+      folded: []
+  moduleData: {}
+  key: pretresse-elfe-noir
+  nc:
+    key: nc
+    label: COF.attributes.nc.label
+    abbrev: COF.attributes.nc.abbrev
+    value: 7
+  weapons:
+    - name: Masse serpent
+      mod: 10
+      dmg: 1d6+4
+    - name: Attaque magique
+      mod: 10
+      range: 30m
+      dmg: 7d6
+  capacities:
+    - name: Poison
+      type: creature
+      description: >-
+        la masse serpent de la prêtresse inocule du poison à sa victime à chaque
+        attaque. Elle doit faire un test de CON difficulté 14 ou sombrer dans
+        l’inconscience immédiatement pour une durée de 1d6 minutes.
+  paths:
+    - key: voie-de-la-magie-de-combat-1
+    - key: voie-du-pnj-recurrent-2
+    - key: voie-de-la-magie-malefique-3
+  boss:
+    rank: 2.5
+    type: null
+  families:
+    - name: Elfes
+      key: elfes
+    - name: Elfes noirs (Drows)
+      key: elfes-noirs-drows
+      description: >-
+        <h1>Description</h1><p>Il y a une éternité certains elfes se sont
+        réfugiés sous terre pour une obscure raison. Loin de la lumière et de la
+        vie que leur peuple chérissait, ils se sont racornis et ont failli
+        disparaître. Une déesse maléfique s’est alors emparée de leur âme et ils
+        sont redevenus un peuple puissant et fier qui domine et terrorise les
+        royaumes souterrains. Ils vouent une haine sans borne à leurs cousins de
+        la surface.<br> Leur société est une tyrannie matriarcale et les femmes
+        sont plus grandes et plus fortes que leurs homologues
+        masculins.</p><p>Les elfes noirs ont les cheveux blancs et la peau
+        noire, ils sont vifs et agiles, vicieux, rusés et cruels.</p>
+  archetype: rapide
+  category: humanoïde
+prototypeToken:
+  flags: {}
+  name: Prêtresse elfe noir
+  displayName: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    alpha: 1
+    animation:
+      speed: 5
+      intensity: 5
+      type: null
+      reverse: false
+    negative: false
+    priority: 0
+    color: null
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+  texture:
+    src: /modules/cof-srd/ui/icons/creature.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  alpha: 1
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+folder: null
+_key: '!actors!HTmti7lcjriTr94W'

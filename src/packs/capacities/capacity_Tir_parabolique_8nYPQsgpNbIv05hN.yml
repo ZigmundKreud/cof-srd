@@ -1,0 +1,72 @@
+name: Tir parabolique
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-4.webp
+_id: 8nYPQsgpNbIv05hN
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: tir-parabolique
+  description: >-
+    <h1>Description</h1><p>L’Arquebusier est capable de réaliser un tir à longue
+    distance sans pénalité : il double la portée des armes à distance. Il peut
+    aussi tirer jusqu’au triple de la portée indiquée avec une pénalité de -5 en
+    attaque et aux <strong>DM</strong>. Cette capacité ne modifie pas la portée
+    de <i>Tir précis</i>.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!8nYPQsgpNbIv05hN'

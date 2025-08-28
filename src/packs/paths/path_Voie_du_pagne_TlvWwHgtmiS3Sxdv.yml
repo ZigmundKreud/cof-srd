@@ -1,0 +1,54 @@
+_id: TlvWwHgtmiS3Sxdv
+name: Voie du pagne
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-pagne.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-pagne
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 0IA9Wv1tKPp5JA57
+      name: Vigueur
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pagne-1.webp
+      sourceId: Compendium.cof-srd.capacities.0IA9Wv1tKPp5JA57
+    - _id: 0Eo4jiNMKplVriEp
+      name: Peau de pierre
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pagne-2.webp
+      sourceId: Compendium.cof-srd.capacities.0Eo4jiNMKplVriEp
+    - _id: rW2WsXqMNebjisKT
+      name: Tatouages
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pagne-3.webp
+      sourceId: Compendium.cof-srd.capacities.rW2WsXqMNebjisKT
+    - _id: iAlOaP9xScqMQhRm
+      name: Peau d'acier
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pagne-4.webp
+      sourceId: Compendium.cof-srd.capacities.iAlOaP9xScqMQhRm
+    - _id: iyDJ6Bn8Bm99RjoT
+      name: Constitution héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pagne-5.webp
+      sourceId: Compendium.cof-srd.capacities.iyDJ6Bn8Bm99RjoT
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!TlvWwHgtmiS3Sxdv'

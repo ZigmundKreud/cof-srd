@@ -1,0 +1,55 @@
+_id: OGMU9hR3ZMiNj7Xb
+name: Voie de l'elfe sylvain
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-elfe-sylvain.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-elfe-sylvain
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: apdmIhphLKg19a2Q
+      name: Grâce elfique
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-elfe-sylvain-1.webp
+      sourceId: Compendium.cof-srd.capacities.apdmIhphLKg19a2Q
+    - _id: uRLJvutX6UJSlseH
+      name: Enfant de la forêt
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-elfe-sylvain-2.webp
+      sourceId: Compendium.cof-srd.capacities.uRLJvutX6UJSlseH
+    - _id: lG1ORsTkWb7pf2RK
+      name: Archer émérite
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-elfe-sylvain-3.webp
+      sourceId: Compendium.cof-srd.capacities.lG1ORsTkWb7pf2RK
+    - _id: vZAotUVbC9E3mmUh
+      name: Flèche sanglante
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-elfe-sylvain-4.webp
+      sourceId: Compendium.cof-srd.capacities.vZAotUVbC9E3mmUh
+    - _id: PaGGdBAZH2O6HHZu
+      name: Supériorité elfique
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-elfe-sylvain-5.webp
+      sourceId: Compendium.cof-srd.capacities.PaGGdBAZH2O6HHZu
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+  species: elfe-sylvain
+folder: null
+sort: 0
+_key: '!items!OGMU9hR3ZMiNj7Xb'

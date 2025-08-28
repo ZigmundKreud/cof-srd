@@ -1,0 +1,60 @@
+_id: gBHBpXx0tTnCm337
+name: Voie de prestige spécialisée
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-prestige-specialisee.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-prestige-specialisee
+  description: >-
+    <h1>Note</h1><p>La voie de prestige spécialisée n’élargit pas le domaine de
+    compétence du personnage, mais lui permet d’améliorer certaines capacités ou
+    compétences en apportant des bonus sur ce qu’il sait déjà faire.
+
+    Le héros devient un expert dans son domaine et accède aux capacités
+    suivantes :</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: HYiA0gGLrZnJYtc5
+      name: Expertise
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-prestige-specialisee-1.webp
+      sourceId: Compendium.cof-srd.capacities.HYiA0gGLrZnJYtc5
+    - _id: q4ZWEcFw6A7E8jHI
+      name: Capacité signature
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-prestige-specialisee-2.webp
+      sourceId: Compendium.cof-srd.capacities.q4ZWEcFw6A7E8jHI
+    - _id: 47nmq3232GwbuaT2
+      name: Capacité supérieure
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-prestige-specialisee-3.webp
+      sourceId: Compendium.cof-srd.capacities.47nmq3232GwbuaT2
+    - _id: 9RWxKr4N4zaQhkeZ
+      name: Caractéristique fabuleuse
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-prestige-specialisee-4.webp
+      sourceId: Compendium.cof-srd.capacities.9RWxKr4N4zaQhkeZ
+    - _id: gvFk06juTnKzgUpe
+      name: Capacité fabuleuse
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-prestige-specialisee-5.webp
+      sourceId: Compendium.cof-srd.capacities.gvFk06juTnKzgUpe
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!gBHBpXx0tTnCm337'

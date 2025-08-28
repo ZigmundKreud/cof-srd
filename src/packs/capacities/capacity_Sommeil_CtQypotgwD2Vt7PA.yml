@@ -1,0 +1,89 @@
+_id: CtQypotgwD2Vt7PA
+name: Sommeil
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-2.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: sommeil
+  description: >-
+    <h1>Description</h1>
+
+    <p>[1d6 + Mod. de <strong>CHA</strong>] cibles vivantes dans une zone de 10
+    m de diam&egrave;tre (port&eacute;e 20 m) et dont le score max de PV ne
+    d&eacute;passe pas le score d&rsquo;attaque magique de l&rsquo;ensorceleur*
+    sombrent dans l&rsquo;inconscience pendant [5 + Mod. de
+    <strong>CHA</strong>] minutes.<br />Il est possible de les r&eacute;veiller
+    en les giflant (action d&rsquo;attaque).</p>
+
+    <p><em> * Les cr&eacute;atures dont les PV sont compris entre le score
+    d&rsquo;attaque magique du magicien et le double de celui-ci peuvent faire
+    un test de <strong>SAG</strong> difficult&eacute; [10 + Mod. de
+    <strong>CHA</strong>] pour r&eacute;sister au sort. Les cr&eacute;atures
+    avec des PV sup&eacute;rieur ne sont pas affect&eacute;es.</em></p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie de
+    l'envouteur</strong></span></p>
+
+    <p>Note : si une victime r&eacute;siste &agrave; un sort&nbsp;de cette voie
+    (envouteur), elle y est immunis&eacute;e pendant&nbsp;24h.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!CtQypotgwD2Vt7PA'

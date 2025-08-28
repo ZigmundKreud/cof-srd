@@ -1,0 +1,54 @@
+_id: qgzNcuncVfXCAZFa
+name: Voie du pourfendeur
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-pourfendeur.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-pourfendeur
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: chYzmjizN0uiEnLj
+      name: Réflexes félins
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pourfendeur-1.webp
+      sourceId: Compendium.cof-srd.capacities.chYzmjizN0uiEnLj
+    - _id: yveF3cXUZ6zcS7QU
+      name: Charge
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pourfendeur-2.webp
+      sourceId: Compendium.cof-srd.capacities.yveF3cXUZ6zcS7QU
+    - _id: Im7EqfdudoyGJKsP
+      name: Enchaînement
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pourfendeur-3.webp
+      sourceId: Compendium.cof-srd.capacities.Im7EqfdudoyGJKsP
+    - _id: uaoj6PeTI1dLyzgA
+      name: Déchaînement d'acier
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pourfendeur-4.webp
+      sourceId: Compendium.cof-srd.capacities.uaoj6PeTI1dLyzgA
+    - _id: 3dY59QKJ6I0AEnrF
+      name: Attaque tourbillon
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-pourfendeur-5.webp
+      sourceId: Compendium.cof-srd.capacities.3dY59QKJ6I0AEnrF
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!qgzNcuncVfXCAZFa'

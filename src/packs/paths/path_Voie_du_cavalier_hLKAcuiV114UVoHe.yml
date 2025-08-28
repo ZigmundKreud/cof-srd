@@ -1,0 +1,54 @@
+_id: hLKAcuiV114UVoHe
+name: Voie du cavalier
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-cavalier.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-cavalier
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: FN8w4bWW0qkrYRkp
+      name: Fidèle monture
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-cavalier-1.webp
+      sourceId: Compendium.cof-srd.capacities.FN8w4bWW0qkrYRkp
+    - _id: 8SWHoIH9RtPM87vr
+      name: Cavalier émérite
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-cavalier-2.webp
+      sourceId: Compendium.cof-srd.capacities.8SWHoIH9RtPM87vr
+    - _id: oSwZUp1PDuXjWaXF
+      name: Monture magique
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-cavalier-3.webp
+      sourceId: Compendium.cof-srd.capacities.oSwZUp1PDuXjWaXF
+    - _id: V3xEG30X1w6WyTNd
+      name: Charge
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-cavalier-4.webp
+      sourceId: Compendium.cof-srd.capacities.V3xEG30X1w6WyTNd
+    - _id: 9QYotn9eudD3EWe0
+      name: Monture fantastique
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-cavalier-5.webp
+      sourceId: Compendium.cof-srd.capacities.9QYotn9eudD3EWe0
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!hLKAcuiV114UVoHe'

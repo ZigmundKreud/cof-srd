@@ -1,0 +1,76 @@
+name: Ensevelissement
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-4.webp
+_id: hX6ycuO7T2RGh3kk
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: ensevelissement
+  description: >-
+    <h1>Description</h1><p>Une fois par combat, si le Nécromancien réussit un
+    test d'attaque magique (portée 20 m), le sol s'ouvre sous les pieds d'une
+    cible de taille moyenne et l'enterre vivante. Tant qu'elle est ensevelie,
+    elle subit 2d6 <strong>DM</strong> par tour, ne peut agir ni être la cible
+    d'attaques extérieures. A son tour, elle peut tenter de sortir de terre en
+    réussissant un test de <strong>FOR</strong> ou de <strong>DEX</strong> (au
+    choix) difficulté [13 + Mod. d'<strong>INT</strong>]. Si elle tombe à 0 PV,
+    elle reste enterrée et décède au tour suivant. Chaque personne qui creuse
+    pour l'aider lui octroie un bonus de +2 sur son test.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!hX6ycuO7T2RGh3kk'

@@ -1,0 +1,59 @@
+_id: 2aZDPaps9dH7gWcM
+name: Voie du montreur d'ours
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-montreur-dours.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-montreur-dours
+  description: >-
+    <h1>Note</h1><p>(Exemple de variation de la Voie du compagnon animal)
+
+
+    Le Rôdeur obtient un jeune ours noir pour compagnon animal dès qu'il prend
+    au moins un Rang dans cette Voie</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: KycG3XaiE8lf9ybE
+      name: Impressionnant
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-1.webp
+      sourceId: Compendium.cof-srd.capacities.KycG3XaiE8lf9ybE
+    - _id: Zthx2bp34B2yP1VT
+      name: Dressage
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-2.webp
+      sourceId: Compendium.cof-srd.capacities.Zthx2bp34B2yP1VT
+    - _id: Dqb10OOil8nw72Sc
+      name: Combat
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-3.webp
+      sourceId: Compendium.cof-srd.capacities.Dqb10OOil8nw72Sc
+    - _id: lqNsZ1IcA6roRmYH
+      name: Empathie animale
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-4.webp
+      sourceId: Compendium.cof-srd.capacities.lqNsZ1IcA6roRmYH
+    - _id: tvZZzk5824ldbisL
+      name: Animal fabuleux
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-5.webp
+      sourceId: Compendium.cof-srd.capacities.tvZZzk5824ldbisL
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!2aZDPaps9dH7gWcM'

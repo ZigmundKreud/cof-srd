@@ -1,0 +1,55 @@
+_id: R0PUmmecN66dkWJv
+name: Voie de la meute
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-meute.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-meute
+  description: >-
+    <h1>Note</h1><p>Les créatures qui comptent sur le nombre plutôt que la
+    puissance individuelle, appartiennent à cette catégorie. Ce sont
+    généralement des créatures de petite taille (exemples : les loups ou les
+    hyènes, les gobelins et les kobolds) mais on trouve aussi quelques
+    prédateurs plus gros (lionne, vélociraptor). Les créatures dotées de cette
+    voie obtiennent la <strong>CON</strong> en Carac. Supérieure (indiqué par un
+    *). Dans le cas où une créature est rencontrée seule, ignorez ces capacités
+    et retranchez au NC de la créature le rang qu’elle possédait dans cette
+    Voie.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: RKNx0e1pow7yCllh
+      name: Interchangeables
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meute-1.webp
+      sourceId: Compendium.cof-srd.capacities.RKNx0e1pow7yCllh
+    - _id: LirTrEZ0DMDRX0on
+      name: Attaque en traître
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meute-2.webp
+      sourceId: Compendium.cof-srd.capacities.LirTrEZ0DMDRX0on
+    - _id: aHWpTYzTuhgTA8nF
+      name: L’hallali
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meute-3.webp
+      sourceId: Compendium.cof-srd.capacities.aHWpTYzTuhgTA8nF
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!R0PUmmecN66dkWJv'

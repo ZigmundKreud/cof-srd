@@ -1,0 +1,70 @@
+_id: H6OXpJfgfdOzFySV
+name: Soins de groupe
+type: capacity
+img: icons/magic/life/crosses-trio-red.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: soins-de-groupe
+  description: >-
+    <h1>Description</h1><p>Une fois par combat, le Prêtre peut libérer une
+    décharge d'énergie bienfaitrice : tous ses compagnons en vue et lui
+    récupèrent [1d8 + niveau du prêtre] PV perdus.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: true
+  save: false
+  activable: true
+  heal: true
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 1
+      maxUse: 1
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: 1d8+@level.value
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!H6OXpJfgfdOzFySV'

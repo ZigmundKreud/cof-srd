@@ -1,0 +1,54 @@
+_id: I3aOjK4AaLjHcrYI
+name: Voie du vagabond
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-vagabond.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-vagabond
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: PIWN7mtln2MjRtwK
+      name: Rumeurs et légendes
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-vagabond-1.webp
+      sourceId: Compendium.cof-srd.capacities.PIWN7mtln2MjRtwK
+    - _id: ax3Mbqk6HcmPhDaE
+      name: Compréhension des langues
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-vagabond-2.webp
+      sourceId: Compendium.cof-srd.capacities.ax3Mbqk6HcmPhDaE
+    - _id: B3BPuThxNNBrhTrn
+      name: Débrouillard
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-vagabond-3.webp
+      sourceId: Compendium.cof-srd.capacities.B3BPuThxNNBrhTrn
+    - _id: MG33N0ISaeB6xpKu
+      name: Déguisement
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-vagabond-4.webp
+      sourceId: Compendium.cof-srd.capacities.MG33N0ISaeB6xpKu
+    - _id: mQUfaQDCsiR2icPE
+      name: Touche à tout
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-vagabond-5.webp
+      sourceId: Compendium.cof-srd.capacities.mQUfaQDCsiR2icPE
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!I3aOjK4AaLjHcrYI'

@@ -1,0 +1,71 @@
+name: Perception
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-4.webp
+_id: 5S0ZbZ43t3HhzTz5
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: perception
+  description: >-
+    <h1>Description</h1><p>Le halfelin obtient un bonus de +5 à tous les tests
+    de perception et de discrétion. Il peut ajouter son Mod. de
+    <strong>DEX</strong> aux <strong>DM</strong> à la fronde et il sait utiliser
+    cette arme quel que soit son profil.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!5S0ZbZ43t3HhzTz5'

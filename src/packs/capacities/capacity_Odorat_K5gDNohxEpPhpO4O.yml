@@ -1,0 +1,91 @@
+_id: K5gDNohxEpPhpO4O
+name: Odorat
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-1.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: odorat
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le loup du R&ocirc;deur d&eacute;tecte les odeurs des animaux et des
+    cr&eacute;atures l&agrave; o&ugrave; ils sont pass&eacute;s. Le R&ocirc;deur
+    obtient un bonus de +5 aux tests de <strong>SAG</strong> pour pister et
+    suivre des traces.</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie du compagnon
+    animal</strong></span></p>
+
+    <p>Le r&ocirc;deur obtient un loup pour compagnon&nbsp;animal d&egrave;s
+    qu&rsquo;il prend au&nbsp;moins un Rang dans cette Voie.<br /><br /></p>
+
+    <p>Si vous jouez dans un monde&nbsp;moins fantastique ou plus&nbsp;exotique,
+    vous pouvez remplacer&nbsp;le loup par un chien&nbsp;ou par tout autre
+    animal&nbsp;adapt&eacute; &agrave; vos aventures&nbsp;(hy&egrave;ne,
+    panth&egrave;re, chacal&hellip;).</p>
+
+    <p>Si le joueur la choisit, la&nbsp;Voie du montreur
+    d&rsquo;ours&nbsp;supprime et remplace la Voie&nbsp;du compagnon animal.</p>
+
+    <p>Un&nbsp;profil ne peut avoir plus de&nbsp;5 Voies.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!K5gDNohxEpPhpO4O'

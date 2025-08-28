@@ -1,0 +1,54 @@
+_id: 339GSAocwWR4fFns
+name: Voie des animaux
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-animaux.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-des-animaux
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: LESCMxSLvE65XK5C
+      name: Langage des animaux
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-animaux-1.webp
+      sourceId: Compendium.cof-srd.capacities.LESCMxSLvE65XK5C
+    - _id: 2cepUJr5nVymHsBf
+      name: Nuée d'insectes
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-animaux-2.webp
+      sourceId: Compendium.cof-srd.capacities.2cepUJr5nVymHsBf
+    - _id: SlKWnz4F2kxxmiLI
+      name: Le guetteur
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-animaux-3.webp
+      sourceId: Compendium.cof-srd.capacities.SlKWnz4F2kxxmiLI
+    - _id: S0ry9wVXWbUYHKrm
+      name: Masque du prédateur
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-animaux-4.webp
+      sourceId: Compendium.cof-srd.capacities.S0ry9wVXWbUYHKrm
+    - _id: x76yiOpqCMrOWk3K
+      name: Forme animale
+      img: /modules/cof-srd/ui/icons/capacities/voie-des-animaux-5.webp
+      sourceId: Compendium.cof-srd.capacities.x76yiOpqCMrOWk3K
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!339GSAocwWR4fFns'

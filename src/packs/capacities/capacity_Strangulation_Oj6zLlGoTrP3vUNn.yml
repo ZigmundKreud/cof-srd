@@ -1,0 +1,85 @@
+_id: Oj6zLlGoTrP3vUNn
+name: Strangulation
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-3.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: strangulation
+  description: >-
+    <h1>Description</h1>
+
+    <p>En r&eacute;ussissant un test d&rsquo;attaque magique (port&eacute;e 20
+    m), le N&eacute;cromancien &eacute;touffe une cr&eacute;ature vivante et lui
+    inflige [1d6 + Mod. d&rsquo;<strong>INT</strong>] <strong>DM</strong> par
+    tour pendant [rang] tours pourvu qu&rsquo;il maintienne sa concentration par
+    une action limit&eacute;e.<br />La victime subit un malus &eacute;gal au
+    nombre de tours d&rsquo;effet de la Strangulation (-1 au premier tour, -2 au
+    second, etc.) &agrave; tous ses tests.<br />Si la victime sort du champ de
+    vision du N&eacute;cromancien, le sort prend fin.</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie de la
+    sombre&nbsp;magie</strong></span></p>
+
+    <p>Le n&eacute;cromancien obtient un bonus de +2 par rang &agrave; tous les
+    tests d&rsquo;INT bas&eacute;s sur les connaissances occultes.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!Oj6zLlGoTrP3vUNn'

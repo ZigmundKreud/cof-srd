@@ -1,0 +1,54 @@
+_id: XsKr4fScowd0tvVU
+name: Voie du maître d'armes
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-maitre-darmes.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-maitre-darmes
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: sLO8H1thYeNx9908
+      name: Arme de prédilection
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-maitre-darmes-1.webp
+      sourceId: Compendium.cof-srd.capacities.sLO8H1thYeNx9908
+    - _id: iAadGHzw6AwYxiz8
+      name: Science du critique
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-maitre-darmes-2.webp
+      sourceId: Compendium.cof-srd.capacities.iAadGHzw6AwYxiz8
+    - _id: wURwWsOwdoo6snUS
+      name: Spécialisation
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-maitre-darmes-3.webp
+      sourceId: Compendium.cof-srd.capacities.wURwWsOwdoo6snUS
+    - _id: eEHsiJLK5jtgM8OA
+      name: Attaque parfaite
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-maitre-darmes-4.webp
+      sourceId: Compendium.cof-srd.capacities.eEHsiJLK5jtgM8OA
+    - _id: DldAgQKOmofRPxVR
+      name: Riposte
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-maitre-darmes-5.webp
+      sourceId: Compendium.cof-srd.capacities.DldAgQKOmofRPxVR
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!XsKr4fScowd0tvVU'

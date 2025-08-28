@@ -1,0 +1,72 @@
+name: Acrobaties
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-deplacement-3.webp
+_id: liJjbOVHnv9wcEAP
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: acrobaties
+  description: >-
+    <h1>Description</h1><p>Si le Voleur réussit un test de <strong>DEX</strong>
+    difficulté 15, il peut effectuer une acrobatie pour franchir un obstacle ou,
+    s’il est au combat au contact, pour surprendre son adversaire par une
+    cabriole, ce qui lui permet de l’attaquer dans le dos (et d’utiliser
+    l’Attaque sournoise).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!liJjbOVHnv9wcEAP'

@@ -1,0 +1,73 @@
+name: Interchangeables
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meute-1.webp
+_id: RKNx0e1pow7yCllh
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: interchangeables
+  description: >-
+    <h1>Description</h1><p>Tant que la créature et ses alliées sont plus
+    nombreuses que la cible, elles se relaient pour esquiver ses attaques et
+    elles obtiennent un bonus de +5 en <strong>DEF</strong>. Si plusieurs
+    créatures semblables sont au contact du PJ, le MJ a toute latitude pour
+    infliger les <strong>DM</strong> d’une attaque sur la créature de son choix,
+    le personnage ne sait jamais laquelle il blesse.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!RKNx0e1pow7yCllh'

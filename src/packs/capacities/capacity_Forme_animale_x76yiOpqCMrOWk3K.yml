@@ -1,0 +1,72 @@
+name: Forme animale
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-animaux-5.webp
+_id: x76yiOpqCMrOWk3K
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: forme-animale
+  description: >-
+    <h1>Description</h1><p>Le Druide peut prendre la forme d’un animal d’une
+    taille inférieure ou égale à la sienne. Il conserve ses PV, il acquiert les
+    Carac. et les capacités naturelles de la forme choisie (le vol pour un
+    oiseau, la respiration aquatique pour le poisson, etc.). Le Druide peut
+    reprendre sa forme humaine lorsqu’il le désire (L).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!x76yiOpqCMrOWk3K'

@@ -1,0 +1,72 @@
+name: Fureur du dragon
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-maitrise-4.webp
+_id: fMjZcLhVS8fB95or
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: fureur-du-dragon
+  description: >-
+    <h1>Description</h1><p>Une fois par combat, le Moine peut effectuer une
+    attaque tournoyante qui inflige automatiquement [2d6+ Mod. de
+    <strong>FOR</strong>] de <strong>DM</strong> à tous les adversaires au
+    contact et oblige ceux-ci à réussir un test de <strong>FOR</strong>
+    difficulté 10 pour ne pas tomber au sol.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!fMjZcLhVS8fB95or'

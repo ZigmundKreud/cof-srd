@@ -1,0 +1,56 @@
+_id: RYABLDBUvXrDoa7D
+name: Voie du bouclier
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-bouclier.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-bouclier
+  description: >-
+    <h1>Note</h1><p>Pour utiliser les capacités suivantes, le Guerrier doit
+    obligatoirement manier un bouclier.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: MNlGwRK5apOVWmWr
+      name: Protéger un allié
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-1.webp
+      sourceId: Compendium.cof-srd.capacities.MNlGwRK5apOVWmWr
+    - _id: zQ8tfKDn4vhkhN06
+      name: Absorber un coup
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-2.webp
+      sourceId: Compendium.cof-srd.capacities.zQ8tfKDn4vhkhN06
+    - _id: cTX51OZzXoIWfTpc
+      name: Absorber un sort
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-3.webp
+      sourceId: Compendium.cof-srd.capacities.cTX51OZzXoIWfTpc
+    - _id: 7pusFmC1LfjB04QI
+      name: Armure lourde
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-4.webp
+      sourceId: Compendium.cof-srd.capacities.7pusFmC1LfjB04QI
+    - _id: yOZGNnquzqIgMTdQ
+      name: Renvoi de sort
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-5.webp
+      sourceId: Compendium.cof-srd.capacities.yOZGNnquzqIgMTdQ
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!RYABLDBUvXrDoa7D'

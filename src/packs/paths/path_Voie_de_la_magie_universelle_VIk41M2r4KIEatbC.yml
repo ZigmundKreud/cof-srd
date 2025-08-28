@@ -1,0 +1,57 @@
+_id: VIk41M2r4KIEatbC
+name: Voie de la magie universelle
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-universelle.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-magie-universelle
+  description: >-
+    <h1>Note</h1><p>Pour chaque Rang dans cette Voie, le Magicien obtient un
+    bonus de +2 aux tests d'<strong>INT</strong> basés sur la connaissance et
+    l'érudition.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: JDz3qsFdh7yMil89
+      name: Lumière
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-1.webp
+      sourceId: Compendium.cof-srd.capacities.JDz3qsFdh7yMil89
+    - _id: fQ6hm3MbVO1WgabW
+      name: Détection de la magie
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-2.webp
+      sourceId: Compendium.cof-srd.capacities.fQ6hm3MbVO1WgabW
+    - _id: 7xgWZUAKdnbFNsUy
+      name: Invisibilité
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-3.webp
+      sourceId: Compendium.cof-srd.capacities.7xgWZUAKdnbFNsUy
+    - _id: 3KDePO61V0dVV9FB
+      name: Vol
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-4.webp
+      sourceId: Compendium.cof-srd.capacities.3KDePO61V0dVV9FB
+    - _id: i9336EW3nFPKfgMS
+      name: Intelligence héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-5.webp
+      sourceId: Compendium.cof-srd.capacities.i9336EW3nFPKfgMS
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!VIk41M2r4KIEatbC'

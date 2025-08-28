@@ -1,0 +1,77 @@
+name: Familier
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-1.webp
+_id: OKZUsqi5PPcSUqBQ
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: familier
+  description: >-
+    <h1>Description</h1><p>Le personnage choisit un petit animal (corbeau, chat,
+    furet, serpent…). Il peut utiliser les sens de son familier et communiquer
+    avec lui à distance illimitée. Il gagne de plus +2 en Initiative lorsque son
+    familier est en vue.
+
+    <i>Familier</i> : <strong>DEF</strong> [personnage], Init [personnage], PV
+    [il les partage avec ceux de son maître], ils forment une cible unique pour
+    les attaques de zone. <strong>FOR</strong> -4, <strong>DEX</strong> +3,
+    <strong>CON</strong> 0, <strong>INT</strong> -2, <strong>SAG</strong> +1,
+    <strong>CHA</strong> -2.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!OKZUsqi5PPcSUqBQ'

@@ -1,0 +1,96 @@
+_id: 4foojmZoUGQrFcjA
+name: Armure de Peaux
+type: item
+flags:
+  core:
+    sourceId: Item.rUZhhNKC3t4jIxIO
+img: icons/equipment/chest/vest-leather-tattered-white.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: ''
+  description: ''
+  source: N.C.
+  moduleData: {}
+  def: 2
+  defBase: 2
+  defBonus: 0
+  dr: 0
+  dmg: ''
+  dmgBase: ''
+  dmgStat: ''
+  dmgBonus: 0
+  mod: 0
+  skill: ''
+  skillBonus: 0
+  critrange: '20'
+  hands: 1
+  range: 0
+  reload: ''
+  worn: false
+  slot: chest
+  qty: 1
+  stacksize: null
+  deleteWhen0: false
+  price: 3
+  value: 0
+  rarity: common
+  properties:
+    predilection: false
+    ranged: false
+    equipable: true
+    stackable: false
+    activable: false
+    unique: false
+    tailored: false
+    2H: false
+    proficient: false
+    finesse: false
+    equipment: true
+    weapon: false
+    protection: true
+    reloadable: false
+    bow: false
+    crossbow: false
+    powder: false
+    throwing: false
+    dr: false
+    sneak: false
+    powerful: false
+    critscience: false
+    specialization: false
+    effects: false
+    13strmin: false
+    bashing: false
+    sling: false
+    spell: false
+    consumable: false
+    2h: false
+  effects:
+    heal:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+    buff:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+  subtype: armor
+folder: null
+sort: 0
+_key: '!items!4foojmZoUGQrFcjA'

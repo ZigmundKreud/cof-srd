@@ -1,0 +1,54 @@
+_id: uD7KSACQFxGBGTxL
+name: Voie de l'outre-tombe
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-outre-tombe.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-outre-tombe
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 7VNvQu85FciQha5s
+      name: Peur
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-1.webp
+      sourceId: Compendium.cof-srd.capacities.7VNvQu85FciQha5s
+    - _id: eR1fEu7jF0HCkUQh
+      name: Animation des morts
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-2.webp
+      sourceId: Compendium.cof-srd.capacities.eR1fEu7jF0HCkUQh
+    - _id: TmNfegJnjoG6OA2l
+      name: Putréfaction
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-3.webp
+      sourceId: Compendium.cof-srd.capacities.TmNfegJnjoG6OA2l
+    - _id: hX6ycuO7T2RGh3kk
+      name: Ensevelissement
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-4.webp
+      sourceId: Compendium.cof-srd.capacities.hX6ycuO7T2RGh3kk
+    - _id: lQwEvPPzNKjEgWGe
+      name: Armée des morts
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-5.webp
+      sourceId: Compendium.cof-srd.capacities.lQwEvPPzNKjEgWGe
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!uD7KSACQFxGBGTxL'

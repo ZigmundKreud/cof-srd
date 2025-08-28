@@ -1,0 +1,73 @@
+name: Bâton de mage
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-1.webp
+_id: UPC4DBklyxjD0BJA
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: baton-de-mage
+  description: >-
+    <h1>Description</h1><p>Le Forgesort crée un grand bâton magique. Avec cette
+    arme à deux mains, il gagne un bonus de +1 aux tests d'attaque au contact et
+    inflige [1d6+Mod. d'<strong>INT</strong>] <strong>DM</strong> magiques. A
+    partir du rang 3, au prix d'une action limitée, il peut utiliser son score
+    d'attaque magique pour une attaque au contact et infliger [2d6 + Mod.
+    d'<strong>INT</strong>] <strong>DM</strong> dans un éclair d'énergie !</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!UPC4DBklyxjD0BJA'

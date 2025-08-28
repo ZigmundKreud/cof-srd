@@ -1,0 +1,80 @@
+_id: bUSftDdIxjl1Bgb3
+name: Ensorceleur
+type: profile
+flags: {}
+img: /modules/cof-srd/ui/icons/profiles/ensorceleur.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: ensorceleur
+  description: >-
+    <h1>Description</h1><p>L'Ensorceleur tire son pouvoir d'un talent inné pour
+    la magie. Il pratique une magie subtile à base de tromperie et de contrôle,
+    et possède peu de sorts de destruction
+    massive.</p><h1>Maîtrise</h1><p>L'Ensorceleur sait manier la dague et le
+    bâton ferré. Il ne peut porter aucune armure (sauf si elle est faite de
+    tissu) et ne peut pas manier le bouclier.</p><h1>Possessions de
+    départ</h1><p>Bâton ferré (<strong>DM</strong> 1d6), dague
+    (<strong>DM</strong> 1d4), potion de soins (guérit 1d8 PV).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  dv: 1d4
+  spellcasting: cha
+  mpfactor: '2'
+  paths:
+    - _id: vp7tGzTxsxBekRMO
+      name: Voie de l'air
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-air.webp
+      sourceId: Compendium.cof-srd.paths.vp7tGzTxsxBekRMO
+    - _id: lZxlgPV96xb0pAaN
+      name: Voie de l'envoûteur
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-envouteur.webp
+      sourceId: Compendium.cof-srd.paths.lZxlgPV96xb0pAaN
+    - _id: Hl99UYqIJD3iZhDJ
+      name: Voie de l'invocation
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-invocation.webp
+      sourceId: Compendium.cof-srd.paths.Hl99UYqIJD3iZhDJ
+    - _id: iksdg2OihwpoDhfJ
+      name: Voie de la divination
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-divination.webp
+      sourceId: Compendium.cof-srd.paths.iksdg2OihwpoDhfJ
+    - _id: j0IZ7CeSBm9ggCOl
+      name: Voie des illusions
+      img: /modules/cof-srd/ui/icons/paths/voie-des-illusions.webp
+      sourceId: Compendium.cof-srd.paths.j0IZ7CeSBm9ggCOl
+  proficiencies:
+    daggers: false
+    swords: false
+    axes: false
+    staves: false
+    clubs: false
+    hammers: false
+    katanas: false
+    2-hands: false
+    slings: false
+    bows: false
+    crossbows: false
+    throwing-weapons: false
+    powder-weapons: false
+    soft-leather: false
+    studded-leather: false
+    mail: false
+    half-plate: false
+    full-plate: false
+    shield: false
+  prestige: []
+  alternatives: []
+folder: null
+sort: 0
+_key: '!items!bUSftDdIxjl1Bgb3'

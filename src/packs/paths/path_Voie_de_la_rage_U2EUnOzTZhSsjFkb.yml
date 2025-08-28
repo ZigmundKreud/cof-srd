@@ -1,0 +1,54 @@
+_id: U2EUnOzTZhSsjFkb
+name: Voie de la rage
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-rage.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-rage
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 6tw1ED5pJ3eAxlqp
+      name: Cri de guerre
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-1.webp
+      sourceId: Compendium.cof-srd.capacities.6tw1ED5pJ3eAxlqp
+    - _id: YmqXY3AGPENHxCoc
+      name: Défier la mort
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-2.webp
+      sourceId: Compendium.cof-srd.capacities.YmqXY3AGPENHxCoc
+    - _id: LK6YWhOPqiJh3N1g
+      name: Rage du berserk
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-3.webp
+      sourceId: Compendium.cof-srd.capacities.LK6YWhOPqiJh3N1g
+    - _id: lTVtMobpz37wKcWA
+      name: Même pas mal
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-4.webp
+      sourceId: Compendium.cof-srd.capacities.lTVtMobpz37wKcWA
+    - _id: Btk8B8nyMNW916Nh
+      name: Furie du berserk
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-5.webp
+      sourceId: Compendium.cof-srd.capacities.Btk8B8nyMNW916Nh
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!U2EUnOzTZhSsjFkb'

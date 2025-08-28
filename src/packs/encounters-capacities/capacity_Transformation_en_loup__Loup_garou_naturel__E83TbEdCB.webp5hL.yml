@@ -1,0 +1,21 @@
+name: Transformation en loup (Loup-garou naturel)
+permission:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+type: capacity
+data:
+  description: >-
+    <h1>Description</h1><p>la créature peut se transformer à volonté en
+    loup.</p>
+  source: ''
+  key: transformation-en-loup-loup-garou-naturel
+  summary: ''
+  rank: null
+  limited: true
+  spell: false
+flags: {}
+img: >-
+  /modules/cof-srd/ui/icons/encounter-capacities/transformation-en-loup-loup-garou-naturel.webp
+effects: []
+_id: E83TbEdCB.webp5hL
+_key: '!items!E83TbEdCB.webp5hL'

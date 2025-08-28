@@ -1,0 +1,54 @@
+_id: m1ZI2GIINMlbRQjE
+name: Voie de la méditation
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-meditation.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-meditation
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: Vrf7z20iwF3CtJow
+      name: Pacifisme
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meditation-1.webp
+      sourceId: Compendium.cof-srd.capacities.Vrf7z20iwF3CtJow
+    - _id: 9sr7E68Lkfc1b4KJ
+      name: Transe de guérison
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meditation-2.webp
+      sourceId: Compendium.cof-srd.capacities.9sr7E68Lkfc1b4KJ
+    - _id: GjBG9HXRS3HmNSiN
+      name: Maîtrise du ki
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meditation-3.webp
+      sourceId: Compendium.cof-srd.capacities.GjBG9HXRS3HmNSiN
+    - _id: aEYEsPsjLlQekeYC
+      name: Projection mentale
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meditation-4.webp
+      sourceId: Compendium.cof-srd.capacities.aEYEsPsjLlQekeYC
+    - _id: wIoi5T4gmiFpnhvr
+      name: Sagesse héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meditation-5.webp
+      sourceId: Compendium.cof-srd.capacities.wIoi5T4gmiFpnhvr
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!m1ZI2GIINMlbRQjE'

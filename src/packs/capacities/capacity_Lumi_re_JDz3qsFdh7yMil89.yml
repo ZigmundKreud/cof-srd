@@ -1,0 +1,86 @@
+_id: JDz3qsFdh7yMil89
+name: Lumière
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-1.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: lumiere
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Magicien d&eacute;signe un objet, lequel produit d&egrave;s lors de la
+    lumi&egrave;re dans un rayon de 20 m&egrave;tres. Cette source de
+    lumi&egrave;re n&rsquo;&eacute;met pas de chaleur et s&rsquo;&eacute;teint
+    apr&egrave;s <span style="text-decoration: underline;">10 minutes </span>ou
+    lorsque le Magicien le d&eacute;cide.</p>
+
+    <p>Ce sort permet d&rsquo;annuler un sort de T&eacute;n&egrave;bres
+    lanc&eacute; par un n&eacute;cromancien de niveau inf&eacute;rieur.</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie de la
+    magie&nbsp;universelle</strong></span></p>
+
+    <p>Pour chaque Rang dans&nbsp;cette Voie, le magicien&nbsp;obtient un bonus
+    de&nbsp;+2 aux tests d&rsquo;INT bas&eacute;s&nbsp;sur la
+    connaissance&nbsp;et l&rsquo;&eacute;rudition.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!JDz3qsFdh7yMil89'

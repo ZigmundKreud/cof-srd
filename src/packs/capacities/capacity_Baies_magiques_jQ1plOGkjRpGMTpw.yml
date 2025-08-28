@@ -1,0 +1,73 @@
+name: Baies magiques
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-protecteur-1.webp
+_id: jQ1plOGkjRpGMTpw
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: baies-magiques
+  description: >-
+    <h1>Description</h1><p>Le Druide doit se trouver devant un buisson ou un
+    arbre vivant. Son incantation fait pousser [1d6 + Mod. de
+    <strong>SAG</strong>] fruits qu'il peut cueillir. Chaque fruit offre
+    l'équivalent d'un repas et rend [1d6 + niveau du druide] PV à celui qui le
+    consomme. Les effets de ces fruits ne fonctionnent qu'une fois par jour et
+    par personnage.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!jQ1plOGkjRpGMTpw'

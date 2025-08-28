@@ -1,0 +1,1394 @@
+_id: kFMWuyTNuzUZ91Bz
+name: Naga maléfique
+type: encounter
+sort: 100001
+flags: {}
+img: /modules/cof-srd/ui/icons/creature.webp
+items:
+  - _id: zkrm8su9244Eu500
+    name: Venin (Naga maléfique)
+    type: capacity
+    sort: 100000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/encounter-capacities/venin-naga-malefique.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: venin-naga-malefique
+      description: >-
+        <h1>Description</h1><p>la victime doit réussir un test de CON difficulté
+        14 ou être <em>Affaiblie</em>. Si la victime est déjà Affaiblie par le
+        venin, un échec lors d’une nouvelle morsure, la fait sombrer dans
+        l’inconscience pour 1d6 tours. Un troisième échec signifie 1d6 heures
+        d’inconscience.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.zkrm8su9244Eu500'
+  - _id: 7VNvQu85FciQha5s
+    name: Peur
+    type: capacity
+    sort: 200000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: peur
+      description: >-
+        <h1>Description</h1><p>Le Nécromancien effectue un test d'attaque
+        magique contre une cible (portée 20 m). Celle-ci doit réussir un test de
+        <strong>FOR</strong> ou de <strong>SAG</strong> (au choix) difficulté
+        [10 + Mod. d'<strong>INT</strong>] ou fuir pendant [1d4 + rang] tours
+        (le MJ peut garder cette durée secrète). Une créature ne peut subir les
+        effets de ce sort qu'une fois par combat.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.7VNvQu85FciQha5s'
+  - _id: eR1fEu7jF0HCkUQh
+    name: Animation des morts
+    type: capacity
+    sort: 300000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: animation-des-morts
+      description: >-
+        <h1>Description</h1><p>Le Nécromancien anime le cadavre d’un humanoïde
+        de taille moyenne, décédé depuis moins d’une heure. Le zombi comprend
+        les ordres « Attaquer », « Suivre », « Garder » et « Pas bouger ».
+
+        Zombie : Init 8, <strong>DEF</strong> 10, PV 12, Att +3,
+        <strong>DM</strong> 1d6+1, se déplace à 50% de la vitesse normale. Le
+        zombi se dégrade et perd 1PV par minute. Le Nécromancien peut contrôler
+        un zombi par rang. Un zombi détruit tombe en poussière.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.eR1fEu7jF0HCkUQh'
+  - _id: TmNfegJnjoG6OA2l
+    name: Putréfaction
+    type: capacity
+    sort: 400000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: putrefaction
+      description: >-
+        <h1>Description</h1><p>En réussissant un test d'attaque magique (portée
+        10 m), le Nécromancien fait pourrir les chairs de sa victime, infligeant
+        [1d6 + Mod. d'<strong>INT</strong>] <strong>DM</strong>. La victime
+        subit un malus de -2 à tous ses tests pour le reste du combat, à moins
+        de réussir un test de <strong>CON</strong> difficulté [12 + Mod.
+        d'<strong>INT</strong>].</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.TmNfegJnjoG6OA2l'
+  - _id: hX6ycuO7T2RGh3kk
+    name: Ensevelissement
+    type: capacity
+    sort: 500000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-4.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: ensevelissement
+      description: >-
+        <h1>Description</h1><p>Une fois par combat, si le Nécromancien réussit
+        un test d'attaque magique (portée 20 m), le sol s'ouvre sous les pieds
+        d'une cible de taille moyenne et l'enterre vivante. Tant qu'elle est
+        ensevelie, elle subit 2d6 <strong>DM</strong> par tour, ne peut agir ni
+        être la cible d'attaques extérieures. A son tour, elle peut tenter de
+        sortir de terre en réussissant un test de <strong>FOR</strong> ou de
+        <strong>DEX</strong> (au choix) difficulté [13 + Mod.
+        d'<strong>INT</strong>]. Si elle tombe à 0 PV, elle reste enterrée et
+        décède au tour suivant. Chaque personne qui creuse pour l'aider lui
+        octroie un bonus de +2 sur son test.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.hX6ycuO7T2RGh3kk'
+  - _id: lQwEvPPzNKjEgWGe
+    name: Armée des morts
+    type: capacity
+    sort: 600000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-5.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: armee-des-morts
+      description: >-
+        <h1>Description</h1><p>Une fois par jour, le Nécromancien peut invoquer
+        d’innombrables squelettes émergeant du sol pour attaquer ses ennemis
+        pendant [niveau du nécromancien] tours. Les cibles situées dans un rayon
+        de 20 m autour du Nécromancien subissent automatiquement 3d6
+        <strong>DM</strong> par tour, à moins qu’elles n’utilisent une action
+        limitée pour s’opposer aux squelettes (ce qui réduit les
+        <strong>DM</strong> à 1d6). Les squelettes restent autour du
+        Nécromancien et se déplacent en même temps que lui dans une zone de 20 m
+        de rayon. Tous les déplacements dans cette zone (même ceux des alliés)
+        sont divisés par deux.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.lQwEvPPzNKjEgWGe'
+  - _id: v5Axy4gtVISCZ5hO
+    name: Siphon des âmes
+    type: capacity
+    sort: 700000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-mort-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: siphon-des-ames
+      description: >-
+        <h1>Description</h1><p>Chaque fois qu'une créature meurt à moins de 20 m
+        du Nécromancien, il récupère 1d6 PV.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.v5Axy4gtVISCZ5hO'
+  - _id: dKSmEeBjxLxk91Pc
+    name: Masque mortuaire
+    type: capacity
+    sort: 800000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-mort-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: masque-mortuaire
+      description: >-
+        <h1>Description</h1><p>Pendant [5 + Mod. d'<strong>INT</strong>] tours,
+        le Nécromancien prend l'apparence de la mort. Il est immunisé aux
+        attaques qui n'affectent que les vivants et à la plupart des pouvoirs
+        des mort-vivants (de plus, ceux-ci le prennent pour l'un des leurs). Il
+        retranche 2 points à tous les <strong>DM</strong> physiques subits et
+        divise par deux tous les <strong>DM</strong> de froid.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.dKSmEeBjxLxk91Pc'
+  - _id: rSWaESMIoEbE2Z9O
+    name: Baiser du vampire
+    type: capacity
+    sort: 900000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-mort-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: baiser-du-vampire
+      description: >-
+        <h1>Description</h1><p>Ce sort nécessite la réussite d'un test d'attaque
+        magique (portée 50 m). La cible subit [1d8+Mod. d'<strong>INT</strong>]
+        <strong>DM</strong> et le Nécromancien récupère autant de PV (sans
+        dépasser son score max de PV).</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.rSWaESMIoEbE2Z9O'
+  - _id: O94mm3DhqahdZ4c3
+    name: Briser les cœurs
+    type: capacity
+    sort: 1000000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-mort-4.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: briser-les-coeurs
+      description: >-
+        <h1>Description</h1><p>Le Nécromancien fait mine de broyer le coeur de
+        sa victime. Il doit réussir une attaque magique (portée 20 m) et inflige
+        [5d6 + Mod. d'<strong>INT</strong>] <strong>DM</strong>. La victime
+        divise les <strong>DM</strong> par deux si elle réussit un test de
+        <strong>CON</strong> difficulté [10 + Mod. d'<strong>INT</strong>].</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.O94mm3DhqahdZ4c3'
+  - _id: HaTBkHV1HaagkEcW
+    name: Mot de mort
+    type: capacity
+    sort: 1100000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-mort-5.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: mot-de-mort
+      description: >-
+        <h1>Description</h1><p>Le Nécromancien doit réussir un test d'attaque
+        magique contre le score max de PV de sa cible (portée 10 m). La victime
+        doit réussir un test de <strong>CON</strong> difficulté [ 10 + Mod.
+        d'<strong>INT</strong>] ou tomber à 0 PV.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.HaTBkHV1HaagkEcW'
+  - _id: pnACupbRpQXbirje
+    name: Saignements
+    type: capacity
+    sort: 1200000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: saignements
+      description: >-
+        <h1>Description</h1><p>Le Nécromancien doit réussir un test d'attaque
+        magique (portée 10 m). Du sang s'écoule de la bouche, du nez, des
+        oreilles et même des yeux de la victime, qui subit 1d6
+        <strong>DM</strong> par tour pendant [rang] tours.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.pnACupbRpQXbirje'
+  - _id: 24rYqddfdzo3kPvm
+    name: Sang mordant
+    type: capacity
+    sort: 1300000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: sang-mordant
+      description: >-
+        <h1>Description</h1><p>Pendant [5 + Mod. d'<strong>INT</strong>] tours,
+        le sang du Nécromancien se transforme en un acide qui gicle lorsqu'il
+        subit une blessure. Chaque fois qu'un ennemi au contact le blesse, ce
+        dernier subit 1d6 <strong>DM</strong> d'acide.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.24rYqddfdzo3kPvm'
+  - _id: xRMCF3whnKHhpptr
+    name: Exsangue
+    type: capacity
+    sort: 1400000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: exsangue
+      description: >-
+        <h1>Description</h1><p>Lorsque le nécromant tombe à 0 PV, il peut
+        continuer à agir mais avec un malus de -2 à tous ses tests. Une nouvelle
+        attaque réussie infligeant au moins 1 point de <strong>DM</strong>
+        finira par l'achever !</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!kFMWuyTNuzUZ91Bz.xRMCF3whnKHhpptr'
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  stats:
+    str:
+      key: str
+      label: COF.stats.str.label
+      abbrev: COF.stats.str.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 6
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    dex:
+      key: dex
+      label: COF.stats.dex.label
+      abbrev: COF.stats.dex.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 3
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    con:
+      key: con
+      label: COF.stats.con.label
+      abbrev: COF.stats.con.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 6
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    int:
+      key: int
+      label: COF.stats.int.label
+      abbrev: COF.stats.int.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    wis:
+      key: wis
+      label: COF.stats.wis.label
+      abbrev: COF.stats.wis.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    cha:
+      key: cha
+      label: COF.stats.cha.label
+      abbrev: COF.stats.cha.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+  attacks:
+    melee:
+      key: melee
+      label: COF.attacks.melee.label
+      abbrev: COF.attacks.melee.abbrev
+      stat: '@stats.str.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    ranged:
+      key: ranged
+      label: COF.attacks.ranged.label
+      abbrev: COF.attacks.ranged.abbrev
+      stat: '@stats.dex.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    magic:
+      key: magic
+      label: COF.attacks.magic.label
+      abbrev: COF.attacks.magic.abbrev
+      stat: '@stats.int.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+  description: >-
+    <h1>Description</h1><p><strong>Nécromancien</strong> de niveau
+    10</p><p><strong>Milieu : </strong><p>marais</p>
+  attributes:
+    hp:
+      key: hp
+      label: COF.attributes.hp.label
+      abbrev: COF.attributes.hp.abbrev
+      base: 110
+      bonus: 0
+      value: 110
+      max: 110
+    def:
+      key: def
+      label: COF.attributes.def.label
+      abbrev: COF.attributes.def.abbrev
+      base: 18
+      bonus: 0
+      malus: 0
+      value: 18
+    init:
+      key: init
+      label: COF.attributes.init.label
+      abbrev: COF.attributes.init.abbrev
+      base: 16
+      bonus: 0
+      malus: 0
+      value: 16
+    dr:
+      key: dr
+      label: COF.attributes.dr.label
+      abbrev: COF.attributes.dr.abbrev
+      enabled: false
+      base:
+        value: 0
+        ignored: ''
+      bonus:
+        value: 0
+        ignored: ''
+      value: 0
+    rp:
+      key: rp
+      label: COF.attributes.rp.label
+      abbrev: COF.attributes.rp.abbrev
+      enabled: false
+      base: 5
+      bonus: 0
+      value: 5
+      max: 5
+    fp:
+      key: fp
+      label: COF.attributes.fp.label
+      abbrev: COF.attributes.fp.abbrev
+      enabled: false
+      base: 3
+      bonus: 0
+      value: 3
+      max: 3
+    mp:
+      key: mp
+      label: COF.attributes.mp.label
+      abbrev: COF.attributes.mp.abbrev
+      enabled: false
+      base: 0
+      bonus: 0
+      value: 0
+      max: 0
+    hd:
+      key: hd
+      label: COF.attributes.hd.label
+      abbrev: COF.attributes.hd.abbrev
+      value: 1d4
+    overload:
+      key: over
+      label: COF.attributes.over.label
+      abbrev: COF.attributes.over.abbrev
+      misc: 0
+    madness:
+      key: fp
+      label: COF.attributes.madness.label
+      abbrev: COF.attributes.madness.abbrev
+      enabled: false
+      base: 0
+      value: 0
+  currency:
+    pp:
+      key: pp
+      label: COF.currency.pp.label
+      abbrev: COF.currency.pp.abbrev
+      qty: 0
+    gp:
+      key: gp
+      label: COF.currency.gp.label
+      abbrev: COF.currency.gp.abbrev
+      qty: 0
+    sp:
+      key: sp
+      label: COF.currency.sp.label
+      abbrev: COF.currency.sp.abbrev
+      qty: 0
+    cp:
+      key: cp
+      label: COF.currency.cp.label
+      abbrev: COF.currency.cp.abbrev
+      qty: 0
+  alert:
+    type: error
+    msg: ''
+  details:
+    gender: ''
+    age: ''
+    weight: ''
+    height: ''
+    eyes: ''
+    hair: ''
+    size: big
+    senses: ''
+    languages:
+      value: []
+      custom: ''
+  settings:
+    combat:
+      folded: []
+    inventory:
+      folded: []
+    capacities:
+      folded: []
+    effects:
+      folded: []
+  moduleData: {}
+  key: naga-malefique
+  nc:
+    key: nc
+    label: COF.attributes.nc.label
+    abbrev: COF.attributes.nc.abbrev
+    value: 9
+  weapons:
+    - name: Morsure
+      mod: 20
+      dmg: 2d6+8 + venin
+    - name: Attaque magique
+      mod: 18
+      dmg: ''
+  capacities:
+    - name: Venin
+      type: creature
+      description: >-
+        la victime doit réussir un test de CON difficulté 14 ou être
+        <em>Affaiblie</em>. Si la victime est déjà Affaiblie par le venin, un
+        échec lors d’une nouvelle morsure, la fait sombrer dans l’inconscience
+        pour 1d6 tours. Un troisième échec signifie 1d6 heures d’inconscience.
+  paths:
+    - key: voie-de-l-outre-tombe-1
+    - key: voie-de-l-outre-tombe-2
+    - key: voie-de-l-outre-tombe-3
+    - key: voie-de-l-outre-tombe-4
+    - key: voie-de-l-outre-tombe-5
+    - key: voie-de-la-mort-1
+    - key: voie-de-la-mort-2
+    - key: voie-de-la-mort-3
+    - key: voie-de-la-mort-4
+    - key: voie-de-la-mort-5
+    - key: voie-du-sang-1
+    - key: voie-du-sang-2
+    - key: voie-du-sang-3
+  boss:
+    rank: 1
+    type: rapide
+  families:
+    - name: Nagas
+      key: nagas
+      description: >-
+        <h1>Description</h1><p>Le naga est un énorme serpent à tête humaine (4
+        mètre pour 200kg), un puissant esprit de la magie aux motivations
+        étranges et souvent incompréhensibles pour les mortels. Les nagas sont
+        quasi-immortels et leur savoir dépasse l’entendement, ils sont
+        généralement liés à un lieu sacré qu’ils gardent et leur apparence ainsi
+        que leurs pouvoirs s’accordent à la nature mystique de l’endroit.</p>
+  archetype: standard
+  category: vivante
+prototypeToken:
+  flags: {}
+  name: Naga maléfique
+  displayName: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    alpha: 1
+    animation:
+      speed: 5
+      intensity: 5
+      type: null
+      reverse: false
+    negative: false
+    priority: 0
+    color: null
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+  texture:
+    src: /modules/cof-srd/ui/icons/creature.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  alpha: 1
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+folder: null
+_key: '!actors!kFMWuyTNuzUZ91Bz'

@@ -1,0 +1,73 @@
+name: Massacrer la piétaille
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-noblesse-4.webp
+_id: c2Mit6N9K3qxn402
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: massacrer-la-pietaille
+  description: >-
+    <h1>Description</h1><p>Le Chevalier ajoute +1d6 aux <strong>DM</strong>
+    contre la piétaille. S'il y a au moins 4 créatures aux statistiques
+    semblables impliquées dans le combat, elles sont assimilées à de la
+    piétaille (même si leur nombre est par la suite réduit à moins de 4 au cours
+    du combat). Les grandes créatures et les cavaliers ne sont jamais considérés
+    comme de la piétaille.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!c2Mit6N9K3qxn402'

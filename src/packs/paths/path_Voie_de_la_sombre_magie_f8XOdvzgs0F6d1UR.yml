@@ -1,0 +1,56 @@
+_id: f8XOdvzgs0F6d1UR
+name: Voie de la sombre magie
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-sombre-magie.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-sombre-magie
+  description: >-
+    <h1>Note</h1><p>Le Nécromancien obtient un bonus de +2 par rang à tous les
+    tests d'<strong>INT</strong> basés sur les connaissances occultes.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: VjgnnGSuwuzLURBz
+      name: Ténèbres
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-1.webp
+      sourceId: Compendium.cof-srd.capacities.VjgnnGSuwuzLURBz
+    - _id: YMXW5OR6KTd1LpOa
+      name: Pattes d'araignée
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-2.webp
+      sourceId: Compendium.cof-srd.capacities.YMXW5OR6KTd1LpOa
+    - _id: Oj6zLlGoTrP3vUNn
+      name: Strangulation
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-3.webp
+      sourceId: Compendium.cof-srd.capacities.Oj6zLlGoTrP3vUNn
+    - _id: P7rjY8RAWuye7NLK
+      name: Ombre mortelle
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-4.webp
+      sourceId: Compendium.cof-srd.capacities.P7rjY8RAWuye7NLK
+    - _id: HEod47Ehc873p9as
+      name: Intelligence héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-5.webp
+      sourceId: Compendium.cof-srd.capacities.HEod47Ehc873p9as
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!f8XOdvzgs0F6d1UR'

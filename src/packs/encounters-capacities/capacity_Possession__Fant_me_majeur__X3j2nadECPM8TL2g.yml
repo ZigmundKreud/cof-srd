@@ -1,0 +1,73 @@
+name: Possession (Fantôme majeur)
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/encounter-capacities/possession-fantome-majeur.webp
+effects: []
+_id: X3j2nadECPM8TL2g
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: possession-fantome-majeur
+  description: >-
+    <h1>Description</h1><p>le fantôme tente de fusionner avec une créature au
+    contact. La victime doit réussir un test de SAG difficulté 12 pour résister
+    à ce pouvoir, en cas de succès, elle est immunisée au pouvoir de possession
+    pour 24 heures. En cas d’échec, le fantôme prend le contrôle du corps de son
+    hôte pendant 1d6 minutes. Il est dit que certains fantômes très puissants
+    peuvent prolonger la possession beaucoup plus longtemps…</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!X3j2nadECPM8TL2g'

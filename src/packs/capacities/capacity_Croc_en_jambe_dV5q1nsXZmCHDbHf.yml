@@ -1,0 +1,71 @@
+name: Croc-en-jambe
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-3.webp
+_id: dV5q1nsXZmCHDbHf
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: croc-en-jambe
+  description: >-
+    <h1>Description</h1><p>Lorsqu'il obtient un score de 17 à 20 sur son d20 en
+    attaque au contact, le Voleur fait chuter son adversaire en plus de lui
+    infliger des <strong>DM</strong> normaux. Un score de 19 à 20 est nécessaire
+    pour une créature quadrupède.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!dV5q1nsXZmCHDbHf'

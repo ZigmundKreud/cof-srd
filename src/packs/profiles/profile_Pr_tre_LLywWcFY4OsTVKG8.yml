@@ -1,0 +1,75 @@
+_id: LLywWcFY4OsTVKG8
+name: Prêtre
+type: profile
+flags: {}
+img: /modules/cof-srd/ui/icons/profiles/pretre.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: pretre
+  description: >-
+    <h1>Description</h1><p>Le Prêtre utilise l'énergie transmise par son dieu
+    pour mener à bien ses missions  avec la force de la foi mais aussi celle des
+    armes si nécessaire.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  dv: 1d8
+  spellcasting: wis
+  mpfactor: '1'
+  paths:
+    - _id: JapFMdsUhcoKyqSK
+      name: Voie de la foi
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-foi.webp
+      sourceId: Compendium.cof-srd.paths.JapFMdsUhcoKyqSK
+    - _id: U0cH2vLItLdGLtaT
+      name: Voie de la guerre sainte
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-guerre-sainte.webp
+      sourceId: Compendium.cof-srd.paths.U0cH2vLItLdGLtaT
+    - _id: fevBHIK43BNZ94fG
+      name: Voie de la prière
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-priere.webp
+      sourceId: Compendium.cof-srd.paths.fevBHIK43BNZ94fG
+    - _id: lvdHef01zckRtEL5
+      name: Voie de la spiritualité
+      img: /modules/cof-srd/ui/icons/paths/voie-de-la-spiritualite.webp
+      sourceId: Compendium.cof-srd.paths.lvdHef01zckRtEL5
+    - _id: Rk5M013FMlikBZ3d
+      name: Voie des soins
+      img: /modules/cof-srd/ui/icons/paths/voie-des-soins.webp
+      sourceId: Compendium.cof-srd.paths.Rk5M013FMlikBZ3d
+  proficiencies:
+    daggers: false
+    swords: false
+    axes: false
+    staves: false
+    clubs: false
+    hammers: false
+    katanas: false
+    2-hands: false
+    slings: false
+    bows: false
+    crossbows: false
+    throwing-weapons: false
+    powder-weapons: false
+    soft-leather: false
+    studded-leather: false
+    mail: false
+    half-plate: false
+    full-plate: false
+    shield: false
+  prestige: []
+  alternatives: []
+folder: null
+sort: 0
+_key: '!items!LLywWcFY4OsTVKG8'

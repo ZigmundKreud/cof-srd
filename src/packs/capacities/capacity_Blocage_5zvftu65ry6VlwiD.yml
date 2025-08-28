@@ -1,0 +1,73 @@
+name: Blocage
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-2.webp
+_id: 5zvftu65ry6VlwiD
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: blocage
+  description: >-
+    <h1>Description</h1><p>Le Forgesort scelle une porte ou un coffre pour une
+    durée en minutes égale à sa valeur d'<strong>INT</strong>. Seul un mot de
+    commande qu'il choisit permet d'ouvrir l'objet. Celui-ci peut toujours être
+    brisé par la force, mais il bénéficie d'un bonus de +5 en solidité et en
+    <strong>RD</strong> (réduction des <strong>DM</strong>) pour toute la durée
+    du sort.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!5zvftu65ry6VlwiD'

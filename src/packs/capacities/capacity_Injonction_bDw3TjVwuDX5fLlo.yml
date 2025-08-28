@@ -1,0 +1,79 @@
+_id: bDw3TjVwuDX5fLlo
+name: Injonction
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-1.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: injonction
+  description: >-
+    <h1>Description</h1>
+
+    <p>L'Ensorceleur donne un ordre simple (mais pas dangereux pour elle) que la
+    victime doit pouvoir comprendre.<br />Il doit r&eacute;ussir un test
+    d'attaque magique oppos&eacute; avec la cible (contre attaque au contact si
+    la cr&eacute;ature n'en a pas) &agrave; une port&eacute;e de 20
+    m&egrave;tres.<br />En cas d'&eacute;chec, la cible ex&eacute;cutera l'ordre
+    pendant son prochain tour.<br /><br /><span style="text-decoration:
+    underline;"><strong>Voie de l'envouteur</strong></span></p>
+
+    <p>Note : si une victime r&eacute;siste &agrave; un sort&nbsp;de cette voie
+    (envouteur), elle y est immunis&eacute;e pendant 24h.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!bDw3TjVwuDX5fLlo'

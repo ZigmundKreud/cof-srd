@@ -1,0 +1,54 @@
+_id: YfUpen3wrcipZMJo
+name: Voie du halfelin
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-halfelin.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-halfelin
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: gNoRrMD9r4W3QgFs
+      name: Petit veinard
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-1.webp
+      sourceId: Compendium.cof-srd.capacities.gNoRrMD9r4W3QgFs
+    - _id: BIl3v3aJyWqrR01d
+      name: Résistance légendaire
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-2.webp
+      sourceId: Compendium.cof-srd.capacities.BIl3v3aJyWqrR01d
+    - _id: DrIjQ3s6H0HmvDZh
+      name: Bon pour le moral
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-3.webp
+      sourceId: Compendium.cof-srd.capacities.DrIjQ3s6H0HmvDZh
+    - _id: 5S0ZbZ43t3HhzTz5
+      name: Perception
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-4.webp
+      sourceId: Compendium.cof-srd.capacities.5S0ZbZ43t3HhzTz5
+    - _id: Pskj07tKVUvqraaV
+      name: Vif et alerte
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-5.webp
+      sourceId: Compendium.cof-srd.capacities.Pskj07tKVUvqraaV
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!YfUpen3wrcipZMJo'

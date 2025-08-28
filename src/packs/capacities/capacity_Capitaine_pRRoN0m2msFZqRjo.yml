@@ -1,0 +1,71 @@
+name: Capitaine
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-chef-d-armee-2.webp
+_id: pRRoN0m2msFZqRjo
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: capitaine
+  description: >-
+    <h1>Description</h1><p>Le capitaine donne un bonus de +2 en Initiative, en
+    attaque et aux <strong>DM</strong> à toutes les créatures sous ses ordres à
+    portée de vue. De plus il bénéficie d’une attaque supplémentaire à chaque
+    tour lorsqu’il utilise une action limitée.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!pRRoN0m2msFZqRjo'

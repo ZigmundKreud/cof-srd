@@ -1,0 +1,72 @@
+name: Nuée d'insectes
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-animaux-2.webp
+_id: 2cepUJr5nVymHsBf
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: nuee-dinsectes
+  description: >-
+    <h1>Description</h1><p>En réussissant un test d'attaque magique (portée 20
+    m), le Druide libère sur sa cible une nuée d'insectes volants qui piquent,
+    aveuglent et la suivent pendant [5 + Mod. de <strong>SAG</strong>] tours. La
+    victime subit 1 point de <strong>DM</strong> par tour et un malus de -2 à
+    toutes ses actions. Les <strong>DM</strong> de zone détruisent la nuée.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!2cepUJr5nVymHsBf'

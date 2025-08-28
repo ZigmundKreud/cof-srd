@@ -1,0 +1,72 @@
+name: Chair à canon
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-pnj-recurrent-2.webp
+_id: SjswPW3ZT7ikVyds
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: chair-a-canon
+  description: >-
+    <h1>Description</h1><p>Une fois par tour, le PNJ peut décider qu’une attaque
+    qui le visait touche à la place un de ses sous-fifres situé à moins de 3 m
+    et venu s’interposer (ou derrière lequel il s’est mis à couvert). Le PNJ
+    gagne un bonus de +5 en <strong>DEF</strong> tant que des sous-fifres sont
+    positionnés à moins de 3 mètres de lui.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!SjswPW3ZT7ikVyds'

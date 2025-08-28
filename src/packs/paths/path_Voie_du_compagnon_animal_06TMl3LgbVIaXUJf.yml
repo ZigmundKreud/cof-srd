@@ -1,0 +1,56 @@
+_id: 06TMl3LgbVIaXUJf
+name: Voie du compagnon animal
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-compagnon-animal.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-compagnon-animal
+  description: >-
+    <h1>Note</h1><p>Le Rôdeur obtient un loup pour compagnon animal dès qu'il
+    prend au moins un Rang dans cette Voie.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: K5gDNohxEpPhpO4O
+      name: Odorat
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-1.webp
+      sourceId: Compendium.cof-srd.capacities.K5gDNohxEpPhpO4O
+    - _id: uN6EKMnRAKNAxLnS
+      name: Surveillance
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-2.webp
+      sourceId: Compendium.cof-srd.capacities.uN6EKMnRAKNAxLnS
+    - _id: 5As5nNvNeAWqY9d3
+      name: Combat
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-3.webp
+      sourceId: Compendium.cof-srd.capacities.5As5nNvNeAWqY9d3
+    - _id: u1ppR7hhVumtfakV
+      name: Empathie animale
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-4.webp
+      sourceId: Compendium.cof-srd.capacities.u1ppR7hhVumtfakV
+    - _id: bNAzgdEfx7M7HXnh
+      name: Animal fabuleux
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-5.webp
+      sourceId: Compendium.cof-srd.capacities.bNAzgdEfx7M7HXnh
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!06TMl3LgbVIaXUJf'

@@ -1,0 +1,104 @@
+_id: xkFuyj29dnid5kTx
+name: Piège explosif
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-4.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: piege-explosif
+  description: >-
+    <h1>Description</h1>
+
+    <p>il faut un tour complet &agrave; l&rsquo;Arquebusier pour installer un
+    pi&egrave;ge qui explose dans un rayon de 3 m&egrave;tres en infligeant 5d6
+    <strong>DM</strong> (test de <strong>DEX</strong> difficult&eacute; 15 pour
+    ne subir que la moiti&eacute; des <strong>DM</strong>).</p>
+
+    <p>L&rsquo;Arquebusier peut choisir entre deux modes de
+    d&eacute;clenchement,</p>
+
+    <ul>
+
+    <li>soit avec un retardateur allant de 1 &agrave; 10 tours au choix,</li>
+
+    <li>soit &agrave; l&rsquo;intrusion de toute cr&eacute;ature dans une zone
+    d&rsquo;1 m&egrave;tre autour du pi&egrave;ge.</li>
+
+    </ul>
+
+    <p>Cette seconde solution demande 1 tour de pr&eacute;paration
+    suppl&eacute;mentaire et un personnage attentif peut d&eacute;tecter et
+    &eacute;viter le pi&egrave;ge avec un test de <strong>SAG</strong>
+    difficult&eacute; [12 + Mod. d&rsquo;<strong>INT</strong> de
+    l&rsquo;Arquebusier].</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie des
+    explosifs</strong></span></p>
+
+    <p>Chaque jour l&rsquo;arquebusier peut utiliser&nbsp;un nombre de charges
+    explosives&nbsp;&eacute;gal au Rang dans la voie.</p>
+
+    <p>Ces charges&nbsp;permettent indiff&eacute;remment
+    d&rsquo;utiliser&nbsp;les
+    capacit&eacute;s&nbsp;<strong>D&eacute;molition</strong>,&nbsp;<strong>Pi&egrave;ge
+    explosif&nbsp;</strong>ou&nbsp;<strong>Boulet explosif</strong>.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!xkFuyj29dnid5kTx'

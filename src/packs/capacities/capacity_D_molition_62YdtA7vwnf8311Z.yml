@@ -1,0 +1,92 @@
+_id: 62YdtA7vwnf8311Z
+name: Démolition
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-2.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: demolition
+  description: >-
+    <h1>Description</h1>
+
+    <p>L'Arquebusier peut pr&eacute;parer un explosif qui lui permet de
+    d&eacute;molir facilement des structures.<br />Il lui faut 3 tours complets
+    pour pr&eacute;parer et poser son explosif.<br />Celui-ci inflige &agrave;
+    la structure</p>
+
+    <p><strong>2d6 DM par Rang dans la voie</strong></p>
+
+    <p>et <strong>1d6 par rang dans un rayon de 6 m&egrave;tres</strong> autour
+    (en ignorant la moiti&eacute; de la <strong>RD</strong> de la structure.
+    Voir <strong>DM</strong> aux structures).</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie des
+    explosifs</strong></span></p>
+
+    <p>Chaque jour l&rsquo;arquebusier peut utiliser&nbsp;un nombre de charges
+    explosives&nbsp;&eacute;gal au Rang dans la voie.</p>
+
+    <p>Ces charges&nbsp;permettent indiff&eacute;remment
+    d&rsquo;utiliser&nbsp;les capacit&eacute;s
+    <strong>D&eacute;molition</strong>, <strong>Pi&egrave;ge explosif
+    </strong>ou <strong>Boulet explosif</strong>.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!62YdtA7vwnf8311Z'

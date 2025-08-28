@@ -1,0 +1,73 @@
+name: Cri de guerre
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-1.webp
+_id: 6tw1ED5pJ3eAxlqp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: cri-de-guerre
+  description: >-
+    <h1>Description</h1><p>Une fois par combat, le Barbare pousse un hurlement
+    qui effraie ses adversaires. Tout ennemi dont la <strong>FOR</strong> et les
+    PV maximum sont inférieurs à ceux du Barbare subit un malus de -2 à ses
+    tests d’attaque au contact contre le personnage pour le reste du combat.
+    Cette capacité ne nécessite plus qu’une action de mouvement à partir du rang
+    4.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!6tw1ED5pJ3eAxlqp'

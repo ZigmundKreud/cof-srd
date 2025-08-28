@@ -1,0 +1,84 @@
+_id: fQ6hm3MbVO1WgabW
+name: Détection de la magie
+type: capacity
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-2.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: detection-de-la-magie
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Magicien se concentre et d&eacute;tecte la pr&eacute;sence de toute
+    inscription et de tout objet magique situ&eacute; dans la pi&egrave;ce
+    o&ugrave; il se trouve (ou dans les 15 m&egrave;tres autour de lui). <br
+    />Ce sort permet aussi d'analyser les propri&eacute;t&eacute;s d'un objet
+    magique au prix de 2 heures d'&eacute;tude et de 100 pa de poudre
+    d'argent.</p>
+
+    <p>&nbsp;</p>
+
+    <p><span style="text-decoration: underline;"><strong>Voie de la
+    magie&nbsp;universelle</strong></span></p>
+
+    <p>Pour chaque Rang dans cette Voie, le magicien obtient un bonus de +2 aux
+    tests d&rsquo;INT bas&eacute;s sur la connaissance et
+    l&rsquo;&eacute;rudition.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+_key: '!items!fQ6hm3MbVO1WgabW'

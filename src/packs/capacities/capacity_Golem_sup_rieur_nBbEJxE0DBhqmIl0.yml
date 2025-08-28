@@ -1,0 +1,92 @@
+name: Golem supérieur
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-4.webp
+_id: nBbEJxE0DBhqmIl0
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: golem-superieur
+  description: >-
+    <h1>Description</h1><p>Le Forgesort peut améliorer son golem en choisissant
+    une option parmi :
+
+    * Armure : +5 en <strong>DEF</strong> ;
+
+    * Félin : +3 Mod. de <strong>DEX</strong> ;
+
+    * Baliste : portée 20 m, 2d6 <strong>DM</strong> ;
+
+    * Taille : +10 PV et +1 Mod. de <strong>FOR</strong> ;
+
+    * Vol : des « sauts » de 40 m en action limitée ;
+
+    * Cerveau amélioré : +2 Mod. d'<strong>INT</strong>, <strong>SAG</strong>,
+    <strong>CHA</strong>, doué de parole ;
+
+    * Puissant : +2 Mod. de <strong>FOR</strong> ;
+
+    * Arme à deux mains : +1d8 aux <strong>DM</strong> au contact.
+
+    Le joueur peut choisir une option de plus lorsque son personnage atteint les
+    niveaux 9, 13 et 17. Les options peuvent êtres choisies plusieurs fois et
+    cumulées.
+
+    </p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!nBbEJxE0DBhqmIl0'

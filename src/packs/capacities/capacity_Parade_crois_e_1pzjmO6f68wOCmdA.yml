@@ -1,0 +1,72 @@
+name: Parade croisée
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-2.webp
+_id: 1pzjmO6f68wOCmdA
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: parade-croisee
+  description: >-
+    <h1>Description</h1><p>Durant un tour complet, le personnage obtient un
+    bonus en <strong>DEF</strong> égal au rang atteint dans la voie. Il ne
+    réalise qu’une attaque à ce tour. Si le résultat du dé d’attaque est pair,
+    la main principale porte le coup ; si le résultat est impair, c’est la main
+    secondaire.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!1pzjmO6f68wOCmdA'

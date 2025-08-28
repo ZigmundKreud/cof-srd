@@ -1,0 +1,54 @@
+_id: QZQj7UpkRT3ILA5J
+name: Voie du champ de bataille
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-champ-de-bataille.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-champ-de-bataille
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 1uXnDA8WT9TSYM3V
+      name: Action concertée
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-champ-de-bataille-1.webp
+      sourceId: Compendium.cof-srd.capacities.1uXnDA8WT9TSYM3V
+    - _id: evtFraOLyMzw8egY
+      name: A couvert
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-champ-de-bataille-2.webp
+      sourceId: Compendium.cof-srd.capacities.evtFraOLyMzw8egY
+    - _id: YT8QVnE3aJAr7gKD
+      name: Combattant aguerri
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-champ-de-bataille-3.webp
+      sourceId: Compendium.cof-srd.capacities.YT8QVnE3aJAr7gKD
+    - _id: OPMMNpi9qyziH3YQ
+      name: Combat de masse
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-champ-de-bataille-4.webp
+      sourceId: Compendium.cof-srd.capacities.OPMMNpi9qyziH3YQ
+    - _id: 3TRSlQBprZW93NNB
+      name: Constitution héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-champ-de-bataille-5.webp
+      sourceId: Compendium.cof-srd.capacities.3TRSlQBprZW93NNB
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!QZQj7UpkRT3ILA5J'

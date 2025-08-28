@@ -1,0 +1,69 @@
+name: Sans esprit (Zombi humain)
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/encounter-capacities/sans-esprit-zombi-humain.webp
+effects: []
+_id: gBAQfROQjeTe1o7I
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: sans-esprit-zombi-humain
+  description: >-
+    <h1>Description</h1><p>aucune âme n’habite la carcasse morte, le zombi est
+    immunisé à tous les sorts qui affectent l’esprit (INT, SAG et CHA).</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!gBAQfROQjeTe1o7I'

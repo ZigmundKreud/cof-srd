@@ -1,0 +1,107 @@
+_id: Z8k0xMXqkIAybkKC
+name: Armure de Mage
+type: item
+flags:
+  core:
+    sourceId: Item.3aJzTQEyZYbUM6T8
+img: /modules/cof-srd/ui/icons/spells/armure-de-mage.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: ''
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Magicien fait appara&icirc;tre un nuage magique argent&eacute; qui le
+    prot&egrave;ge contre les attaques adverses. Il b&eacute;n&eacute;ficie d'un
+    bonus de +4 &agrave; la&nbsp;<strong>DEF</strong>&nbsp;pour le reste du
+    combat. Si le sort est cumul&eacute; &agrave; une armure physique, le bonus
+    est divis&eacute; par 2 (+2&nbsp;<strong>DEF</strong>).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  def: 0
+  defBase: 4
+  defBonus: 0
+  dr: 0
+  dmg: ''
+  dmgBase: ''
+  dmgStat: ''
+  dmgBonus: 0
+  mod: 0
+  skill: '@attacks.magic.mod'
+  skillBonus: 0
+  critrange: '20'
+  hands: '1'
+  range: 0
+  reload: ''
+  worn: false
+  slot: chest
+  qty: 1
+  stacksize: null
+  deleteWhen0: false
+  price: null
+  value: 0
+  rarity: ''
+  properties:
+    predilection: false
+    ranged: false
+    equipable: true
+    stackable: false
+    activable: true
+    unique: false
+    tailored: false
+    2H: false
+    proficient:
+      - true
+      - true
+    finesse: false
+    equipment: false
+    weapon: false
+    protection: true
+    reloadable: false
+    bow: false
+    crossbow: false
+    powder: false
+    throwing: false
+    dr: false
+    sneak: false
+    powerful: false
+    critscience: false
+    specialization: false
+    effects: false
+    13strmin: false
+    bashing: false
+    sling: false
+    spell: true
+    consumable: false
+    two-handed: false
+    very-rare: false
+    2h: false
+  effects:
+    heal:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+    buff:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+  subtype: spell
+folder: null
+sort: 0
+_key: '!items!Z8k0xMXqkIAybkKC'

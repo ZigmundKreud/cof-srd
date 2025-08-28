@@ -1,0 +1,54 @@
+_id: pWvgbzI1CCDWnRWl
+name: Voie du meneur d'homme
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-meneur-d-homme.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-meneur-d-homme
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: ScRs9wmY8SyFstZH
+      name: Sans peur
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-meneur-d-homme-1.webp
+      sourceId: Compendium.cof-srd.capacities.ScRs9wmY8SyFstZH
+    - _id: 1OmxC0EeqvrfodHo
+      name: Intercepter
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-meneur-d-homme-2.webp
+      sourceId: Compendium.cof-srd.capacities.1OmxC0EeqvrfodHo
+    - _id: 0Re0OH26vvGFwqGv
+      name: Exemplaire
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-meneur-d-homme-3.webp
+      sourceId: Compendium.cof-srd.capacities.0Re0OH26vvGFwqGv
+    - _id: hJyaPWRTElgGAqKs
+      name: Ordre de bataille
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-meneur-d-homme-4.webp
+      sourceId: Compendium.cof-srd.capacities.hJyaPWRTElgGAqKs
+    - _id: zYQgmO90pQqF7l3W
+      name: Charge fantastique
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-meneur-d-homme-5.webp
+      sourceId: Compendium.cof-srd.capacities.zYQgmO90pQqF7l3W
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!pWvgbzI1CCDWnRWl'

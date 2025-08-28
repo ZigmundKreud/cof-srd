@@ -1,0 +1,48 @@
+_id: 5iXMsUDaSqIidD73
+name: Voie du cogneur
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-cogneur.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-cogneur
+  description: >-
+    <h1>Note</h1><p>Les créatures dotées de cette capacité obtiennent la
+    <strong>CON</strong> en Carac. Supérieure (indiqué par un *).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: Uvrc6BH7PQANxQcd
+      name: Charge
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-cogneur-1.webp
+      sourceId: Compendium.cof-srd.capacities.Uvrc6BH7PQANxQcd
+    - _id: ciXrQGwdrh1LbgyO
+      name: Enrager
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-cogneur-2.webp
+      sourceId: Compendium.cof-srd.capacities.ciXrQGwdrh1LbgyO
+    - _id: mEN45W2ChrWkUaMJ
+      name: Percuter
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-cogneur-3.webp
+      sourceId: Compendium.cof-srd.capacities.mEN45W2ChrWkUaMJ
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!5iXMsUDaSqIidD73'

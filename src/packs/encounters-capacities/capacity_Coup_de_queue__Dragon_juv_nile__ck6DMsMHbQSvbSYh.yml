@@ -1,0 +1,71 @@
+name: Coup de queue (Dragon juvénile)
+type: capacity
+flags: {}
+img: >-
+  /modules/cof-srd/ui/icons/encounter-capacities/coup-de-queue-dragon-juvenile.webp
+effects: []
+_id: ck6DMsMHbQSvbSYh
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  key: coup-de-queue-dragon-juvenile
+  description: >-
+    <h1>Description</h1><p>à chaque fois qu’un adversaire attaque le dragon dans
+    le dos, il subit une attaque de queue gratuite équivalente à une attaque
+    avec un malus de -5 et des DM divisés par 2.</p>
+  source: ''
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!ck6DMsMHbQSvbSYh'

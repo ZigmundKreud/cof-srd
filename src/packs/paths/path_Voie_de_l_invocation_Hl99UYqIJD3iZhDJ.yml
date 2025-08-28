@@ -1,0 +1,54 @@
+_id: Hl99UYqIJD3iZhDJ
+name: Voie de l'invocation
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-invocation.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-invocation
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: N11hlBBAziT05KMm
+      name: Familier
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-invocation-1.webp
+      sourceId: Compendium.cof-srd.capacities.N11hlBBAziT05KMm
+    - _id: 2eW2PsRcRCptdNAz
+      name: Serviteur invisible
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-invocation-2.webp
+      sourceId: Compendium.cof-srd.capacities.2eW2PsRcRCptdNAz
+    - _id: lFl4OKXYCTQW8Aaa
+      name: Mur de force
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-invocation-3.webp
+      sourceId: Compendium.cof-srd.capacities.lFl4OKXYCTQW8Aaa
+    - _id: TNiDIV0LZkzBjmbV
+      name: Arme dansante
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-invocation-4.webp
+      sourceId: Compendium.cof-srd.capacities.TNiDIV0LZkzBjmbV
+    - _id: sVYoEKU4QozfdHKd
+      name: Charisme héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-invocation-5.webp
+      sourceId: Compendium.cof-srd.capacities.sVYoEKU4QozfdHKd
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!Hl99UYqIJD3iZhDJ'

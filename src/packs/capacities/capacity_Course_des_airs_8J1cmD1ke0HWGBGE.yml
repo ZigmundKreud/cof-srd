@@ -1,0 +1,72 @@
+name: Course des airs
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-vent-3.webp
+_id: 8J1cmD1ke0HWGBGE
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: course-des-airs
+  description: >-
+    <h1>Description</h1><p>Le Moine défie les lois de la pesanteur et peut se
+    déplacer sur des surfaces qui ne devraient pas supporter son poids. Il peut
+    se déplacer sur l'eau, la neige, le  feuillage des arbres ou courir sur un
+    mur vertical. Il doit commencer et terminer son déplacement sur une surface
+    normale.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!8J1cmD1ke0HWGBGE'

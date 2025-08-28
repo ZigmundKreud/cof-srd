@@ -1,0 +1,74 @@
+name: Dédoublement
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-4.webp
+_id: 9qF4khsxhTRkLwgQ
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: dedoublement
+  description: >-
+    <h1>Description</h1><p>Sur une Attaque magique réussie (portée 20 m),
+    l’Ensorceleur crée un double translucide de la cible pendant [5 + Mod. de
+    <strong>CHA</strong>] tours. Le double est sous le contrôle de
+    l’Ensorceleur. Il possède les mêmes Caractéristiques que l’original mais
+    seulement la moitié de ses PV et tous les <strong>DM</strong> qu’il inflige
+    sont divisés par deux. Il disparaît si ses PV tombent à 0. Une créature ne
+    peut être dédoublée qu’une fois par combat.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!9qF4khsxhTRkLwgQ'

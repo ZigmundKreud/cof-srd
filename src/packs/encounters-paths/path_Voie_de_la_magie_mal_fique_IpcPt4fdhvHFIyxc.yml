@@ -1,0 +1,49 @@
+_id: IpcPt4fdhvHFIyxc
+name: Voie de la magie maléfique
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-malefique.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-magie-malefique
+  description: >-
+    <h1>Note</h1><p>Les créatures dotées de cette voie obtiennent au choix
+    l’<strong>INT</strong>, la <strong>SAG</strong> ou le CHA en Carac.
+    Supérieure. Elles sont capables de voir dans le noir.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: TUcEsbLk0fHSIyCt
+      name: Vampirisation
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-malefique-1.webp
+      sourceId: Compendium.cof-srd.capacities.TUcEsbLk0fHSIyCt
+    - _id: Gxx6tKeWxZt4O3Hv
+      name: Animer un cadavre
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-malefique-2.webp
+      sourceId: Compendium.cof-srd.capacities.Gxx6tKeWxZt4O3Hv
+    - _id: 8yWlACOXcig29Bvx
+      name: Injonction mortelle
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-malefique-3.webp
+      sourceId: Compendium.cof-srd.capacities.8yWlACOXcig29Bvx
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!IpcPt4fdhvHFIyxc'

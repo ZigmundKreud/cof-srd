@@ -1,0 +1,1368 @@
+_id: rjO963OprpfcPWOo
+name: Naga bon
+type: encounter
+sort: 100001
+flags: {}
+img: /modules/cof-srd/ui/icons/creature.webp
+items:
+  - _id: V2ORSAA1nNeQmOya
+    name: Venin (Naga bon)
+    type: capacity
+    sort: 100000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/encounter-capacities/venin-naga-bon.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: venin-naga-bon
+      description: >-
+        <h1>Description</h1><p>la victime doit réussir un test de CON difficulté
+        14 ou être <em>Affaiblie</em>. Si la victime est déjà Affaiblie par le
+        venin, un échec lors d’une nouvelle morsure, la fait sombrer dans
+        l’inconscience pour 1d6 tours. Un troisième échec signifie 1d6 heures
+        d’inconscience.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.V2ORSAA1nNeQmOya'
+  - _id: 6L7dTJfefKruFgfi
+    name: Parole divine
+    type: capacity
+    sort: 200000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: parole-divine
+      description: >-
+        <h1>Description</h1><p>Pour chaque rang dans cette Voie, le Prêtre
+        obtient un bonus de +2 aux tests de <strong>CHA</strong> visant à
+        convaincre ou convertir son auditoire.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.6L7dTJfefKruFgfi'
+  - _id: qLl4ywIXtd4Pp16j
+    name: Arme d'argent
+    type: capacity
+    sort: 300000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: arme-dargent
+      description: >-
+        <h1>Description</h1><p>Ce miracle crée pour la durée du combat une arme
+        d'argent et de lumière que seul le Prêtre peut utiliser. Cette arme
+        inflige [1d6 + Mod. de <strong>SAG</strong>] de <strong>DM</strong>.
+        Contre les démons et les mort-vivants, elle offre un bonus de +2 en
+        attaque et ajoute +1d6 aux <strong>DM</strong>.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.qLl4ywIXtd4Pp16j'
+  - _id: 384zkrTwsDVULcay
+    name: Ailes célestes
+    type: capacity
+    sort: 400000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: ailes-celestes
+      description: >-
+        <h1>Description</h1><p>Des ailes divines poussent dans le dos du Prêtre,
+        qui peut voler à une vitesse  équivalente à deux fois son déplacement
+        normal pendant [5 + Mod. de <strong>SAG</strong>] tours. Rester en vol
+        stationnaire avec les ailes céleste est une action de mouvement.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.384zkrTwsDVULcay'
+  - _id: qV15IF2bvwJ80niL
+    name: Foudres divines
+    type: capacity
+    sort: 500000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-4.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: foudres-divines
+      description: >-
+        <h1>Description</h1><p>La foudre frappe toutes les créatures désignées
+        dans un rayon de 10 mètres autour du Prêtre et leur inflige [1d6 + Mod.
+        de <strong>SAG</strong>] de <strong>DM</strong>. Le Prêtre compare son
+        test d’attaque magique à la <strong>DEF</strong> de chaque cible.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.qV15IF2bvwJ80niL'
+  - _id: 1NoVCs79epbEHqbK
+    name: Arme bénie
+    type: capacity
+    sort: 600000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: arme-benie
+      description: >-
+        <h1>Description</h1><p>Le Prêtre bénit son arme sacrée. S'il obtient un
+        résultat de « 1 » sur son dé de <strong>DM</strong>, il relance le dé et
+        garde le second résultat. Les <strong>DM</strong> de l'arme sont
+        considérés  comme magiques.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.1NoVCs79epbEHqbK'
+  - _id: tyZJnxLSDwbPIcia
+    name: Bouclier de la foi
+    type: capacity
+    sort: 700000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: bouclier-de-la-foi
+      description: >-
+        <h1>Description</h1><p>Le Prêtre porte le symbole de sa foi sur son
+        bouclier, ce qui lui confère un bonus  supplémentaire de +1 en
+        <strong>DEF</strong>. Ce bonus passe à +2 au Rang 4 de la Voie.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.tyZJnxLSDwbPIcia'
+  - _id: T4cwO5p78cIHMK5G
+    name: Marteau spirituel
+    type: capacity
+    sort: 800000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: marteau-spirituel
+      description: >-
+        <h1>Description</h1><p>Le Prêtre effectue une attaque magique avec une
+        portée de 30 mètres. Un projectile d’énergie prenant la forme de l’arme
+        du Prêtre va percuter la cible, lui infligeant [1d8 + Mod. de
+        <strong>SAG</strong>] de <strong>DM</strong>.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.T4cwO5p78cIHMK5G'
+  - _id: Q2qKYE2w5F74qC6W
+    name: Châtiment divin
+    type: capacity
+    sort: 900000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-4.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: chatiment-divin
+      description: >-
+        <h1>Description</h1><p>Le Prêtre effectue une attaque de contact avec un
+        bonus en attaque et aux dégâts égal à son Mod. de
+        <strong>SAG</strong>.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.Q2qKYE2w5F74qC6W'
+  - _id: g1gYqYm4WgFBkSRv
+    name: Mot de pouvoir
+    type: capacity
+    sort: 1000000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-5.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: mot-de-pouvoir
+      description: >-
+        <h1>Description</h1><p>Une fois par combat, le Prêtre peut prononcer un
+        mot avec la voix de son dieu. Cela dépasse l'entendement des mortels et
+        ses ennemis à portée de vue sont paralysés de terreur pendant 1 tour
+        tandis que tous ses alliés en vue bénéficient d'un bonus de +5 en
+        attaque pendant cette période.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.g1gYqYm4WgFBkSRv'
+  - _id: ENZELDnQpvTbQ3Sz
+    name: Soins légers
+    type: capacity
+    sort: 1100000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-soins-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: soins-legers
+      description: >-
+        <h1>Description</h1><p>Le Prêtre peut toucher une cible, qui récupère
+        alors [1d8 + niveau du prêtre] PV perdus. Le Prêtre peut utiliser ce
+        sort sur lui-même.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.ENZELDnQpvTbQ3Sz'
+  - _id: Un6S53LcOYqABNL9
+    name: Soins modérés
+    type: capacity
+    sort: 1200000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-soins-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: soins-moderes
+      description: >-
+        <h1>Description</h1><p>Le Prêtre peut toucher une cible, qui récupère
+        alors [2d8 + niveau du prêtre] PV perdus. Le Prêtre peut utiliser ce
+        sort sur lui-même.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.Un6S53LcOYqABNL9'
+  - _id: H6OXpJfgfdOzFySV
+    name: Soins de groupe
+    type: capacity
+    sort: 1300000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-soins-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: soins-de-groupe
+      description: >-
+        <h1>Description</h1><p>Une fois par combat, le Prêtre peut libérer une
+        décharge d'énergie bienfaitrice : tous ses compagnons en vue et lui
+        récupèrent [1d8 + niveau du prêtre] PV perdus.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.H6OXpJfgfdOzFySV'
+  - _id: LDm510DtfhvQrvkq
+    name: Guérison
+    type: capacity
+    sort: 1400000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-soins-4.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: guerison
+      description: >-
+        <h1>Description</h1><p>Une fois par jour, le Prêtre peut toucher une
+        cible, qui récupère alors tous ses PV perdus et se trouve guérie des
+        poisons, maladies et affaiblissements de Caractéristiques.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: true
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rjO963OprpfcPWOo.LDm510DtfhvQrvkq'
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  stats:
+    str:
+      key: str
+      label: COF.stats.str.label
+      abbrev: COF.stats.str.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 6
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    dex:
+      key: dex
+      label: COF.stats.dex.label
+      abbrev: COF.stats.dex.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 3
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    con:
+      key: con
+      label: COF.stats.con.label
+      abbrev: COF.stats.con.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 6
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    int:
+      key: int
+      label: COF.stats.int.label
+      abbrev: COF.stats.int.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    wis:
+      key: wis
+      label: COF.stats.wis.label
+      abbrev: COF.stats.wis.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    cha:
+      key: cha
+      label: COF.stats.cha.label
+      abbrev: COF.stats.cha.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+  attacks:
+    melee:
+      key: melee
+      label: COF.attacks.melee.label
+      abbrev: COF.attacks.melee.abbrev
+      stat: '@stats.str.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    ranged:
+      key: ranged
+      label: COF.attacks.ranged.label
+      abbrev: COF.attacks.ranged.abbrev
+      stat: '@stats.dex.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    magic:
+      key: magic
+      label: COF.attacks.magic.label
+      abbrev: COF.attacks.magic.abbrev
+      stat: '@stats.int.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+  description: >-
+    <h1>Description</h1><p><strong>Prêtre</strong> de niveau
+    10</p><p><strong>Milieu : </strong><p>marais</p>
+  attributes:
+    hp:
+      key: hp
+      label: COF.attributes.hp.label
+      abbrev: COF.attributes.hp.abbrev
+      base: 110
+      bonus: 0
+      value: 110
+      max: 110
+    def:
+      key: def
+      label: COF.attributes.def.label
+      abbrev: COF.attributes.def.abbrev
+      base: 18
+      bonus: 0
+      malus: 0
+      value: 18
+    init:
+      key: init
+      label: COF.attributes.init.label
+      abbrev: COF.attributes.init.abbrev
+      base: 16
+      bonus: 0
+      malus: 0
+      value: 16
+    dr:
+      key: dr
+      label: COF.attributes.dr.label
+      abbrev: COF.attributes.dr.abbrev
+      enabled: false
+      base:
+        value: 0
+        ignored: ''
+      bonus:
+        value: 0
+        ignored: ''
+      value: 0
+    rp:
+      key: rp
+      label: COF.attributes.rp.label
+      abbrev: COF.attributes.rp.abbrev
+      enabled: false
+      base: 5
+      bonus: 0
+      value: 5
+      max: 5
+    fp:
+      key: fp
+      label: COF.attributes.fp.label
+      abbrev: COF.attributes.fp.abbrev
+      enabled: false
+      base: 3
+      bonus: 0
+      value: 3
+      max: 3
+    mp:
+      key: mp
+      label: COF.attributes.mp.label
+      abbrev: COF.attributes.mp.abbrev
+      enabled: false
+      base: 0
+      bonus: 0
+      value: 0
+      max: 0
+    hd:
+      key: hd
+      label: COF.attributes.hd.label
+      abbrev: COF.attributes.hd.abbrev
+      value: 1d4
+    overload:
+      key: over
+      label: COF.attributes.over.label
+      abbrev: COF.attributes.over.abbrev
+      misc: 0
+    madness:
+      key: fp
+      label: COF.attributes.madness.label
+      abbrev: COF.attributes.madness.abbrev
+      enabled: false
+      base: 0
+      value: 0
+  currency:
+    pp:
+      key: pp
+      label: COF.currency.pp.label
+      abbrev: COF.currency.pp.abbrev
+      qty: 0
+    gp:
+      key: gp
+      label: COF.currency.gp.label
+      abbrev: COF.currency.gp.abbrev
+      qty: 0
+    sp:
+      key: sp
+      label: COF.currency.sp.label
+      abbrev: COF.currency.sp.abbrev
+      qty: 0
+    cp:
+      key: cp
+      label: COF.currency.cp.label
+      abbrev: COF.currency.cp.abbrev
+      qty: 0
+  alert:
+    type: error
+    msg: ''
+  details:
+    gender: ''
+    age: ''
+    weight: ''
+    height: ''
+    eyes: ''
+    hair: ''
+    size: big
+    senses: ''
+    languages:
+      value: []
+      custom: ''
+  settings:
+    combat:
+      folded: []
+    inventory:
+      folded: []
+    capacities:
+      folded: []
+    effects:
+      folded: []
+  moduleData: {}
+  key: naga-bon
+  nc:
+    key: nc
+    label: COF.attributes.nc.label
+    abbrev: COF.attributes.nc.abbrev
+    value: 9
+  weapons:
+    - name: Morsure
+      mod: 20
+      dmg: 2d6+8 + venin
+    - name: Attaque magique
+      mod: 18
+      dmg: ''
+  capacities:
+    - name: Venin
+      type: creature
+      description: >-
+        la victime doit réussir un test de CON difficulté 14 ou être
+        <em>Affaiblie</em>. Si la victime est déjà Affaiblie par le venin, un
+        échec lors d’une nouvelle morsure, la fait sombrer dans l’inconscience
+        pour 1d6 tours. Un troisième échec signifie 1d6 heures d’inconscience.
+  paths:
+    - key: voie-de-la-foi-1
+    - key: voie-de-la-foi-2
+    - key: voie-de-la-foi-3
+    - key: voie-de-la-foi-4
+    - key: voie-de-la-guerre-sainte-1
+    - key: voie-de-la-guerre-sainte-2
+    - key: voie-de-la-guerre-sainte-3
+    - key: voie-de-la-guerre-sainte-4
+    - key: voie-de-la-guerre-sainte-5
+    - key: voie-des-soins-1
+    - key: voie-des-soins-2
+    - key: voie-des-soins-3
+    - key: voie-des-soins-4
+  boss:
+    rank: 1
+    type: rapide
+  families:
+    - name: Nagas
+      key: nagas
+      description: >-
+        <h1>Description</h1><p>Le naga est un énorme serpent à tête humaine (4
+        mètre pour 200kg), un puissant esprit de la magie aux motivations
+        étranges et souvent incompréhensibles pour les mortels. Les nagas sont
+        quasi-immortels et leur savoir dépasse l’entendement, ils sont
+        généralement liés à un lieu sacré qu’ils gardent et leur apparence ainsi
+        que leurs pouvoirs s’accordent à la nature mystique de l’endroit.</p>
+  archetype: standard
+  category: vivante
+prototypeToken:
+  flags: {}
+  name: Naga bon
+  displayName: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    alpha: 1
+    animation:
+      speed: 5
+      intensity: 5
+      type: null
+      reverse: false
+    negative: false
+    priority: 0
+    color: null
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+  texture:
+    src: /modules/cof-srd/ui/icons/creature.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  alpha: 1
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+folder: null
+_key: '!actors!rjO963OprpfcPWOo'

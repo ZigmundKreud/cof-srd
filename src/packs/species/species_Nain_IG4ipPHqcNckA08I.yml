@@ -1,0 +1,87 @@
+_id: IG4ipPHqcNckA08I
+name: Nain
+type: species
+flags: {}
+img: /modules/cof-srd/ui/icons/species/nain.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: nain
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Nain est petit mais robuste. C&eacute;l&egrave;bre pour sa barbe, il
+    aime les profondeurs de la terre, dont il extrait des m&eacute;taux et des
+    pierres pr&eacute;cieuses. Isol&eacute;, il est g&eacute;n&eacute;ralement
+    ouvert et chaleureux, mais la soci&eacute;t&eacute; naine peut
+    para&icirc;tre s&eacute;v&egrave;re car le travail et
+    l&rsquo;entra&icirc;nement militaire y sont des obligations.</p>
+
+    <p>Pr&eacute;jug&eacute;s typiques : les Nains aiment amasser de l&rsquo;or
+    et boire de la bi&egrave;re en compagnie d&rsquo;autres Nains. Ils sont un
+    peu rustres et tr&egrave;s susceptibles, un Nain peut se mettre en
+    col&egrave;re et devenir violent pour des raisons qui semblent
+    &eacute;tranges voire futiles &agrave; un autre peuple&hellip;</p>
+
+    <p><strong>&Acirc;ge de d&eacute;part</strong> :&nbsp;40+</p>
+
+    <p><strong>Long&eacute;vit&eacute;</strong> :&nbsp;250 ans</p>
+
+    <p><strong>Taille</strong> :&nbsp;1.15 m &agrave; 1.35 m</p>
+
+    <p><strong>Poids</strong> :&nbsp;50 kg &agrave; 100 kg</p>
+
+    <p><strong>Morphologie</strong> :&nbsp;Robuste et trapu. Pilosit&eacute;
+    tr&egrave;s d&eacute;velopp&eacute;e, tresses dans les cheveux et la barbe,
+    bijoux et piercing.</p>
+
+    <h2>Noms</h2>
+
+    <p>Les Nains ont des pr&eacute;noms courts et percutants, les principales
+    terminaisons sont en &ndash;IN, -UN, -IK, ou &ndash;IR, mais il en existe
+    d&rsquo;autres. Suit g&eacute;n&eacute;ralement le nom de leur clan,
+    qu&rsquo;ils traduisent en langue commune pour mettre en avant
+    l&rsquo;id&eacute;e qu&rsquo;il v&eacute;hicule. Chez les femmes, la
+    terminaison en &ndash;HILD ou -ID est la plus courante.</p>
+
+    <h2>Racial</h2>
+
+    <p>-2 DEX, +2 CON</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  bonuses:
+    str: 0
+    dex: -2
+    con: 2
+    int: 0
+    wis: 0
+    cha: 0
+  paths:
+    - _id: oCuoXOZHFbxm0urE
+      name: Voie du nain
+      img: /modules/cof-srd/ui/icons/paths/voie-du-nain.webp
+      sourceId: Compendium.cof-srd.paths.oCuoXOZHFbxm0urE
+  capacities:
+    - _id: e4bI6a2UWQy9bgDW
+      name: Vision dans le noir
+      img: /modules/cof-srd/ui/icons/capacities/vision-dans-le-noir.webp
+      sourceId: Compendium.cof-srd.capacities.e4bI6a2UWQy9bgDW
+  racial: ''
+  age: ''
+  longevity: ''
+  height: ''
+  weight: ''
+folder: null
+sort: 0
+_key: '!items!IG4ipPHqcNckA08I'

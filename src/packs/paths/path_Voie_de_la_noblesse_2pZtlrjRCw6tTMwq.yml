@@ -1,0 +1,54 @@
+_id: 2pZtlrjRCw6tTMwq
+name: Voie de la noblesse
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-noblesse.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-noblesse
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 7EtXuuyEdgQjFTMQ
+      name: Eduqué
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-noblesse-1.webp
+      sourceId: Compendium.cof-srd.capacities.7EtXuuyEdgQjFTMQ
+    - _id: sJLyfoRSLre66gMd
+      name: Autorité naturelle
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-noblesse-2.webp
+      sourceId: Compendium.cof-srd.capacities.sJLyfoRSLre66gMd
+    - _id: nAyaJhHcog0UlEN8
+      name: Ecuyer
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-noblesse-3.webp
+      sourceId: Compendium.cof-srd.capacities.nAyaJhHcog0UlEN8
+    - _id: c2Mit6N9K3qxn402
+      name: Massacrer la piétaille
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-noblesse-4.webp
+      sourceId: Compendium.cof-srd.capacities.c2Mit6N9K3qxn402
+    - _id: VQQ143SyGodGpCFj
+      name: Formation d'élite
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-noblesse-5.webp
+      sourceId: Compendium.cof-srd.capacities.VQQ143SyGodGpCFj
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!2pZtlrjRCw6tTMwq'

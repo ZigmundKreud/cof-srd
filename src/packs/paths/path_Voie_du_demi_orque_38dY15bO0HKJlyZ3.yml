@@ -1,0 +1,55 @@
+_id: 38dY15bO0HKJlyZ3
+name: Voie du demi-orque
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-demi-orque.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-demi-orque
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 5brDaA9dx5LMrkPW
+      name: Force de la nature
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-demi-orque-1.webp
+      sourceId: Compendium.cof-srd.capacities.5brDaA9dx5LMrkPW
+    - _id: ZqEbRQpwfESfdzvv
+      name: Talent pour la violence
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-demi-orque-2.webp
+      sourceId: Compendium.cof-srd.capacities.ZqEbRQpwfESfdzvv
+    - _id: zkkF2KNguaUSRZI2
+      name: Critique brutal
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-demi-orque-3.webp
+      sourceId: Compendium.cof-srd.capacities.zkkF2KNguaUSRZI2
+    - _id: SaPzoa7TcsL9OzeK
+      name: Attaque sanglante
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-demi-orque-4.webp
+      sourceId: Compendium.cof-srd.capacities.SaPzoa7TcsL9OzeK
+    - _id: RaoVaNeSlsAOEohF
+      name: Colosse
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-demi-orque-5.webp
+      sourceId: Compendium.cof-srd.capacities.RaoVaNeSlsAOEohF
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+  species: demi-orque
+folder: null
+sort: 0
+_key: '!items!38dY15bO0HKJlyZ3'

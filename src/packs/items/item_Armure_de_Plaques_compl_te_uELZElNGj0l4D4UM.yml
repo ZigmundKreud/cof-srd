@@ -1,0 +1,97 @@
+_id: uELZElNGj0l4D4UM
+name: Armure de Plaques complète
+type: item
+flags: {}
+img: modules/cof-srd/ui/icons/items/plaque-complete.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: ''
+  description: >-
+    <h1>Description</h1><p>Très rare. Fabriquée sur mesure, seul le profil de
+    Chevalier est formé au port de cette armure au niveau 1.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  def: 8
+  defBase: 8
+  defBonus: 0
+  dr: 0
+  dmg: ''
+  dmgBase: ''
+  dmgStat: ''
+  dmgBonus: 0
+  mod: 0
+  skill: ''
+  skillBonus: 0
+  critrange: '20'
+  hands: 1
+  range: 0
+  reload: ''
+  worn: false
+  slot: chest
+  qty: 1
+  stacksize: null
+  deleteWhen0: false
+  price: 200
+  value: 0
+  rarity: very-rare
+  properties:
+    predilection: false
+    ranged: false
+    equipable: true
+    stackable: false
+    activable: false
+    unique: false
+    tailored: true
+    2H: false
+    proficient: false
+    finesse: false
+    equipment: true
+    weapon: false
+    protection: true
+    reloadable: false
+    bow: false
+    crossbow: false
+    powder: false
+    throwing: false
+    dr: false
+    sneak: false
+    powerful: false
+    critscience: false
+    specialization: false
+    effects: false
+    13strmin: false
+    bashing: false
+    sling: false
+    spell: false
+    consumable: false
+    very-rare: false
+    2h: false
+  effects:
+    heal:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+    buff:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+  subtype: armor
+folder: null
+sort: 0
+_key: '!items!uELZElNGj0l4D4UM'

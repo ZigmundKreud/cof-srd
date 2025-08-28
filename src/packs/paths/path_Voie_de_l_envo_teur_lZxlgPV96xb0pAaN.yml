@@ -1,0 +1,56 @@
+_id: lZxlgPV96xb0pAaN
+name: Voie de l'envoûteur
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-l-envouteur.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-envouteur
+  description: >-
+    <h1>Note</h1><p>si une victime résiste à un sort de cette voie, elle y est
+    immunisée pendant 24h.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: bDw3TjVwuDX5fLlo
+      name: Injonction
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-1.webp
+      sourceId: Compendium.cof-srd.capacities.bDw3TjVwuDX5fLlo
+    - _id: CtQypotgwD2Vt7PA
+      name: Sommeil
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-2.webp
+      sourceId: Compendium.cof-srd.capacities.CtQypotgwD2Vt7PA
+    - _id: 3hypo7wzbVgYObAw
+      name: Confusion
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-3.webp
+      sourceId: Compendium.cof-srd.capacities.3hypo7wzbVgYObAw
+    - _id: zgmJuGtXtMnEtW4t
+      name: Amitié
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-4.webp
+      sourceId: Compendium.cof-srd.capacities.zgmJuGtXtMnEtW4t
+    - _id: VV3GSWOC8y614bxJ
+      name: Domination
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-5.webp
+      sourceId: Compendium.cof-srd.capacities.VV3GSWOC8y614bxJ
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!lZxlgPV96xb0pAaN'

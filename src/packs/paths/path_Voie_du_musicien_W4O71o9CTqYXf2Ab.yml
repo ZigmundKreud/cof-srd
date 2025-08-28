@@ -1,0 +1,54 @@
+_id: W4O71o9CTqYXf2Ab
+name: Voie du musicien
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-musicien.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-musicien
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: J8NeWfjUqmnDFzno
+      name: Chant des héros
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-1.webp
+      sourceId: Compendium.cof-srd.capacities.J8NeWfjUqmnDFzno
+    - _id: 31ux5zryEbXnJqnq
+      name: Attaque sonore
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-2.webp
+      sourceId: Compendium.cof-srd.capacities.31ux5zryEbXnJqnq
+    - _id: Q1C3SOnYNs1Cmad3
+      name: Zone de silence
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-3.webp
+      sourceId: Compendium.cof-srd.capacities.Q1C3SOnYNs1Cmad3
+    - _id: xOLM5W9LzzHEtvBM
+      name: Danse irrésistible
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-4.webp
+      sourceId: Compendium.cof-srd.capacities.xOLM5W9LzzHEtvBM
+    - _id: rNZHFBMqvohJu48Z
+      name: Musique fascinante
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-5.webp
+      sourceId: Compendium.cof-srd.capacities.rNZHFBMqvohJu48Z
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!W4O71o9CTqYXf2Ab'

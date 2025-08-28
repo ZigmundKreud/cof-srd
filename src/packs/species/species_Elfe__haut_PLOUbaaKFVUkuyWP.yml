@@ -1,0 +1,86 @@
+_id: PLOUbaaKFVUkuyWP
+name: Elfe, haut
+type: species
+flags: {}
+img: /modules/cof-srd/ui/icons/species/haut-elfe.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: haut-elfe
+  description: >-
+    <h1>Description</h1>
+
+    <p>Le Haut-elfe est un &ecirc;tre f&eacute;erique qui vit extr&ecirc;mement
+    longtemps. Il est m&eacute;prisant envers les Nains et arrogant envers les
+    autres races. Proche de la nature, il ma&icirc;trise aussi bien les arts de
+    la magie que ceux de la guerre.</p>
+
+    <p>Pr&eacute;jug&eacute;s typiques : les Elfes se croient sup&eacute;rieurs
+    &agrave; tous les autres, ce sont de puissants magiciens mais leur
+    c&oelig;ur est sans piti&eacute;. Ils ob&eacute;issent &agrave; de
+    tr&egrave;s anciennes r&egrave;gles et &agrave; des serments
+    incompr&eacute;hensibles pour les Races &agrave; l&rsquo;esp&eacute;rance de
+    vie ordinaire.</p>
+
+    <p><strong>&Acirc;ge de d&eacute;part</strong> :&nbsp;80+</p>
+
+    <p><strong>Long&eacute;vit&eacute;</strong> :&nbsp;450 ans</p>
+
+    <p><strong>Taille</strong> :&nbsp;1.50 m &agrave; 1.80 m</p>
+
+    <p><strong>Poids</strong> :&nbsp;40 kg &agrave; 70 kg</p>
+
+    <p><strong>Morphologie</strong> :&nbsp;Svelte et gracieux. Oreilles
+    pointues, yeux en amandes (verts, violets), cheveux parfois blancs, argent
+    ou or, pilosit&eacute; absente.</p>
+
+    <h2>Noms</h2>
+
+    <p>Les Hauts-elfes privil&eacute;gient les noms aux sonorit&eacute;s douces
+    mais complexes. L, W, N et M sont les consonnes dominantes et les voyelles
+    sont souvent doubles (i&euml;, a&euml;). Les noms f&eacute;minins finissent
+    par -wen, -w&euml;, -i&euml;, -a&euml;l ou &ndash;a&euml;lle. Ceux des
+    hommes par des terminaisons aux sonorit&eacute;s plus tranch&eacute;es comme
+    -dir, -dur, -dor ou -dil.</p>
+
+    <h2>Racial</h2>
+
+    <p>-2 FOR, +2 CHA</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  bonuses:
+    str: -2
+    dex: 0
+    con: 0
+    int: 0
+    wis: 0
+    cha: 2
+  paths:
+    - _id: Ax95ays7Dcw2kDFS
+      name: Voie du haut-elfe
+      img: /modules/cof-srd/ui/icons/paths/voie-du-haut-elfe.webp
+      sourceId: Compendium.cof-srd.paths.Ax95ays7Dcw2kDFS
+  capacities:
+    - _id: dKYtHvoyFmF0Y8g4
+      name: Lumière des étoiles
+      img: /modules/cof-srd/ui/icons/capacities/lumiere-des-etoiles.webp
+      sourceId: Compendium.cof-srd.capacities.dKYtHvoyFmF0Y8g4
+  racial: ''
+  age: ''
+  longevity: ''
+  height: ''
+  weight: ''
+folder: null
+sort: 0
+_key: '!items!PLOUbaaKFVUkuyWP'

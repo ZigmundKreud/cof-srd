@@ -1,0 +1,1138 @@
+_id: rb2s1r6LAJQBL7vt
+name: Elémentaire d’eau, colossal
+type: encounter
+sort: 100001
+flags: {}
+img: /modules/cof-srd/ui/icons/creature.webp
+items:
+  - _id: 3eI7AfIwdf3prCSP
+    name: Vision dans le noir (Elémentaire d’eau, colossal)
+    type: capacity
+    sort: 100000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/vision-dans-le-noir-elementaire-deau-colossal.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: vision-dans-le-noir-elementaire-deau-colossal
+      description: >-
+        <h1>Description</h1><p>un élémentaire peut voir dans le noir à 30
+        mètres.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rb2s1r6LAJQBL7vt.3eI7AfIwdf3prCSP'
+  - _id: 2FrflQPyeRRg4sbx
+    name: Localisation (Elémentaire d’eau, colossal)
+    type: capacity
+    sort: 200000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/localisation-elementaire-deau-colossal.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: localisation-elementaire-deau-colossal
+      description: >-
+        <h1>Description</h1><p>un élémentaire peut déterminer la localisation de
+        toute créature en contact avec leur élément à moins de 30 mètres, même
+        si celle-ci est invisible.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rb2s1r6LAJQBL7vt.2FrflQPyeRRg4sbx'
+  - _id: oKckkILX7Ng9osZQ
+    name: Cyclone (Elémentaire d’eau, colossal)
+    type: capacity
+    sort: 300000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/cyclone-elementaire-deau-colossal.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: cyclone-elementaire-deau-colossal
+      description: >-
+        <h1>Description</h1><p>une fois par combat, un élémentaire peut se
+        transformer en tourbillon de matière élémentaire. Pendant [1d4+1] tours,
+        il peut se déplacer à travers les créatures et les objets à la vitesse
+        de 30 mètres par tour. Toute créature sur son passage doit faire un test
+        de DEX ou de FOR au choix de difficulté [10 + Mod. de FOR de
+        l’élémentaire]. En cas d’échec, la cible subit automatiquement les DM de
+        base de l’élémentaire (selon la taille) et elle est <em>renversée</em>
+        au sol (si sa taille ne dépasse pas celle de l’élémentaire). En cas de
+        succès, elle ne subit que la moitié des DM et peut rester debout.
+        Lorsqu’il est sous forme de cyclone, l’élémentaire gagne un bonus de +5
+        en DEF.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rb2s1r6LAJQBL7vt.oKckkILX7Ng9osZQ'
+  - _id: hnCahL2japWievrL
+    name: Immunité (Elémentaire d’eau, colossal)
+    type: capacity
+    sort: 400000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/immunite-elementaire-deau-colossal.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: immunite-elementaire-deau-colossal
+      description: >-
+        <h1>Description</h1><p>les élémentaires d’eau sont immunisés aux DM
+        d’acide.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rb2s1r6LAJQBL7vt.hnCahL2japWievrL'
+  - _id: it6i9UEI3ekmvwbs
+    name: Mode d’attaque (Elémentaire d’eau, colossal)
+    type: capacity
+    sort: 500000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/mode-dattaque-elementaire-deau-colossal.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: mode-dattaque-elementaire-deau-colossal
+      description: >-
+        <h1>Description</h1><p>l’élémentaire d’eau percute l’adversaire ou le
+        noie.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rb2s1r6LAJQBL7vt.it6i9UEI3ekmvwbs'
+  - _id: 45pviOmekJmcKsGM
+    name: Avantages (Elémentaire d’eau, colossal)
+    type: capacity
+    sort: 600000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/avantages-elementaire-deau-colossal.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: avantages-elementaire-deau-colossal
+      description: >-
+        <h1>Description</h1><p>l’élémentaire d’eau obtient un bonus de +10 PV
+        (pris en compte dans le profil).</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rb2s1r6LAJQBL7vt.45pviOmekJmcKsGM'
+  - _id: TWxxalJsj3H0pvbI
+    name: Réduction des <strong>DM</strong>
+    type: capacity
+    sort: 700000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: reduction-des-lessstronggreaterdmlessstronggreater
+      description: >-
+        <h1>Description</h1><p>La créature est peu sensible aux
+        <strong>DM</strong> provoqués par les armes, le métal rebondi sur elle
+        comme un vulgaire morceau de bois ou alors la créature guérit
+        immédiatement. Elle obtient une réduction des <strong>DM</strong> (RD)
+        de 5, ce score est retranché à tous les <strong>DM</strong> subits.
+        Choisissez un type d’arme qui ignore cette réduction : un certain métal
+        ou un certain type d’armes ou encore la magie (armes et sorts). Par
+        exemple les masses sur un squelette ou les armes en argent sur un
+        lycanthrope. Vous pouvez augmenter cette réduction des
+        <strong>DM</strong> à 10 au rang 2 et à 15 au rang 3.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rb2s1r6LAJQBL7vt.TWxxalJsj3H0pvbI'
+  - _id: AqsPsZVUyDYy3DTj
+    name: Fauchage
+    type: capacity
+    sort: 800000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-colosse-1.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: fauchage
+      description: >-
+        <h1>Description</h1><p>Sur 15 à 20 au test d’attaque, si l’attaque est
+        réussie, la victime doit réussir au choix un test de
+        <strong>FOR</strong> ou de <strong>DEX</strong> difficulté [10+Mod. de
+        <strong>FOR</strong> de la créature] ou être Renversée. La créature
+        retranche 2 à tous les <strong>DM</strong> subis (RD 2) avec des armes
+        (contact ou distance). Les sorts font des <strong>DM</strong>
+        normaux.</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rb2s1r6LAJQBL7vt.AqsPsZVUyDYy3DTj'
+  - _id: Q8cWUxU0IkY8jbDZ
+    name: Balayage
+    type: capacity
+    sort: 900000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-colosse-2.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: balayage
+      description: >-
+        <h1>Description</h1><p>La créature utilise sa grande taille pour
+        affecter plusieurs créatures face à elle d’un seul coup de patte/arme.
+        Si plusieurs cibles sont présentes face à elle, son attaque affecte deux
+        créatures (dans un arc de 180°). Faire un seul test d’attaque  et le
+        comparer à la <strong>DEF</strong> de chaque cible. Sa résistance aux
+        <strong>DM</strong> passe à 4 (RD 4).</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rb2s1r6LAJQBL7vt.Q8cWUxU0IkY8jbDZ'
+  - _id: S344vN4knjWmELwC
+    name: Projection
+    type: capacity
+    sort: 1000000
+    flags: {}
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-colosse-3.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: projection
+      description: >-
+        <h1>Description</h1><p>Sur 15 à 20 au test d’attaque, la victime est
+        projetée à [1d6+1] mètres de là (plus ou moins selon la taille des
+        protagonistes) et subit +3d6 <strong>DM</strong> supplémentaires. Elle
+        doit réussir un test de <strong>CON</strong> de difficulté 15 ou être
+        Etourdie. A chaque tour elle peut tenter un nouveau test de
+        <strong>CON</strong> pour retrouver ses esprits. Sa résistance aux
+        <strong>DM</strong> passe à 6 (RD 6).</p>
+      source: Chroniques Oubliées DRS
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!rb2s1r6LAJQBL7vt.S344vN4knjWmELwC'
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  stats:
+    str:
+      key: str
+      label: COF.stats.str.label
+      abbrev: COF.stats.str.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 15
+      value: 10
+      tmpmod: null
+      superior: true
+      skillbonus: 0
+      skillmalus: 0
+    dex:
+      key: dex
+      label: COF.stats.dex.label
+      abbrev: COF.stats.dex.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 0
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    con:
+      key: con
+      label: COF.stats.con.label
+      abbrev: COF.stats.con.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 15
+      value: 10
+      tmpmod: null
+      superior: true
+      skillbonus: 0
+      skillmalus: 0
+    int:
+      key: int
+      label: COF.stats.int.label
+      abbrev: COF.stats.int.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: -2
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    wis:
+      key: wis
+      label: COF.stats.wis.label
+      abbrev: COF.stats.wis.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 0
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    cha:
+      key: cha
+      label: COF.stats.cha.label
+      abbrev: COF.stats.cha.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 0
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+  attacks:
+    melee:
+      key: melee
+      label: COF.attacks.melee.label
+      abbrev: COF.attacks.melee.abbrev
+      stat: '@stats.str.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    ranged:
+      key: ranged
+      label: COF.attacks.ranged.label
+      abbrev: COF.attacks.ranged.abbrev
+      stat: '@stats.dex.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    magic:
+      key: magic
+      label: COF.attacks.magic.label
+      abbrev: COF.attacks.magic.abbrev
+      stat: '@stats.int.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+  description: >-
+    <h1>Description</h1><p><em>Aucune description
+    fournie.</em></p><p><strong>Milieu : </strong><p>spécial</p>
+  attributes:
+    hp:
+      key: hp
+      label: COF.attributes.hp.label
+      abbrev: COF.attributes.hp.abbrev
+      base: 230
+      bonus: 0
+      value: 230
+      max: 230
+    def:
+      key: def
+      label: COF.attributes.def.label
+      abbrev: COF.attributes.def.abbrev
+      base: 28
+      bonus: 0
+      malus: 0
+      value: 28
+    init:
+      key: init
+      label: COF.attributes.init.label
+      abbrev: COF.attributes.init.abbrev
+      base: 10
+      bonus: 0
+      malus: 0
+      value: 10
+    dr:
+      key: dr
+      label: COF.attributes.dr.label
+      abbrev: COF.attributes.dr.abbrev
+      enabled: true
+      base:
+        value: 6
+        ignored: ''
+      bonus:
+        value: 5
+        ignored: magie
+      value: 11
+    rp:
+      key: rp
+      label: COF.attributes.rp.label
+      abbrev: COF.attributes.rp.abbrev
+      enabled: false
+      base: 5
+      bonus: 0
+      value: 5
+      max: 5
+    fp:
+      key: fp
+      label: COF.attributes.fp.label
+      abbrev: COF.attributes.fp.abbrev
+      enabled: false
+      base: 3
+      bonus: 0
+      value: 3
+      max: 3
+    mp:
+      key: mp
+      label: COF.attributes.mp.label
+      abbrev: COF.attributes.mp.abbrev
+      enabled: false
+      base: 0
+      bonus: 0
+      value: 0
+      max: 0
+    hd:
+      key: hd
+      label: COF.attributes.hd.label
+      abbrev: COF.attributes.hd.abbrev
+      value: 1d4
+    overload:
+      key: over
+      label: COF.attributes.over.label
+      abbrev: COF.attributes.over.abbrev
+      misc: 0
+    madness:
+      key: fp
+      label: COF.attributes.madness.label
+      abbrev: COF.attributes.madness.abbrev
+      enabled: false
+      base: 0
+      value: 0
+  currency:
+    pp:
+      key: pp
+      label: COF.currency.pp.label
+      abbrev: COF.currency.pp.abbrev
+      qty: 0
+    gp:
+      key: gp
+      label: COF.currency.gp.label
+      abbrev: COF.currency.gp.abbrev
+      qty: 0
+    sp:
+      key: sp
+      label: COF.currency.sp.label
+      abbrev: COF.currency.sp.abbrev
+      qty: 0
+    cp:
+      key: cp
+      label: COF.currency.cp.label
+      abbrev: COF.currency.cp.abbrev
+      qty: 0
+  alert:
+    type: error
+    msg: ''
+  details:
+    gender: ''
+    age: ''
+    weight: ''
+    height: ''
+    eyes: ''
+    hair: ''
+    size: colossal
+    senses: ''
+    languages:
+      value: []
+      custom: ''
+  settings:
+    combat:
+      folded: []
+    inventory:
+      folded: []
+    capacities:
+      folded: []
+    effects:
+      folded: []
+  moduleData: {}
+  key: elementaire-eau-colossal
+  nc:
+    key: nc
+    label: COF.attributes.nc.label
+    abbrev: COF.attributes.nc.abbrev
+    value: 14
+  weapons:
+    - name: Coup
+      mod: 23
+      dmg: 4d6+17
+  capacities:
+    - name: Vision dans le noir
+      type: creature
+      description: un élémentaire peut voir dans le noir à 30 mètres.
+    - name: Localisation
+      type: creature
+      description: >-
+        un élémentaire peut déterminer la localisation de toute créature en
+        contact avec leur élément à moins de 30 mètres, même si celle-ci est
+        invisible.
+    - name: Cyclone (L)
+      type: creature
+      description: >-
+        une fois par combat, un élémentaire peut se transformer en tourbillon de
+        matière élémentaire. Pendant [1d4+1] tours, il peut se déplacer à
+        travers les créatures et les objets à la vitesse de 30 mètres par tour.
+        Toute créature sur son passage doit faire un test de DEX ou de FOR au
+        choix de difficulté [10 + Mod. de FOR de l’élémentaire]. En cas d’échec,
+        la cible subit automatiquement les DM de base de l’élémentaire (selon la
+        taille) et elle est <em>renversée</em> au sol (si sa taille ne dépasse
+        pas celle de l’élémentaire). En cas de succès, elle ne subit que la
+        moitié des DM et peut rester debout. Lorsqu’il est sous forme de
+        cyclone, l’élémentaire gagne un bonus de +5 en DEF.
+    - name: Immunité
+      type: creature
+      description: les élémentaires d’eau sont immunisés aux DM d’acide.
+    - name: Mode d’attaque
+      type: creature
+      description: l’élémentaire d’eau percute l’adversaire ou le noie.
+    - name: Avantages
+      type: creature
+      description: >-
+        l’élémentaire d’eau obtient un bonus de +10 PV (pris en compte dans le
+        profil).
+  paths:
+    - key: voie-des-creatures-magiques-1
+      note: (RD 5 / magie)
+    - key: voie-du-colosse-1
+    - key: voie-du-colosse-2
+    - key: voie-du-colosse-3
+  boss:
+    rank: 1
+    type: null
+  families:
+    - name: Elémentaires
+      key: elementaires
+      description: >-
+        <h1>Description</h1><p>Les élémentaires sont les incarnations des quatre
+        éléments primordiaux : le feu, l’eau, la terre et l’air. Ils peuvent
+        être invoqués par magie et se manifestent dans notre monde sous la forme
+        d’une créature au buste vaguement humanoïde mêlée à un tourbillon de
+        matière élémentaire.</p><p>Tous les élémentaires partagent les capacités
+        suivantes :<br> <em>Ils voient dans le noir</em> à 30 mètres et ils
+        peuvent déterminer la localisation de toute créature en contact avec
+        leur élément à moins de 30 mètres, même si celle-ci est invisible.<br>
+        <em>Cyclone (L) :</em> une fois par combat, un élémentaire peut se
+        transformer en tourbillon de matière élémentaire. Pendant [1d4+1] tours,
+        il peut se déplacer à travers les créatures et les objets à la vitesse
+        de 30 mètres par tour. Toute créature sur son passage doit faire un test
+        de DEX ou de FOR au choix de difficulté [10 + Mod. de FOR de
+        l’élémentaire]. En cas d’échec, la cible subit automatiquement les DM de
+        base de l’élémentaire (selon la taille) et elle est <em>renversée</em>
+        au sol (si sa taille ne dépasse pas celle de l’élémentaire). En cas de
+        succès, elle ne subit que la moitié des DM et peut rester debout.
+        Lorsqu’il est sous forme de cyclone, l’élémentaire gagne un bonus de +5
+        en DEF.</p>
+  archetype: standard
+  category: non-vivante
+prototypeToken:
+  flags: {}
+  name: Elémentaire d’eau, colossal
+  displayName: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    alpha: 1
+    animation:
+      speed: 5
+      intensity: 5
+      type: null
+      reverse: false
+    negative: false
+    priority: 0
+    color: null
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+  texture:
+    src: /modules/cof-srd/ui/icons/creature.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  alpha: 1
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+folder: null
+_key: '!actors!rb2s1r6LAJQBL7vt'

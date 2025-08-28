@@ -1,0 +1,71 @@
+name: Puissance du ki
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-5.webp
+_id: XH9xOZpLQAoBZ8JV
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: puissance-du-ki
+  description: >-
+    <h1>Description</h1><p>Le Moine peut choisir d’utiliser 1d12 en attaque au
+    lieu du d20 habituel (et il ajoute normalement son score d’attaque). Si
+    l’attaque est réussie, il ajoute 2d6 aux <strong>DM</strong>. Cette capacité
+    peut être utilisée avec Déluge de coups ou Projection du ki par exemple.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!XH9xOZpLQAoBZ8JV'

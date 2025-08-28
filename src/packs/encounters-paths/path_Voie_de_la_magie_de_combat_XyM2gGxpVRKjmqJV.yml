@@ -1,0 +1,49 @@
+_id: XyM2gGxpVRKjmqJV
+name: Voie de la magie de combat
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-de-combat.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-la-magie-de-combat
+  description: >-
+    <h1>Note</h1><p>Les créatures dotées de cette voie obtiennent au choix
+    l’<strong>INT</strong>, la <strong>SAG</strong> ou le CHA en  Carac.
+    Supérieure.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: izdcR6ApAw8VEfVp
+      name: Attaque magique
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-combat-1.webp
+      sourceId: Compendium.cof-srd.capacities.izdcR6ApAw8VEfVp
+    - _id: iqX0NnTraMnO9vJW
+      name: Armure magique
+      img: systems/cof/ui/icons/capacities/voie-de-la-magie-de-combat-2.webp
+      sourceId: Compendium.cof-srd.capacities.iqX0NnTraMnO9vJW
+    - _id: uHw1JZ9YYP7xRE7q
+      name: Déplacement magique
+      img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-combat-3.webp
+      sourceId: Compendium.cof-srd.capacities.uHw1JZ9YYP7xRE7q
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!XyM2gGxpVRKjmqJV'

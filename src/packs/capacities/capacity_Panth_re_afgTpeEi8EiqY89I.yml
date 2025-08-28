@@ -1,0 +1,73 @@
+name: Panthère
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-2.webp
+_id: afgTpeEi8EiqY89I
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: panthere
+  description: >-
+    <h1>Description</h1><p>Le Druide apprivoise une panthère (ou un puma) qui
+    lui obéit au doigt et à l'œil. Panthère : <strong>FOR</strong> +2,
+    <strong>DEX</strong> +4*, <strong>CON</strong> +2, <strong>INT</strong> -3,
+    <strong>SAG</strong> +2*, <strong>CHA</strong> -2, Init 18,
+    <strong>DEF</strong> 16, PV [niveau x 4], Attaque au contact [niveau du
+    druide], <strong>DM</strong> 1d6+2</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!afgTpeEi8EiqY89I'

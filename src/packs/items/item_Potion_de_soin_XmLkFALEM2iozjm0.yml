@@ -1,0 +1,98 @@
+_id: XmLkFALEM2iozjm0
+name: Potion de soin
+type: item
+img: modules/cof-srd/ui/icons/items/potion-de-soin.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: ''
+  description: <h1>Description</h1><p>Soigne 1d8 PV (Soumis à autorisation du MJ).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  def: 0
+  defBase: 0
+  defBonus: 0
+  dr: 0
+  dmg: ''
+  dmgBase: ''
+  dmgStat: ''
+  dmgBonus: 0
+  mod: 0
+  skill: ''
+  skillBonus: 0
+  critrange: '20'
+  hands: 1
+  range: 0
+  reload: ''
+  worn: false
+  slot: ''
+  qty: 1
+  stacksize: null
+  deleteWhen0: false
+  price: 10
+  value: 10
+  rarity: rare
+  properties:
+    predilection: false
+    ranged: false
+    equipable: false
+    stackable: true
+    activable: false
+    unique: false
+    tailored: false
+    2H: false
+    proficient: false
+    finesse: false
+    equipment: true
+    weapon: false
+    protection: false
+    reloadable: false
+    bow: false
+    crossbow: false
+    powder: false
+    throwing: false
+    dr: false
+    sneak: false
+    powerful: false
+    critscience: false
+    specialization: false
+    effects: true
+    13strmin: false
+    bashing: false
+    sling: false
+    spell: false
+    consumable: true
+    2h: false
+    heal: true
+    buff: false
+    temporary: false
+    persistent: false
+  effects:
+    heal:
+      formula: 1d8
+      persistent: false
+      duration:
+        value: null
+        units: null
+    buff:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+  subtype: trapping
+_key: '!items!XmLkFALEM2iozjm0'

@@ -1,0 +1,85 @@
+_id: qEkfGRVry9QzL2Zh
+name: Elfe, sylvain
+type: species
+flags: {}
+img: /modules/cof-srd/ui/icons/species/elfe-sylvain.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: elfe-sylvain
+  description: >-
+    <h1>Description</h1>
+
+    <p>L&rsquo;Elfe sylvain est issu d&rsquo;une culture diff&eacute;rente de
+    celle des Hauts-elfes. L&eacute;g&egrave;rement plus petits, ils vivent au
+    plus profond des for&ecirc;ts, s&rsquo;abritant dans les arbres et vivant
+    simplement de la chasse et de la cueillette. Moins arrogants que leurs
+    cousins Hauts-elfes, ils sont cependant beaucoup plus m&eacute;fiants. Ils
+    maitrisent particuli&egrave;rement l&rsquo;art du camouflage et
+    l&rsquo;utilisation de l&rsquo;arc.</p>
+
+    <p>Pr&eacute;jug&eacute;s typiques : les Elfes sylvains sont de redoutables
+    archers, ils d&eacute;testent les cit&eacute;s et les gens qui y vivent, ils
+    peuvent tuer d&rsquo;une fl&egrave;che dans le dos un paysan juste parce
+    qu&rsquo;il a coup&eacute; le mauvais arbre.</p>
+
+    <p><strong>&Acirc;ge de d&eacute;part</strong> :&nbsp;50+</p>
+
+    <p><strong>Long&eacute;vit&eacute;</strong> :&nbsp;350 ans</p>
+
+    <p><strong>Taille</strong> :&nbsp;1.40 m &agrave; 1.70 m</p>
+
+    <p><strong>Poids</strong> :&nbsp;30 kg &agrave; 60 kg</p>
+
+    <p><strong>Morphologie</strong> : Svelte et muscl&eacute;. Oreilles
+    pointues, yeux en amandes (verts, violets), cheveux sombres, tatouages,
+    pilosit&eacute; absente.</p>
+
+    <h2>Noms</h2>
+
+    <p>Les Elfes sylvains ont des noms assez similaires aux Hauts-elfes, mais
+    plus simples. Chez les femmes, la derni&egrave;re consonne ou la
+    derni&egrave;re voyelle est doubl&eacute;e. Chez les hommes les terminaisons
+    -din, -dor, -ion sont plus privil&eacute;gi&eacute;es.</p>
+
+    <h2>Racial</h2>
+
+    <p>-2 FOR, +2 DEX</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  bonuses:
+    str: -2
+    dex: 2
+    con: 0
+    int: 0
+    wis: 0
+    cha: 0
+  paths:
+    - _id: OGMU9hR3ZMiNj7Xb
+      name: Voie de l'elfe sylvain
+      img: /modules/cof-srd/ui/icons/paths/voie-de-l-elfe-sylvain.webp
+      sourceId: Compendium.cof-srd.paths.OGMU9hR3ZMiNj7Xb
+  capacities:
+    - _id: dKYtHvoyFmF0Y8g4
+      name: Lumière des étoiles
+      img: /modules/cof-srd/ui/icons/capacities/lumiere-des-etoiles.webp
+      sourceId: Compendium.cof-srd.capacities.dKYtHvoyFmF0Y8g4
+  racial: ''
+  age: ''
+  longevity: ''
+  height: ''
+  weight: ''
+folder: null
+sort: 0
+_key: '!items!qEkfGRVry9QzL2Zh'

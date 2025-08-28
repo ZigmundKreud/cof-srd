@@ -1,0 +1,102 @@
+_id: 7ZWHgruGSw5YP5qo
+name: Epée bâtarde (2M)
+type: item
+img: modules/cof-srd/ui/icons/items/epee-batarde-(2m).webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: ''
+  description: >-
+    <p>DM</p>
+
+    <p>1d8 à une main @Compendium[cof-srd.items.URC8p7jFy52JmglF]{Ep&eacute;e
+    b&acirc;tarde},</p>
+
+    <p>1d12 à 2 mains @Compendium[cof-srd.items.7ZWHgruGSw5YP5qo]{Ep&eacute;e
+    b&acirc;tarde (2M)}</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  def: 0
+  defBase: 0
+  defBonus: 0
+  dr: 0
+  dmg: ''
+  dmgBase: 1d12
+  dmgStat: '@stats.str.mod'
+  dmgBonus: 0
+  mod: 0
+  skill: '@attacks.melee.mod'
+  skillBonus: 0
+  critrange: '20'
+  hands: '2'
+  range: 0
+  reload: ''
+  worn: false
+  slot: hand
+  qty: 1
+  stacksize: null
+  deleteWhen0: false
+  price: 9
+  value: 9
+  rarity: common
+  properties:
+    predilection: false
+    ranged: false
+    equipable: true
+    stackable: false
+    activable: false
+    unique: false
+    tailored: false
+    2H: true
+    proficient: false
+    finesse: false
+    equipment: true
+    weapon: true
+    protection: false
+    reloadable: false
+    bow: false
+    crossbow: false
+    powder: false
+    throwing: false
+    dr: false
+    sneak: false
+    powerful: false
+    critscience: false
+    specialization: false
+    effects: false
+    13strmin: false
+    bashing: false
+    sling: false
+    spell: false
+    consumable: false
+    two-handed: false
+    2h: true
+  effects:
+    heal:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+    buff:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+  subtype: melee
+_key: '!items!7ZWHgruGSw5YP5qo'

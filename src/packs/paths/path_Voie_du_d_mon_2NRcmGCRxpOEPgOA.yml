@@ -1,0 +1,54 @@
+_id: 2NRcmGCRxpOEPgOA
+name: Voie du démon
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-demon.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-demon
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: 7NrRUaR5shPqFGin
+      name: Malédiction
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-1.webp
+      sourceId: Compendium.cof-srd.capacities.7NrRUaR5shPqFGin
+    - _id: CDo5TN96Uilc7m7t
+      name: Aspect de la succube
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-2.webp
+      sourceId: Compendium.cof-srd.capacities.CDo5TN96Uilc7m7t
+    - _id: 4FjC42Z4iqvOG3Zb
+      name: Pacte sanglant
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-3.webp
+      sourceId: Compendium.cof-srd.capacities.4FjC42Z4iqvOG3Zb
+    - _id: Nt6KarxOVQpr5v87
+      name: Aspect du démon
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-4.webp
+      sourceId: Compendium.cof-srd.capacities.Nt6KarxOVQpr5v87
+    - _id: ARkV8q8SfnchScPS
+      name: Invocation d'un démon
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-5.webp
+      sourceId: Compendium.cof-srd.capacities.ARkV8q8SfnchScPS
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!2NRcmGCRxpOEPgOA'

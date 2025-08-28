@@ -1,0 +1,105 @@
+_id: dPCsOXjFKAlG2UGL
+name: Flèche enflammée
+type: item
+flags: {}
+img: /modules/cof-srd/ui/icons/spells/fleche-enflammee.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: ''
+  description: >-
+    <h1>Description</h1><p>Le Magicien choisit une cible située à moins de 30
+    mètres. Si son attaque magique réussit, la cible encaisse [1d6 + Mod.
+    d'<strong>INT</strong>] <strong>DM</strong> et la flèche enflamme ses
+    vêtements. Chaque tour de combat suivant, le feu inflige 1d6 dégâts
+    supplémentaires. Sur un résultat de 1 à 2, les flammes s'éteignent et le
+    sort prend fin.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  def: 0
+  defBase: 0
+  defBonus: 0
+  dr: 0
+  dmg: ''
+  dmgBase: 1d6
+  dmgStat: '@stats.int.mod'
+  dmgBonus: 0
+  mod: 0
+  skill: '@attacks.magic.mod'
+  skillBonus: 0
+  critrange: '20'
+  hands: '2'
+  range: 30
+  reload: ''
+  worn: false
+  slot: ''
+  qty: 1
+  stacksize: null
+  deleteWhen0: false
+  price: 0
+  value: 0
+  rarity: common
+  properties:
+    predilection: false
+    ranged: true
+    equipable: false
+    stackable: false
+    activable: false
+    unique: false
+    tailored: false
+    2H: false
+    proficient:
+      - true
+      - true
+    finesse: false
+    equipment: false
+    weapon: true
+    protection: false
+    reloadable: false
+    bow: false
+    crossbow: false
+    powder: false
+    throwing: false
+    dr: false
+    sneak: false
+    powerful: false
+    critscience: false
+    specialization: false
+    effects: false
+    13strmin: false
+    bashing: false
+    sling: false
+    spell:
+      - true
+      - true
+    consumable: false
+    two-handed: false
+    very-rare: false
+  effects:
+    heal:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+    buff:
+      formula: null
+      persistent: false
+      duration:
+        value: null
+        units: null
+  subtype: spell
+folder: null
+sort: 0
+_key: '!items!dPCsOXjFKAlG2UGL'

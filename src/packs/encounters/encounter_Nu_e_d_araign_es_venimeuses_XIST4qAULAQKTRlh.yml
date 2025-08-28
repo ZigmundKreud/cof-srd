@@ -1,0 +1,692 @@
+_id: XIST4qAULAQKTRlh
+name: Nuée d’araignées venimeuses
+type: encounter
+sort: 100001
+flags: {}
+img: /modules/cof-srd/ui/icons/creature.webp
+items:
+  - _id: cflX9prFSm8ChKgV
+    name: Lent (Nuée d’araignées venimeuses)
+    type: capacity
+    sort: 100000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/lent-nuee-daraignees-venimeuses.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: lent-nuee-daraignees-venimeuses
+      description: >-
+        <h1>Description</h1><p>la nuée est un adversaire redoutable mais
+        heureusement elle ne se déplace que de 15 mètres par action de
+        mouvement, ce qui permet à la plupart des créatures de lui échapper
+        simplement en courant vite !</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!XIST4qAULAQKTRlh.cflX9prFSm8ChKgV'
+  - _id: AnDckl9BgCbpAeIJ
+    name: Recouvrir (Nuée d’araignées venimeuses)
+    type: capacity
+    sort: 200000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/recouvrir-nuee-daraignees-venimeuses.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: recouvrir-nuee-daraignees-venimeuses
+      description: >-
+        <h1>Description</h1><p>la nuée peut recouvrir sa proie après avoir
+        réussi une attaque de contact contre sa cible. Dès lors, la cible est
+        distraite, déséquilibrée et victime d’innombrables morsures. La nuée lui
+        inflige automatiquement 1d6 DM par tour et la victime est
+        <em>Affaiblie</em> tant que la nuée n’est pas vaincue.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: true
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!XIST4qAULAQKTRlh.AnDckl9BgCbpAeIJ'
+  - _id: dm2XvDzhHGxDW52m
+    name: Poison (Nuée d’araignées venimeuses)
+    type: capacity
+    sort: 300000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/poison-nuee-daraignees-venimeuses.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: poison-nuee-daraignees-venimeuses
+      description: >-
+        <h1>Description</h1><p>à chaque tour où elle est blessée par la nuée, la
+        victime doit réussir un test de CON difficulté 10 ou sombrer dans
+        l’inconscience tandis que la nuée continue à la dévorer…</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!XIST4qAULAQKTRlh.dm2XvDzhHGxDW52m'
+  - _id: 30JIuNmOnMrRON1P
+    name: Cibles multiples (Nuée d’araignées venimeuses)
+    type: capacity
+    sort: 400000
+    flags: {}
+    img: >-
+      /modules/cof-srd/ui/icons/encounter-capacities/cibles-multiples-nuee-daraignees-venimeuses.webp
+    effects: []
+    _stats:
+      coreVersion: '12.343'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    system:
+      key: cibles-multiples-nuee-daraignees-venimeuses
+      description: >-
+        <h1>Description</h1><p>la nuée est constituée de très nombreuses cibles
+        et les attaques conventionnelles lui infligent peu de DM. Les attaques
+        de zone lui infligent des DM normaux mais tous les DM par des armes de
+        contact ou à distance ne lui infligent qu’un seul point de DM par
+        attaque réussie.</p>
+      source: ''
+      moduleData: {}
+      type: null
+      summary: ''
+      rank: null
+      path: ''
+      checked: false
+      limited: false
+      spell: false
+      ranged: false
+      limitedUsage: false
+      save: false
+      activable: false
+      heal: false
+      attack: false
+      useMacro: false
+      buff: false
+      noXpCost: false
+      properties:
+        ranged:
+          range: ''
+          radius: ''
+        limitedUsage:
+          use: 0
+          maxUse: 0
+        save:
+          stat: ''
+          difficulty: ''
+          text: ''
+        heal:
+          formula: null
+        attack:
+          skill: ''
+          skillBonus: ''
+          difficulty: null
+          dmgBase: ''
+          dmgStat: ''
+        macro:
+          name: null
+          id: null
+          pack: null
+        buff:
+          activated: false
+    folder: null
+    ownership:
+      default: 0
+    _key: '!actors.items!XIST4qAULAQKTRlh.30JIuNmOnMrRON1P'
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  e5k1c8Ak50IsdTnY: 3
+system:
+  stats:
+    str:
+      key: str
+      label: COF.stats.str.label
+      abbrev: COF.stats.str.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 0
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    dex:
+      key: dex
+      label: COF.stats.dex.label
+      abbrev: COF.stats.dex.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 4
+      value: 10
+      tmpmod: null
+      superior: true
+      skillbonus: 0
+      skillmalus: 0
+    con:
+      key: con
+      label: COF.stats.con.label
+      abbrev: COF.stats.con.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 0
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    int:
+      key: int
+      label: COF.stats.int.label
+      abbrev: COF.stats.int.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: -4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    wis:
+      key: wis
+      label: COF.stats.wis.label
+      abbrev: COF.stats.wis.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: 0
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+    cha:
+      key: cha
+      label: COF.stats.cha.label
+      abbrev: COF.stats.cha.abbrev
+      base: 10
+      racial: 0
+      bonus: 0
+      mod: -4
+      value: 10
+      tmpmod: null
+      superior: false
+      skillbonus: 0
+      skillmalus: 0
+  attacks:
+    melee:
+      key: melee
+      label: COF.attacks.melee.label
+      abbrev: COF.attacks.melee.abbrev
+      stat: '@stats.str.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    ranged:
+      key: ranged
+      label: COF.attacks.ranged.label
+      abbrev: COF.attacks.ranged.abbrev
+      stat: '@stats.dex.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+    magic:
+      key: magic
+      label: COF.attacks.magic.label
+      abbrev: COF.attacks.magic.abbrev
+      stat: '@stats.int.mod'
+      enabled: true
+      base: 1
+      bonus: 0
+      malus: 0
+      mod: 1
+      dmBonus: 0
+  description: >-
+    <h1>Description</h1><p><em>Aucune description
+    fournie.</em></p><p><strong>Milieu : </strong><p>forêt</p>
+  attributes:
+    hp:
+      key: hp
+      label: COF.attributes.hp.label
+      abbrev: COF.attributes.hp.abbrev
+      base: 6
+      bonus: 0
+      value: 6
+      max: 6
+    def:
+      key: def
+      label: COF.attributes.def.label
+      abbrev: COF.attributes.def.abbrev
+      base: 16
+      bonus: 0
+      malus: 0
+      value: 16
+    init:
+      key: init
+      label: COF.attributes.init.label
+      abbrev: COF.attributes.init.abbrev
+      base: 18
+      bonus: 0
+      malus: 0
+      value: 18
+    dr:
+      key: dr
+      label: COF.attributes.dr.label
+      abbrev: COF.attributes.dr.abbrev
+      enabled: false
+      base:
+        value: 0
+        ignored: ''
+      bonus:
+        value: 0
+        ignored: ''
+      value: 0
+    rp:
+      key: rp
+      label: COF.attributes.rp.label
+      abbrev: COF.attributes.rp.abbrev
+      enabled: false
+      base: 5
+      bonus: 0
+      value: 5
+      max: 5
+    fp:
+      key: fp
+      label: COF.attributes.fp.label
+      abbrev: COF.attributes.fp.abbrev
+      enabled: false
+      base: 3
+      bonus: 0
+      value: 3
+      max: 3
+    mp:
+      key: mp
+      label: COF.attributes.mp.label
+      abbrev: COF.attributes.mp.abbrev
+      enabled: false
+      base: 0
+      bonus: 0
+      value: 0
+      max: 0
+    hd:
+      key: hd
+      label: COF.attributes.hd.label
+      abbrev: COF.attributes.hd.abbrev
+      value: 1d4
+    overload:
+      key: over
+      label: COF.attributes.over.label
+      abbrev: COF.attributes.over.abbrev
+      misc: 0
+    madness:
+      key: fp
+      label: COF.attributes.madness.label
+      abbrev: COF.attributes.madness.abbrev
+      enabled: false
+      base: 0
+      value: 0
+  currency:
+    pp:
+      key: pp
+      label: COF.currency.pp.label
+      abbrev: COF.currency.pp.abbrev
+      qty: 0
+    gp:
+      key: gp
+      label: COF.currency.gp.label
+      abbrev: COF.currency.gp.abbrev
+      qty: 0
+    sp:
+      key: sp
+      label: COF.currency.sp.label
+      abbrev: COF.currency.sp.abbrev
+      qty: 0
+    cp:
+      key: cp
+      label: COF.currency.cp.label
+      abbrev: COF.currency.cp.abbrev
+      qty: 0
+  alert:
+    type: error
+    msg: ''
+  details:
+    gender: ''
+    age: ''
+    weight: ''
+    height: ''
+    eyes: ''
+    hair: ''
+    size: med
+    senses: ''
+    languages:
+      value: []
+      custom: ''
+  settings:
+    combat:
+      folded: []
+    inventory:
+      folded: []
+    capacities:
+      folded: []
+    effects:
+      folded: []
+  moduleData: {}
+  key: nuee-araignees-venimeuses
+  nc:
+    key: nc
+    label: COF.attributes.nc.label
+    abbrev: COF.attributes.nc.abbrev
+    value: 3
+  weapons:
+    - name: Attaque
+      mod: 5
+      dmg: 1d6 (poison)
+  capacities:
+    - name: Lent
+      type: creature
+      description: >-
+        la nuée est un adversaire redoutable mais heureusement elle ne se
+        déplace que de 15 mètres par action de mouvement, ce qui permet à la
+        plupart des créatures de lui échapper simplement en courant vite !
+    - name: Recouvrir (L)
+      type: creature
+      description: >-
+        la nuée peut recouvrir sa proie après avoir réussi une attaque de
+        contact contre sa cible. Dès lors, la cible est distraite, déséquilibrée
+        et victime d’innombrables morsures. La nuée lui inflige automatiquement
+        1d6 DM par tour et la victime est <em>Affaiblie</em> tant que la nuée
+        n’est pas vaincue.
+    - name: Poison
+      type: creature
+      description: >-
+        à chaque tour où elle est blessée par la nuée, la victime doit réussir
+        un test de CON difficulté 10 ou sombrer dans l’inconscience tandis que
+        la nuée continue à la dévorer…
+    - name: Cibles multiples
+      type: creature
+      description: >-
+        la nuée est constituée de très nombreuses cibles et les attaques
+        conventionnelles lui infligent peu de DM. Les attaques de zone lui
+        infligent des DM normaux mais tous les DM par des armes de contact ou à
+        distance ne lui infligent qu’un seul point de DM par attaque réussie.
+  paths: []
+  boss:
+    rank: null
+    type: null
+  families:
+    - name: Nuées
+      key: nuees
+      description: >-
+        <h1>Description</h1><p>Une nuée est un regroupement de très nombreuses
+        petites créatures qui ne représentent de réel danger prises de façon
+        individuelle mais peuvent s’avérer redoutables dans le cas d’une vague
+        de plusieurs dizaines voire de centaines d’individus.</p><p><em>Lent
+        :</em> la nuée est un adversaire redoutable mais heureusement elle ne se
+        déplace que de 15 mètres par action de mouvement, ce qui permet à la
+        plupart des créatures de lui échapper simplement en courant vite
+        !</p><p><em>Recouvrir (L) :</em> la nuée peut recouvrir sa proie après
+        avoir réussi une attaque de contact contre sa cible. Dès lors, la cible
+        est distraite, déséquilibrée et victime d’innombrables morsures. La nuée
+        lui inflige automatiquement 1d6 DM par tour et la victime est
+        <em>Affaiblie</em> tant que la nuée n’est pas vaincue.</p><p><em>Cibles
+        multiples :</em> la nuée est constituée de très nombreuses cibles et les
+        attaques conventionnelles lui infligent peu de DM. Les attaques de zone
+        lui infligent des DM normaux mais tous les DM par des armes de contact
+        ou à distance ne lui infligent qu’un seul point de DM par attaque
+        réussie.</p>
+  archetype: rapide
+  category: vivante
+prototypeToken:
+  flags: {}
+  name: Nuée d’araignées venimeuses
+  displayName: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    alpha: 1
+    animation:
+      speed: 5
+      intensity: 5
+      type: null
+      reverse: false
+    negative: false
+    priority: 0
+    color: null
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+  texture:
+    src: /modules/cof-srd/ui/icons/creature.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  alpha: 1
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+folder: null
+_key: '!actors!XIST4qAULAQKTRlh'

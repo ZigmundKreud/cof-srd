@@ -1,0 +1,77 @@
+name: Désintégration
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-des-arcanes-5.webp
+_id: 9cwnf0IiaI0KDSlH
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: desintegration
+  description: >-
+    <h1>Description</h1><p>Le Magicien projette un rayon mortel dont la portée
+    est de 20 mètres et qui annule la cohésion de la matière, ne laissant
+    derrière lui qu'un amas de poussière. Un test d'attaque magique réussi
+    permet de toucher une créature et d'infliger [5d6 + Mod.
+    d'<strong>INT</strong>] <strong>DM</strong>. Si le magicien vise un objet
+    porté par une créature, le jet d'attaque subit un malus de -5. Les objets
+    magiques sont insensibles à ce sort, les objets normaux sont réduits en
+    poussière. Aucun objet de plus de 50 kg ne peut être affecté par ce sort :
+    inutile donc de tenter de creuser un tunnel par ce biais. En revanche, vous
+    pourrez ainsi désintégrer une porte (ou même une pierre dans un mur).</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!9cwnf0IiaI0KDSlH'

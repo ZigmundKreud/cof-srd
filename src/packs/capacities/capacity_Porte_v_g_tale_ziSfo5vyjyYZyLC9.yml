@@ -1,0 +1,71 @@
+name: Porte végétale
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-des-vegetaux-5.webp
+_id: ziSfo5vyjyYZyLC9
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: porte-vegetale
+  description: >-
+    <h1>Description</h1><p>Une fois par jour, le Druide peut pénétrer dans le
+    tronc d'un gros arbre et sortir de celui d'un autre arbre appartenant à la
+    même forêt et situé à une distance maximum de [Mod. de <strong>SAG</strong>]
+    x 10 km.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: true
+  spell: true
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!ziSfo5vyjyYZyLC9'

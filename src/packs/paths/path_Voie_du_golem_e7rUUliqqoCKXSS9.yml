@@ -1,0 +1,54 @@
+_id: e7rUUliqqoCKXSS9
+name: Voie du golem
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-du-golem.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-golem
+  description: ''
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+    - _id: gK4ZinhyfSe2XdQ5
+      name: Grosse tête
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-1.webp
+      sourceId: Compendium.cof-srd.capacities.gK4ZinhyfSe2XdQ5
+    - _id: Lgdhsa2pbEclvlEJ
+      name: Golem
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-2.webp
+      sourceId: Compendium.cof-srd.capacities.Lgdhsa2pbEclvlEJ
+    - _id: TiUSG9RbEkLA7qdM
+      name: Protecteur
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-3.webp
+      sourceId: Compendium.cof-srd.capacities.TiUSG9RbEkLA7qdM
+    - _id: nBbEJxE0DBhqmIl0
+      name: Golem supérieur
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-4.webp
+      sourceId: Compendium.cof-srd.capacities.nBbEJxE0DBhqmIl0
+    - _id: 3Dhmja0Tqw5SpXrF
+      name: Intelligence héroïque
+      img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-5.webp
+      sourceId: Compendium.cof-srd.capacities.3Dhmja0Tqw5SpXrF
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!e7rUUliqqoCKXSS9'
