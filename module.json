@@ -109,8 +109,8 @@
       "tag": "table"
     }
   ],
-  "url": "https://github.com/ZigmundKreud/cof-srd.git",
-  "manifest": "https://raw.githubusercontent.com/ZigmundKreud/cof-srd/main/module.json",
-  "download": "https://github.com/ZigmundKreud/cof-srd/archive/refs/tags/11.301.0.zip",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   "license": "licence.txt"
 }

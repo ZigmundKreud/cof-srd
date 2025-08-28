@@ -41,11 +41,11 @@ env:
   # FoundryVTT uses this URL to check whether the current module version that
   # is installed is the latest version. This URL should NOT change,
   # otherwise FoundryVTT won't be able to perform this check.
-  #latest_manifest_url: "https://github.com/${{github.repository}}/releases/latest/download/system.json"
+  latest_manifest_url: "https://github.com/${{github.repository}}/releases/latest/download/module.json"
 
   # The URL to the module archive associated with the module release being
   # processed by this workflow.
-  #release_module_url: "https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/system.zip"
+  release_module_url: "https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.zip"
 
 
 on:
@@ -99,7 +99,8 @@ jobs:
         env:
           VERSION: ${{steps.get_version.outputs.version-without-v}}
           URL: ${{ env.project_url }}
-          MANIFEST: "https://raw.githubusercontent.com/ZigmundKreud/cof-srd/main/module.json"
+          MANIFEST: ${{ env.latest_manifest_url }}
+          DOWNLOAD: ${{ env.release_module_url }}
 
       # `npm ci` is recommended:
       # https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
