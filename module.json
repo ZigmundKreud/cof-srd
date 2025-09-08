@@ -4,9 +4,9 @@
   "description": "Compendiums du SRD de Chroniques Oubliées Fantasy",
   "version": "#{VERSION}#",
   "compatibility": {
-    "minimum": 10,
-    "verified": "12",
-    "maximum": "12"
+    "minimum": 13,
+    "verified": 13,
+    "maximum": 13
   },
   "relationships": {
     "systems": [
@@ -14,7 +14,7 @@
         "id": "cof",
         "type": "system",
         "compatibility": {
-          "verified": "12.343.1"
+          "verified": "13.348.0"
         }
       }
     ]
@@ -34,7 +34,12 @@
       "system": "cof",
       "path": "./packs/capacities",
       "type": "Item",
-      "tag": "capacity"
+      "tag": "capacity",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "encounters",
@@ -42,7 +47,12 @@
       "system": "cof",
       "path": "./packs/encounters",
       "type": "Actor",
-      "tag": "encounter"
+      "tag": "encounter",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "encounters-capacities",
@@ -50,7 +60,12 @@
       "system": "cof",
       "path": "./packs/encounters-capacities",
       "type": "Item",
-      "tag": "capacity"
+      "tag": "capacity",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "encounters-paths",
@@ -58,7 +73,12 @@
       "system": "cof",
       "path": "./packs/encounters-paths",
       "type": "Item",
-      "tag": "path"
+      "tag": "path",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "items",
@@ -66,7 +86,12 @@
       "system": "cof",
       "path": "./packs/items",
       "type": "Item",
-      "tag": "item"
+      "tag": "item",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "paths",
@@ -74,7 +99,12 @@
       "system": "cof",
       "path": "./packs/paths",
       "type": "Item",
-      "tag": "path"
+      "tag": "path",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "profiles",
@@ -82,7 +112,12 @@
       "system": "cof",
       "path": "./packs/profiles",
       "type": "Item",
-      "tag": "profile"
+      "tag": "profile",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "species",
@@ -90,7 +125,12 @@
       "system": "cof",
       "path": "./packs/species",
       "type": "Item",
-      "tag": "species"
+      "tag": "species",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "spells",
@@ -98,7 +138,12 @@
       "system": "cof",
       "path": "./packs/spells",
       "type": "Item",
-      "tag": "spell"
+      "tag": "spell",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "tables",
@@ -106,7 +151,12 @@
       "system": "cof",
       "path": "./packs/tables",
       "type": "RollTable",
-      "tag": "table"
+      "tag": "table",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "url": "#{URL}#",

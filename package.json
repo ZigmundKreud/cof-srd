@@ -1,13 +1,24 @@
 {
+  "name": "cof-srd",
+  "version": "2.0.0",
+  "scripts": {
+    "css": "gulp css",
+    "watch": "gulp",
+    "gulp": "gulp",
+    "LDBtoYML": "node ./tools/LDBtoYML.mjs",
+    "YMLtoLDB": "node ./tools/YMLtoLDB.mjs"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ],
+  "author": "Kristov",
+  "license": "MIT",
+  "private": true,
   "dependencies": {
     "gulp": "^5.0.0",
     "gulp-less": "^5.0.0"
   },
   "devDependencies": {
-    "@foundryvtt/foundryvtt-cli": "^1.0.2"
-  },
-  "scripts": {
-    "LDBtoYML": "node ./tools/LDBtoYML.mjs",
-    "YMLtoLDB": "node ./tools/YMLtoLDB.mjs"
+    "@foundryvtt/foundryvtt-cli": "^3.0.0"
   }
 }

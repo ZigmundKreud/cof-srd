@@ -1,3 +1,5 @@
+## 13.348.0
+- Compatibilité V13.348
 ## 12.343.4
 - Correction build : répertoire ui manquant
 ## 12.343.3
