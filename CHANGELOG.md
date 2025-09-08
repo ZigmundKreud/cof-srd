@@ -1,3 +1,5 @@
+## 13.348.1
+- Correction création de la release
 ## 13.348.0
 - Compatibilité V13.348
 ## 12.343.4
